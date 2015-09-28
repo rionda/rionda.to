@@ -32,14 +32,14 @@ strong {
 #container_right_col {
 	clear: both;
 	float: right;
-    width: 16em;
-    border-left-style: dashed;
-    border-width: thin;
+	width: 16em;
+	border-left-style: dashed;
+	border-width: thin;
 }
 
 #container_left_col {
 	float: left;
-    width: 53.9em;
+	width: 53.9em;
 }
 
 #header {
@@ -49,9 +49,9 @@ strong {
 #side {
 	float: right;
 	width: 16em;
-    padding-left: 1em;
-    padding-right: 0.5em;
-    box-sizing: border-box;
+	padding-left: 1em;
+	padding-right: 0.5em;
+	box-sizing: border-box;
 }
 
 #side img {
@@ -99,11 +99,11 @@ strong {
 
 #footer {
 	margin-top: 1em;
-    border-top-style: dashed;
-    border-width: thin;
+	border-top-style: dashed;
+	border-width: thin;
 	padding-left: 0.5em;
 	padding-right: 0.5em;
-    box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 #footer p {
@@ -115,10 +115,10 @@ strong {
 
 #maincontent {
 	float: left;
-    padding-right: 0.5em;
-    padding-left: 0.5em;
-    width: 53.9em;
-    box-sizing: border-box; 
+	padding-right: 0.5em;
+	padding-left: 0.5em;
+	width: 53.9em;
+	box-sizing: border-box; 
 }
 
 #maincontent p {
@@ -133,7 +133,7 @@ strong {
 }
 
 #news {
-    box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 #news ul {

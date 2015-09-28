@@ -2,7 +2,7 @@
 		<!-- vim: set ts=2 sw=2 tw=79: -->
 				<p>I am a researcher in computer science, currently working in the
 				Labs group at <a href="http://www.twosigma.com/">Two Sigma</a>, an highly
-				innovative investments firm in New York City.</p>
+				innovative investment firm in New York City.</p>
 				<p>My research interest is in randomized algorithms and statistical methods
 				for pattern extraction, graph mining, and time series analysis.</p>
 
