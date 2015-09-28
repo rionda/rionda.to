@@ -7,7 +7,7 @@ body {
 
 a {
 	color: #AA0000;
-	text-decoration: dashed;
+	text-decoration: none;
 }
 
 a:hover {
@@ -32,14 +32,14 @@ strong {
 #container_right_col {
 	clear: both;
 	float: right;
-	width: 16em;
+	width: 19em;
 	border-left-style: dashed;
 	border-width: thin;
 }
 
 #container_left_col {
 	float: left;
-	width: 53.9em;
+	width: 50.9em;
 }
 
 #header {
@@ -48,7 +48,7 @@ strong {
 
 #side {
 	float: right;
-	width: 16em;
+	width: 19em;
 	padding-left: 1em;
 	padding-right: 0.5em;
 	box-sizing: border-box;
@@ -117,7 +117,7 @@ strong {
 	float: left;
 	padding-right: 0.5em;
 	padding-left: 0.5em;
-	width: 53.9em;
+	width: 50.9em;
 	box-sizing: border-box; 
 }
 
