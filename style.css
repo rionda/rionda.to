@@ -122,6 +122,7 @@ strong {
 }
 
 #maincontent p {
+
 }
 
 #maincontent a {
@@ -132,17 +133,18 @@ strong {
 	margin-bottom: 0.1em;
 }
 
-#news {
-	box-sizing: border-box;
+#maincontent h3 {
+	color: #AA0000;
+	margin-bottom: 0.1em;
 }
 
-#news ul {
+#maincontent ul {
 	list-style-type: none;
 	padding-left: 0px;
 	margin: 0px;
 }
 
-#news li {
+#maincontent li {
 	padding: 0.1em;
 }
 

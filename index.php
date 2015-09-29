@@ -10,21 +10,19 @@
 				results often involve the use of statistical learning theory and
 				sampling.</p>
 				<h2>News</h2>
-				<div id="news">
-					<ul>
-						<li><strong>CIKM'15:</strong> I'm presenting our <a
-						href="http://bigdata.cs.brown.edu/vctutorial">tutorial on
-						VC-Dimension and Rademacher Averages for sampling
-						algorithms</a>.</li>
-						<li><strong>Monash University:</strong> I'm giving a talk on
-							statistical learning theory and data mining.</li>
-						<li><strong>WWW'16:</strong> I'm a PC member for the Social Networks
-							and Graph Analysis area.</li>
-						<li><strong>Brown University:</strong> In Spring 2016, I will be
-							teaching <a
-							href="optmeth/">Optimization Methods in Finance</a>, in the <a
-							href="http://cs.brown.edu/">Department of Computer
-							Science</a>.</li>
-					</ul>
-				</div> <!-- end of news -->
+				<ul>
+					<li><strong>CIKM'15:</strong> I'm presenting our <a
+					href="http://bigdata.cs.brown.edu/vctutorial">tutorial on
+					VC-Dimension and Rademacher Averages for sampling
+					algorithms</a>.</li>
+					<li><strong>Monash University:</strong> I'm giving a talk on
+						statistical learning theory and data mining.</li>
+					<li><strong>WWW'16:</strong> I'm a PC member for the Social Networks
+						and Graph Analysis area.</li>
+					<li><strong>Brown University:</strong> In Spring 2016, I will be
+						teaching <a
+						href="optmeth/">Optimization Methods in Finance</a>, in the <a
+						href="http://cs.brown.edu/">Department of Computer
+						Science</a>.</li>
+				</ul>
 <?php include("footer.html"); ?>
