@@ -32,14 +32,14 @@ strong {
 #container_right_col {
 	clear: both;
 	float: right;
-	width: 19em;
+	width: 17em;
 	border-left-style: dashed;
 	border-width: thin;
 }
 
 #container_left_col {
 	float: left;
-	width: 50.9em;
+	width: 52.9em;
 }
 
 #header {
@@ -48,14 +48,14 @@ strong {
 
 #side {
 	float: right;
-	width: 19em;
+	width: 17em;
 	padding-left: 1em;
 	padding-right: 0.5em;
 	box-sizing: border-box;
 }
 
 #side img {
-	width: 13em;
+	width: 12em;
 }
 
 #side h2 {
@@ -117,7 +117,7 @@ strong {
 	float: left;
 	padding-right: 0.5em;
 	padding-left: 0.5em;
-	width: 50.9em;
+	width: 52.9em;
 	box-sizing: border-box; 
 }
 
