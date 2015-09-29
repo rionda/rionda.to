@@ -4,8 +4,8 @@
 				Labs group at <a href="http://www.twosigma.com/">Two Sigma</a>, an highly
 				innovative investment firm in New York City.</p>
 				<p>My research interest is in algorithmic data analysis. I develop
-				theory and algorithms to extract the most information from data, as
-				fast as possible and in a statistically sound way. The problems I study
+				algorithms to extract the most information from data, as fast as
+				possible and in a statistically sound way. The problems I study
 				include pattern extraction, graph mining, and time series analysis. My
 				results often involve the use of statistical learning theory and
 				sampling.</p>
