@@ -43,7 +43,7 @@
 			<p>M. Riondato. <a
 				href="papers/Riondato-SamplingDataMining-ECMLPKDD.pdf">Sampling-based
 				Data Mining Algorithms: Modern Techniques and Case Studies</a>,
-			<em>ECML PKDD'14</em> 2014.</p>
+			<em>ECML PKDD'14</em>, 2014</p>
 			<p>M. Riondato and F. Vandin. <a
 				href="papers/RiondatoVandin-TrueFrequentItemsets.pdf">Finding the True
 				Frequent Itemsets</a> <em>SIAM SDM'14</em>, 2014</p>
@@ -81,7 +81,7 @@
 			<p>M. Riondato and E. Upfal. <a
 				href="http://bigdata.cs.brown.edu/vctutorial/">VC-Dimension and
 				Rademacher Averages: From Statistical Learning Theory to Sampling
-			Algorithms</a>, ACM KDD'15, ECML PKDD'15, ACM CIKM'15</p>
+			Algorithms</a>, <em>ACM KDD'15, ECML PKDD'15, ACM CIKM'15</em></p>
 
 			<h3>Other technical writings</h3>
 			<p>M. Riondato, <a
