@@ -1,11 +1,14 @@
 <?php include("header.html"); ?>
-		<!-- vim: set ts=2 sw=2 tw=79: -->
+				<!-- vim: set ts=2 sw=2 tw=79: -->
 				<p>I am a researcher in computer science, currently working in the
 				Labs group at <a href="http://www.twosigma.com/">Two Sigma</a>, an highly
 				innovative investment firm in New York City.</p>
-				<p>My research interest is in randomized algorithms and statistical methods
-				for pattern extraction, graph mining, and time series analysis.</p>
-
+				<p>My research interest is in algorithmic data analysis. I develop
+				theory and algorithms to extract the most information from data, as
+				fast as possible and in a statistically sound way. The problems I study
+				include pattern extraction, graph mining, and time series analysis. My
+				results often involve the use of statistical learning theory and
+				sampling.</p>
 				<h2>News</h2>
 				<div id="news">
 					<ul>
