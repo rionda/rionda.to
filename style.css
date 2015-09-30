@@ -143,13 +143,47 @@ strong {
 	margin: 0px;
 }
 
-#maincontent ol {
-	margin: 0px;
-	padding-left: 2em;
+#journals {
+	counter-reset: pubs;
 }
 
+#conferences {
+	counter-reset: pubs 3;
+}
+
+#tutorials {
+	counter-reset: pubs 15;
+}
+
+#otherpubs {
+	counter-reset: pubs 16;
+}
+
+#pubs {
+	margin:0px;
+	padding:0px;
+}
+
+#pubs ol {
+	margin: 0px;
+	padding-left: 0em;
+}
+
+#pubs li {
+	display: block;
+}
+
+#pubs li:before { 
+	content: counter(pubs) ". "; 
+	counter-increment: pubs;}
+
 #maincontent li {
-	padding: 0.1em;
+	padding-top: 0.2em;
+}
+
+.notop {
+	padding-top: 0em;
+	margin-top: 0em;
 }
 
 .clear {
