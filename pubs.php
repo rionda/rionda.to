@@ -36,7 +36,7 @@
 				href="papers/AnagnostopoulosEtAl-ExpertsMaxFindingCrowdsourcing.pdf">The
 				Importance of Being Experts: Efficient Max-Finding in Crowdsourcing</a>,
 			<em>ACM SIGMOD'15</em>, 2015</p>
-			<p>M. Riondato, D. García-Soriano, and F. Bonchi. <a
+			<p>M. Riondato, D. Garc&iacute;a-Soriano, and F. Bonchi. <a
 				href="papers/RiondatoEtAl-GraphSummarization-ICDM.pdf">Graph
 				Summarization with Quality Guarantees</a>, <em>IEEE ICDM'14</em>,
 			2014</p>
