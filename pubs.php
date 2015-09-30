@@ -90,12 +90,14 @@
 			</ol>
 
 			<h3>Other technical writings</h3>
-			<li>M. Riondato, <a
+			<ol start=17>
+				<li>M. Riondato, <a
 					href="https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/jails.html">Jails</a>,
-			in <a href="http://www.freebsd.org/handbook">FreeBSD Handbook</a>.</li>
+				in <a href="http://www.freebsd.org/handbook">FreeBSD Handbook</a>.</li>
+			</ol>
 
 			<h3>Coauthors</h3>
-			<li><a href="http://www.cs.brown.edu/~makdere/">Mert Akdere</a>, <a
+			<ul><li><a href="http://www.cs.brown.edu/~makdere/">Mert Akdere</a>, <a
 				href="http://www/aris.me/">Aris Anagnostopoulos</a>, <a
 				href="http://www.dis.uniroma1.it/~becchett/">Luca Becchetti</a>, <a
 				href="http://www.francescobonchi.com">Francesco Bonchi</a>, <a
@@ -112,4 +114,5 @@
 				Silvestri</a>, <a href="http://www.cs.brown.edu/~eli">Eli Upfal</a>, <a
 				href="http://www.imada.sdu.dk/~vandinfa/">Fabio Vandin</a>, <a
 				href="http://www.cs.brown.edu/~sbz/">Stan B. Zdonik</a></li>
+		</ul>
 <?php include("footer.html"); ?>
