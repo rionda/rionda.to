@@ -116,7 +116,6 @@ strong {
 #maincontent {
 	float: left;
 	padding-right: 0.5em;
-	padding-left: 0.5em;
 	width: 52.9em;
 	box-sizing: border-box; 
 }
@@ -142,6 +141,11 @@ strong {
 	list-style-type: none;
 	padding-left: 0px;
 	margin: 0px;
+}
+
+#maincontent ol {
+	margin: 0px;
+	padding-left: 1em;
 }
 
 #maincontent li {
