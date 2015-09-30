@@ -2,7 +2,10 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Software</h2>
 		<p>My current projects are hosted on <a
-			href="http://github.com/rionda">GitHub</a>.</p>
+			href="http://github.com/rionda">GitHub</a>.<br />
+		I also contribute to <a
+		href="https://networkit.iti.kit.edu/">NetworKit</a> as a committer.</p>
+
 		<p><a href="radeprogrfi.tar.bz2">RadeProgrFI</a>: Mining Frequent Itemsets
 		through Progressive Sampling with Rademacher Averages</p>
 		<p><a href="centrsampl.tar.bz2">CentrSampl</a>: Fast Betweenness Centrality
@@ -13,7 +16,7 @@
 		inside <a
 			href="https://github.com/yahoo/samoa/wiki/Distributed-Stream-Frequent-Itemset-Mining">SAMOA</a>,
 		Yahoo's platform for Big Data streams analysis.</p>
-		<p>In my salad days, I used to be a <a
+		<p>In my salad days, I was a <a
 		href="http://www.FreeBSD.org">FreeBSD</a> committer, and the release
 		engineer for <a href="http://www.freesbie.org">FreeSBIE</a>.</p>
 <?php include("footer.html"); ?>
