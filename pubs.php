@@ -49,8 +49,8 @@
 						Data Mining Algorithms: Modern Techniques and Case Studies</a>,
 					<em>ECML PKDD'14</em>, 2014</li>
 					<li>M. Riondato and F. Vandin. <a
-						href="papers/RiondatoVandin-TrueFrequentItemsets.pdf">Finding the True
-						Frequent Itemsets</a> <em>SIAM SDM'14</em>, 2014</li>
+						href="papers/RiondatoVandin-TrueFrequentItemsets-SDM.pdf">Finding
+						the True Frequent Itemsets</a>, <em>SIAM SDM'14</em>, 2014</li>
 					<li>M. Riondato and E. M. Kornaropoulos. <a
 					href="papers/RiondatoKornaropoulos-BetweennessSampling-DMKD.pdf">Fast
 					Approximation of Betweenness Centrality through Sampling</a>, <em>ACM
@@ -60,7 +60,7 @@
 					Algorithm for Association Rules Mining in MapReduce</a>, <em>ACM
 					CIKM'12</em>, 2012</li>
 					<li>M. Riondato and E. Upfal. <a
-						href="papers/RiondatoUpdal-FrequentItemsetsSampling-TKDD.pdf">Efficient
+						href="papers/RiondatoUpfal-FrequentItemsetsSampling-TKDD.pdf">Efficient
 						Discovery of Association Rules and Frequent Itemsets through Sampling
 						with Tight Performance Guarantees</a>, <em>ECML PKDD'12</em>, 2012</li>
 					<li>* A. Pietracaprina, G. Pucci, M. Riondato, F. Silvestri, and E. Upfal.
