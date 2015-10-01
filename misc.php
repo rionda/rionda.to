@@ -9,4 +9,5 @@
 		<p><a href="http://www.ezioriondato.org">Ezio
 			Riondato</a>, my grandfather, also on Wikipedia: <a
 			href="http://it.wikipedia.org/wiki/Ezio_Riondato">Ezio Riondato</a></p>
+		<p><a href="https://en.wikipedia.org/wiki/Padua">Padua</a>, my hometown in Italy</p>
 <?php include("footer.html"); ?>
