@@ -9,7 +9,7 @@
 		Knowledge and Data Engineering</em> (TKDE), <em>IEEE Transactions on Network
 		Science and Engineering</em> (TNSE), <em>IEEE Transactions on Parallel and
 		Distributed Systems</em> (TPDS), <em>IEEE Transactions on Services
-		Computing</em> (TSC), <em>VLDB Journal</em></p>
+		Computing</em> (TSC), <em>VLDB Journal</em> (VLDBJ)</p>
 		<h3>Conference Reviewing</h3>
 		<p class="notop">WWW'16, ACM WSDM'16, ACM CIKM'15, ACM KDD'15, ISAAC'15,
 		SIAM SDM'15, ACM CIKM'14, DISC'14, ACM WSDM'14, WWW'14, ICALP'14, IEEE
