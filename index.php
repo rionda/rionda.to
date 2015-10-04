@@ -9,6 +9,12 @@
 				study include pattern extraction, graph mining, and time series
 				analysis. My algorithms often use concepts from statistical learning
 				theory and sampling.</p>
+				<p>My Erd&#337;s number is 3 (Erd&#337;s &rarr; Suen &rarr; Upfal
+				&rarr; Matteo), and I am a <a
+				href="http://genealogy.math.ndsu.nodak.edu/id.php?id=190626">mathematical
+				descendant</a> of Eli Upfal, Eli Shamir (2nd generation), Jacques
+				Hadamard (5th), Simeon Denis Poisson (9th generation) and Pierre-Simon
+				Laplace (10th generation).</p>
 				<h2>News</h2>
 				<ul>
 					<li><strong>CIKM'15:</strong> I'm presenting our <a
