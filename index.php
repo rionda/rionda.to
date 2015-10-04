@@ -14,7 +14,7 @@
 				href="http://genealogy.math.ndsu.nodak.edu/id.php?id=190626">mathematical
 				descendant</a> of Eli Upfal, Eli Shamir (2nd generation), Jacques
 				Hadamard (5th), Simeon Denis Poisson (9th generation) and Pierre-Simon
-				Laplace (10th generation).</p>
+				Laplace (10th).</p>
 				<h2>News</h2>
 				<ul>
 					<li><strong>CIKM'15:</strong> I'm presenting our <a
