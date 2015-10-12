@@ -31,7 +31,7 @@
 						href="optmeth/">Optimization Methods in Finance</a>, in the <a
 						href="http://cs.brown.edu/">Department of Computer
 						Science</a>.</li>
-					<li><strong>ACM WSDM'16:</strong> Our paper <em>Wiggins: Detectict Valuable
+					<li><strong>ACM WSDM'16:</strong> Our paper <em>Wiggins: Detecting Valuable
 					Information in Dynamic Networks with Limited resources</em> (joint
 					work with Eli Upfal and Ahmad Mahmoody) was accepted.</li>
 				</ul>
