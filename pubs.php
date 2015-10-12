@@ -31,7 +31,11 @@
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
-					<li class="pubs">M. Riondato and E. Upfal. <a
+					<li class="pubs">A. Mahmoody, M. Riondato, and E. Upfal. <a
+						href="">Wiggins: Detecting Valuable Information in Dynamic Networks
+						with Limited Resources</a>, to appear in <em>ACM WSDM'16</em>,
+						2016</li>
+					<li>M. Riondato and E. Upfal. <a
 						href="papers/RiondatoUpfal-FrequentItemsetsSamplingRademacher-KDD.pdf">Mining
 						Frequent Itemsets through Progressive Sampling with Rademacher
 						Averages</a>, <em>ACM KDD'15</em>, 2015</li>
@@ -109,7 +113,8 @@
 			href="http://www.cs.brown.edu/~rfonseca">Rodrigo Fonseca</a>, <a
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
 			Soriano</a>, <a href="http://www.cs.brown.edu/~evgenios">Evgenios M.
-			Kornaropoulos</a>, <a href="http://people.mpi-inf.mpg.de/~imele/">Ida
+			Kornaropoulos</a>, <a href="http://www.cs.brown.edu/~ahmad">Ahmad
+			Mahmoody</a>, <a href="http://people.mpi-inf.mpg.de/~imele/">Ida
 			Mele</a>, <a href="http://www.dei.unipd.it/~capri">Andrea
 			Pietracaprina</a>, <a href="http://www.dei.unipd.it/~geppo">Geppino
 			Pucci</a>, <a href="http://www.dei.unipd.it/~silvest1">Francesco

@@ -20,7 +20,7 @@
 					<li><strong>CIKM'15:</strong> On Friday 10/23, I'm presenting a <a
 					href="http://bigdata.cs.brown.edu/vctutorial">tutorial on
 					VC-Dimension and Rademacher Averages for sampling
-					algorithms</a>.</li>
+					algorithms</a> (joint work with Eli Upfal).</li>
 					<li><strong>Monash University:</strong> On Wednesday 10/28 I'm giving
 					a talk: <em>Travel pictures from another world: Statistical Learning
 					Theory meets Data Mining</em>.</li>
@@ -31,5 +31,8 @@
 						href="optmeth/">Optimization Methods in Finance</a>, in the <a
 						href="http://cs.brown.edu/">Department of Computer
 						Science</a>.</li>
+					<li><strong>ACM WSDM'16:</strong> Our paper <em>Wiggins: Detectict Valuable
+					Information in Dynamic Networks with Limited resources</em> (joint
+					work with Eli Upfal and Ahmad Mahmoody) was accepted.</li>
 				</ul>
 <?php include("footer.html"); ?>
