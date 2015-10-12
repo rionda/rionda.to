@@ -32,7 +32,7 @@
 						href="http://cs.brown.edu/">Department of Computer
 						Science</a>.</li>
 					<li><strong>ACM WSDM'16:</strong> Our paper <em>Wiggins: Detecting Valuable
-					Information in Dynamic Networks with Limited resources</em> (joint
+					Information in Dynamic Networks with Limited Resources</em> (joint
 					work with Eli Upfal and Ahmad Mahmoody) was accepted.</li>
 				</ul>
 <?php include("footer.html"); ?>
