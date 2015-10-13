@@ -2,7 +2,7 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Service</h2>
 		<h3>Program Committees</h3>
-		<p class="notop">WWW'16, ACM KDD'15, ACM CIKM'15, ACM CIKM'14</p>
+		<p class="notop">ACM KDD'16, WWW'16, ACM KDD'15, ACM CIKM'15, ACM CIKM'14</p>
 		<h3>Journal Reviewing</h3>
 		<p class="notop"><em>Data Mining and Knowledge Discovery</em> (DMKD/DAMI),
 		<em>Knowledge and Information Systems</em> (KAIS), <em>IEEE Transactions on

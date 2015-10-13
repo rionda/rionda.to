@@ -17,7 +17,7 @@
 				Laplace (10th).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>CIKM'15:</strong> On Friday 10/23, I'm presenting a <a
+					<li><strong>ACM CIKM'15:</strong> On Friday 10/23, I'm presenting a <a
 					href="http://bigdata.cs.brown.edu/vctutorial">tutorial on
 					VC-Dimension and Rademacher Averages for sampling
 					algorithms</a> (joint work with Eli Upfal).</li>
@@ -34,5 +34,7 @@
 					<li><strong>ACM WSDM'16:</strong> Our paper <em>Wiggins: Detecting Valuable
 					Information in Dynamic Networks with Limited Resources</em> (joint
 					work with Eli Upfal and Ahmad Mahmoody) was accepted.</li>
+					<li><strong>ACM KDD'16:</strong> I'm a PC member for the Research
+					track</li>
 				</ul>
 <?php include("footer.html"); ?>
