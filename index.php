@@ -35,6 +35,6 @@
 					Information in Dynamic Networks with Limited Resources</em> (joint
 					work with Eli Upfal and Ahmad Mahmoody) was accepted.</li>
 					<li><strong>ACM KDD'16:</strong> I'm a PC member for the Research
-					track</li>
+					track.</li>
 				</ul>
 <?php include("footer.html"); ?>
