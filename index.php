@@ -19,7 +19,7 @@
 				<ul>
 					<li><strong>DAMI/DMKD:</strong> Our paper <em>Graph Summarization
 						with Quality Guarantees</em> (joint work with David
-						Garc&iacute;-Soriano and Francesco Bonchi) was accepted for
+						Garc&iacute;a-Soriano and Francesco Bonchi) was accepted for
 						publication.</li>
 					<li><strong>Monash University:</strong> On Wednesday 10/28 I'm giving
 					a talk: <em>Travel pictures from another world: Statistical Learning

@@ -15,7 +15,7 @@
 			<div id="pubs">
 				<h3>Journal Articles</h3>
 				<ol id="journals">
-					<li>M. Riondato, D. Garc&iacute;-Soriano, and F. Bonchi. <a
+					<li>M. Riondato, D. Garc&iacute;a-Soriano, and F. Bonchi. <a
 						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">Graph
 						Summarization with Quality Guarantees</a>, <em>Data Mining and
 						Knowledge Discovery</em>, accepted for publication</li>
