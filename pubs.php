@@ -15,6 +15,10 @@
 			<div id="pubs">
 				<h3>Journal Articles</h3>
 				<ol id="journals">
+					<li>M. Riondato, D. Garc&iacute;-Soriano, and F. Bonchi. <a
+						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">Graph
+						Summarization with Quality Guarantees</a>, <em>Data Mining and
+						Knowledge Discovery</em>, accepted for publication</li>
 					<li>M. Riondato and E. M. Kornaropoulos. <a
 						href="papers/RiondatoKornaropoulos-BetweennessSampling-DMKD.pdf">Fast
 						Approximation of Betweenness Centrality through Sampling</a>, <em>Data
@@ -45,7 +49,7 @@
 						Importance of Being Experts: Efficient Max-Finding in Crowdsourcing</a>,
 					<em>ACM SIGMOD'15</em>, 2015</li>
 					<li>M. Riondato, D. Garc&iacute;a-Soriano, and F. Bonchi. <a
-						href="papers/RiondatoEtAl-GraphSummarization-ICDM.pdf">Graph
+						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">Graph
 						Summarization with Quality Guarantees</a>, <em>IEEE ICDM'14</em>,
 					2014</li>
 					<li>M. Riondato. <a

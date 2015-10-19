@@ -17,10 +17,10 @@
 				Laplace (10th).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>ACM CIKM'15:</strong> On Friday 10/23, I'm presenting a <a
-					href="http://bigdata.cs.brown.edu/vctutorial">tutorial on
-					VC-Dimension and Rademacher Averages for sampling
-					algorithms</a> (joint work with Eli Upfal).</li>
+					<li><strong>DAMI/DMKD:</strong> Our paper <em>Graph Summarization
+						with Quality Guarantees</em> (joint work with David
+						Garc&iacute;-Soriano and Francesco Bonchi) was accepted for
+						publication.</li>
 					<li><strong>Monash University:</strong> On Wednesday 10/28 I'm giving
 					a talk: <em>Travel pictures from another world: Statistical Learning
 					Theory meets Data Mining</em>.</li>
