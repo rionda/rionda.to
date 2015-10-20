@@ -98,8 +98,15 @@
 					Algorithms</a>, <em>ACM KDD'15, ECML PKDD'15, ACM CIKM'15</em></li>
 				</ol>
 
+				<h3>PhD Dissertation</h3>
+				<ol id="dissertation">
+				<li>M. Riondato. <a
+				href="papers/Riondato-SamplingBasedRandomizedAlgorithms-PhDDissertation.pdf">Sampling-based
+				Randomized Algorithms for Big Data Analytics</a>, <em>Brown University
+				Department of Computer Science</em>, 2014</li>
+
 				<h3>Other technical writings</h3>
-				<ol>
+				<ol id="otherpubs">
 					<li>M. Riondato, <a
 						href="https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/jails.html">Jails</a>,
 					in <a href="http://www.freebsd.org/handbook">FreeBSD Handbook</a>.</li>

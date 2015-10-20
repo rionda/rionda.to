@@ -117,7 +117,7 @@ strong {
 	float: left;
 	padding-right: 0.5em;
 	width: 52.9em;
-	box-sizing: border-box; 
+	box-sizing: border-box;
 }
 
 #maincontent p {
@@ -155,8 +155,12 @@ strong {
 	counter-reset: pubs 17;
 }
 
-#otherpubs {
+#dissertation {
 	counter-reset: pubs 18;
+}
+
+#otherpubs {
+	counter-reset: pubs 19;
 }
 
 #pubs {
@@ -173,8 +177,8 @@ strong {
 	display: block;
 }
 
-#pubs li:before { 
-	content: counter(pubs) ". "; 
+#pubs li:before {
+	content: counter(pubs) ". ";
 	counter-increment: pubs;}
 
 #maincontent li {
