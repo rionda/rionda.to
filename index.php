@@ -21,19 +21,17 @@
 						with Quality Guarantees</em> (joint work with David
 						Garc&iacute;a-Soriano and Francesco Bonchi) was accepted for
 						publication.</li>
-					<li><strong>Monash University:</strong> On Wednesday 10/28 I'm giving
-					a talk: <em>Travel pictures from another world: Statistical Learning
-					Theory meets Data Mining</em>.</li>
-					<li><strong>WWW'16:</strong> I'm a PC member for the Social Networks
-						and Graph Analysis area.</li>
 					<li><strong>Brown University:</strong> In Spring 2016, I will be
 						teaching <a
-						href="optmeth/">Optimization Methods in Finance</a>, in the <a
+						href="http://cs.brown.edu/courses/csci1951-g.html">Optimization
+						Methods in Finance</a>, in the <a
 						href="http://cs.brown.edu/">Department of Computer
 						Science</a>.</li>
 					<li><strong>ACM WSDM'16:</strong> Our paper <em>Wiggins: Detecting Valuable
 					Information in Dynamic Networks with Limited Resources</em> (joint
 					work with Eli Upfal and Ahmad Mahmoody) was accepted.</li>
+					<li><strong>WWW'16:</strong> I'm a PC member for the Social Networks
+						and Graph Analysis area.</li>
 					<li><strong>ACM KDD'16:</strong> I'm a PC member for the Research
 					track.</li>
 				</ul>
