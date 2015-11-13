@@ -3,8 +3,8 @@
 				<p>I am a researcher in computer science, currently working in the
 				Labs group at <a href="http://www.twosigma.com/">Two Sigma</a>, a highly
 				innovative investment firm in New York City. From January 2016, I
-				will also hold a joint appointment as a Visiting Assistant Professor of
-				Computer Science at Brown University.</p>
+				will also be a Visiting Assistant Professor of Computer Science at
+				Brown University.</p>
 				<p>My research interest is in algorithmic data analysis. I develop
 				theory and methods to extract the most information from large datasets,
 				as fast as possible and in a statistically sound way. The problems I
@@ -20,8 +20,7 @@
 				<h2>News</h2>
 				<ul>
 					<li><strong>Brown University:</strong> Starting January 2016, I will
-						hold a joint appointment as a Visiting Assistant Professor of
-						Computer Science</li>
+						also be a Visiting Assistant Professor of Computer Science</li>
 					<li><strong>DAMI/DMKD:</strong> Our paper <em>Graph Summarization
 						with Quality Guarantees</em> (joint work with David
 						Garc&iacute;a-Soriano and Francesco Bonchi) was accepted for
