@@ -8,8 +8,8 @@
 				Scholar</a>, <a href="http://arnetminer.org/person/matteo-riondato-1572079.html">AMiner</a>,
 			<a
 				href="https://www.researchgate.net/profile/Matteo_Riondato">ResearchGate</a>, <a href="http://orcid.org/0000-0003-2523-4420">ORCID</a>.</p>
-			<p>In the following lists, the order of the authors is alphabetical only
-			for entries marked with *.<br/>
+			<p>In the following list, the symbol '*' denotes equal contribution by
+			all authors.<br/>
 			Many of the linked PDFs are extended versions of the original publications.</p>
 
 			<div id="pubs">
