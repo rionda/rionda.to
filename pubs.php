@@ -42,7 +42,8 @@
 					<li>M. Riondato and E. Upfal. <a
 						href="papers/RiondatoUpfal-FrequentItemsetsSamplingRademacher-KDD.pdf">Mining
 						Frequent Itemsets through Progressive Sampling with Rademacher
-						Averages</a>, <em>ACM KDD'15</em>, 2015</li>
+						Averages</a>, <em>ACM KDD'15</em>, 2015, <a
+						href="https://www.youtube.com/watch?v=E5k51VQVWg8">Presentation Video</a></li>
 					<li>* A. Anagnastopoulos, L. Becchetti, A. Fazzone, I. Mele, and M.
 					Riondato. <a
 						href="papers/AnagnostopoulosEtAl-ExpertsMaxFindingCrowdsourcing.pdf">The
