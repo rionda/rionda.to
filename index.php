@@ -19,6 +19,9 @@
 				Laplace (10th).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>Stevens Institute of Technology:</strong> on Thursday
+					12/10 I will give a guest lecture on Data Mining, hosted by <a
+					href="http://cgi.di.uoa.gr/~gvalk/">George Valkanas</a>.</li>
 					<li><strong>Brown University:</strong> Starting January 2016, I will
 						also be a Visiting Assistant Professor of Computer Science</li>
 					<li><strong>DAMI/DMKD:</strong> Our paper <em>Graph Summarization
