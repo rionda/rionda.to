@@ -19,9 +19,13 @@
 				Laplace (10th).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>Stevens Institute of Technology:</strong> on Thursday
-					12/10 I will give a guest lecture on Data Mining, hosted by <a
-					href="http://cgi.di.uoa.gr/~gvalk/">George Valkanas</a>.</li>
+					<li><strong>WWW'16:</strong> Our tutorial <em>Centrality Measures on
+						Big Graphs: Exact, Approximated, and Distributed Algorithms</em>
+						(joint work with <a href="http://www.francescobonchi.com">Francesco
+						Bonchi</a> and <a href="http://www.gdfm.me">Gianmarco De Francisci
+						Morales</a>) was accepted. A <a
+						href="centrtutorial">mini-website</a> for the tutorial will be
+						available soon.</li>
 					<li><strong>Brown University:</strong> Starting January 2016, I will
 						also be a Visiting Assistant Professor of Computer Science</li>
 					<li><strong>DAMI/DMKD:</strong> Our paper <em>Graph Summarization
@@ -37,8 +41,6 @@
 					<li><strong>ACM WSDM'16:</strong> Our paper <em>Wiggins: Detecting Valuable
 					Information in Dynamic Networks with Limited Resources</em> (joint
 					work with Eli Upfal and Ahmad Mahmoody) was accepted.</li>
-					<li><strong>WWW'16:</strong> I'm a PC member for the Social Networks
-						and Graph Analysis area.</li>
 					<li><strong>ACM KDD'16:</strong> I'm a PC member for the Research
 					track.</li>
 				</ul>

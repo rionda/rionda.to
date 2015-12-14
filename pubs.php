@@ -93,6 +93,9 @@
 
 				<h3>Tutorials</h3>
 				<ol id="tutorials">
+					<li>* F. Bonchi, G. De Francisci Morales, and M. Riondato. <a
+						href="centrtutorial/">Centrality Measures on Big Graphs: Exact,
+						Approximated, and Distributed Algorithms</a>, <em>WWW'16</em></li>
 					<li>M. Riondato and E. Upfal. <a
 						href="http://bigdata.cs.brown.edu/vctutorial/">VC-Dimension and
 						Rademacher Averages: From Statistical Learning Theory to Sampling
