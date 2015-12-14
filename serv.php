@@ -5,6 +5,7 @@
 		<p class="notop">ACM KDD'16, WWW'16, ACM KDD'15, ACM CIKM'15, ACM CIKM'14</p>
 		<h3>Journal Reviewing</h3>
 		<p class="notop"><em>Data Mining and Knowledge Discovery</em> (DMKD/DAMI),
+		<em>Engineering Applications of Artificial Intelligence</em> (EAAI),
 		<em>Knowledge and Information Systems</em> (KAIS), <em>IEEE Transactions on
 		Knowledge and Data Engineering</em> (TKDE), <em>IEEE Transactions on Network
 		Science and Engineering</em> (TNSE), <em>IEEE Transactions on Parallel and
