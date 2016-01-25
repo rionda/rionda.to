@@ -3,8 +3,8 @@
 				<p>I am a researcher in computer science, currently working in the
 				Labs group at <a href="http://www.twosigma.com/">Two Sigma</a>, a highly
 				innovative investment firm in New York City. From January 2016, I
-				will also be a Visiting Assistant Professor of Computer Science at
-				Brown University.</p>
+				am also Visiting Assistant Professor of Computer Science at Brown
+				University.</p>
 				<p>My research interest is in algorithmic data analysis. I develop
 				theory and methods to extract the most information from large datasets,
 				as fast as possible and in a statistically sound way. The problems I
@@ -24,17 +24,13 @@
 						(joint work with <a href="http://www.francescobonchi.com">Francesco
 						Bonchi</a> and <a href="http://www.gdfm.me">Gianmarco De Francisci
 						Morales</a>) was accepted. A <a
-						href="centrtutorial">mini-website</a> for the tutorial will be
-						available soon.</li>
-					<li><strong>Brown University:</strong> Starting January 2016, I will
-						also be a Visiting Assistant Professor of Computer Science</li>
+						href="centrtutorial">mini-website</a> for the tutorial is available </li>
 					<li><strong>DAMI/DMKD:</strong> Our paper <em>Graph Summarization
 						with Quality Guarantees</em> (joint work with David
 						Garc&iacute;a-Soriano and Francesco Bonchi) was accepted for
 						publication.</li>
-					<li><strong>Brown University:</strong> In Spring 2016, I will be
-						teaching <a
-						href="http://cs.brown.edu/courses/csci1951-g.html">Optimization
+					<li><strong>Brown University:</strong> In Spring 2016, I am teaching
+						<a href="http://cs.brown.edu/courses/csci1951-g.html">Optimization
 						Methods in Finance</a>, in the <a
 						href="http://cs.brown.edu/">Department of Computer
 						Science</a>.</li>
