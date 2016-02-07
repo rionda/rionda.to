@@ -36,9 +36,9 @@
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
 					<li class="pubs">A. Mahmoody, M. Riondato, and E. Upfal. <a
-						href="">Wiggins: Detecting Valuable Information in Dynamic Networks
-						with Limited Resources</a>, to appear in <em>ACM WSDM'16</em>,
-						2016</li>
+						href="papers/MahmoodyEtAl-Wiggins-WSDM.pdf">Wiggins: Detecting
+						Valuable Information in Dynamic Networks with Limited
+						Resources</a>, <em>ACM WSDM'16</em>, 2016</li>
 					<li>M. Riondato and E. Upfal. <a
 						href="papers/RiondatoUpfal-FrequentItemsetsSamplingRademacher-KDD.pdf">Mining
 						Frequent Itemsets through Progressive Sampling with Rademacher
