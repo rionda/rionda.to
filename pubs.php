@@ -22,7 +22,7 @@
 					<li>M. Riondato and E. M. Kornaropoulos. <a
 						href="papers/RiondatoKornaropoulos-BetweennessSampling-DMKD.pdf">Fast
 						Approximation of Betweenness Centrality through Sampling</a>, <em>Data
-						Mining and Knowledge Discovery</em>, in press</li>
+						Mining and Knowledge Discovery</em>, 30(2):438&mdash;475, 2015</li>
 					<li>M. Riondato and E. Upfal. <a
 						href="papers/RiondatoUpfal-FrequentItemsetsSampling-TKDD.pdf">Efficient
 						Discovery of Association Rules and Frequent Itemsets through Sampling
@@ -31,7 +31,7 @@
 					<li>* A. Pietracaprina, M. Riondato, E. Upfal, and F. Vandin. <a
 						href="papers/PietracaprinaEtAl-TopKItemsetsProgressiveSampling-DMKD.pdf">Mining
 						Top-k Frequent Itemsets through Progressive Sampling</a>, <em>Data
-						Mining and Knowledge Discovery</em>, 21(2):310–326, 2010</li>
+						Mining and Knowledge Discovery</em>, 21(2):310&mdash;326, 2010</li>
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
@@ -124,7 +124,8 @@
 			href="http://www.francescobonchi.com">Francesco Bonchi</a>, <a
 			href="http://www.cs.brown.edu/~ugur/">U&#287;ur
 			&Ccedil;etintemel</a>, <a
-		href="http://www.cs.brown.edu/~debrabant">Justin A. DeBrabant</a>, <a
+			href="http://www.cs.brown.edu/~debrabant">Justin A. DeBrabant</a>, <a
+			href="http://www.gdfm.me">Gianmarco De Francisci Morales</a>, <a
 			href="http://www.cs.brown.edu/~rfonseca">Rodrigo Fonseca</a>, <a
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
 			Soriano</a>, <a href="http://www.cs.brown.edu/~evgenios">Evgenios M.
