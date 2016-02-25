@@ -13,8 +13,9 @@
 		Computing</em> (TSC), <em>VLDB Journal</em> (VLDBJ)</p>
 		<h3>Conference Reviewing</h3>
 		<p class="notop">WWW'16, ACM WSDM'16, ACM CIKM'15, ACM KDD'15, ISAAC'15,
-		SIAM SDM'15, ACM CIKM'14, DISC'14, ACM WSDM'14, WWW'14, ICALP'14, IEEE
-		BigData'13, MFCS'13, ACM WSDM'13, IEEE IPDPS'12, ACM ICS'12, RANDOM'11</p>
+		SIAM SDM'15, IEEE ICDE'15, ACM CIKM'14, DISC'14, ACM WSDM'14, WWW'14,
+		ICALP'14, IEEE BigData'13, MFCS'13, ACM WSDM'13, IEEE IPDPS'12, ACM ICS'12,
+		RANDOM'11</p>
 		<h3>Conference Session Chairing</h3>
 		<p class="notop">Social and Graphs 4 at ACM KDD'15</p>
 		<h3>Grant Proposal Reviewing</h3>
