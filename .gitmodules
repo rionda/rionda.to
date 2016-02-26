@@ -1,0 +1,6 @@
+[submodule "centrtutorial"]
+	path = centrtutorial
+	url = git@github.com:rionda/centrtutorial
+[submodule "cv"]
+	path = cv
+	url = git@github.com:rionda/cv
