@@ -91,6 +91,18 @@
 					<em>CIDR'11</em>, 2011</li>
 				</ol>
 
+				<h3>Unpublished / Under Submission</h3>
+				<ol id="unpublished">
+					<li>L. De Stefani, A. Epasto, M. Riondato, and E. Upfal. <a
+						href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST: Counting
+						Local and Global Triangles in Fully-dynamic Streams with Fixed
+						Memory Size</a>, arXiv:1602.07424, 2016</li>
+					<li>M. Riondato and E. Upfal <a
+						href="http://arxiv.org/abs/1602.05866">ABRA: Approximating
+						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
+						Averages</a>, arXiv:1602.05866, 2016</li>
+				</ol>
+
 				<h3>Tutorials</h3>
 				<ol id="tutorials">
 					<li>* F. Bonchi, G. De Francisci Morales, and M. Riondato. <a
@@ -104,10 +116,11 @@
 
 				<h3>PhD Dissertation</h3>
 				<ol id="dissertation">
-				<li>M. Riondato. <a
-				href="papers/Riondato-SamplingBasedRandomizedAlgorithms-PhDDissertation.pdf">Sampling-based
-				Randomized Algorithms for Big Data Analytics</a>, <em>Brown University
-				Department of Computer Science</em>, 2014</li>
+					<li>M. Riondato. <a
+						href="papers/Riondato-SamplingBasedRandomizedAlgorithms-PhDDissertation.pdf">Sampling-based
+						Randomized Algorithms for Big Data Analytics</a>, <em>Brown
+						University Department of Computer Science</em>, 2014</li>
+				</ol>
 
 				<h3>Other technical writings</h3>
 				<ol id="otherpubs">
@@ -125,16 +138,17 @@
 			href="http://www.cs.brown.edu/~ugur/">U&#287;ur
 			&Ccedil;etintemel</a>, <a
 			href="http://www.cs.brown.edu/~debrabant">Justin A. DeBrabant</a>, <a
-			href="http://www.gdfm.me">Gianmarco De Francisci Morales</a>, <a
-			href="http://www.cs.brown.edu/~rfonseca">Rodrigo Fonseca</a>, <a
+			href="http://www.gdfm.me">Gianmarco De Francisci Morales</a>, Lorenzo De
+			Stefani, <a href="http://www.cs.brown.edu/~rfonseca">Rodrigo Fonseca</a>,
+			<a href="http://www.epasto.org/">Alessandro Epasto</a>, <a
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
 			Soriano</a>, <a href="http://www.cs.brown.edu/~evgenios">Evgenios M.
 			Kornaropoulos</a>, <a href="http://www.cs.brown.edu/~ahmad">Ahmad
 			Mahmoody</a>, <a href="http://people.mpi-inf.mpg.de/~imele/">Ida
 			Mele</a>, <a href="http://www.dei.unipd.it/~capri">Andrea
 			Pietracaprina</a>, <a href="http://www.dei.unipd.it/~geppo">Geppino
-			Pucci</a>, <a href="http://www.dei.unipd.it/~silvest1">Francesco
-			Silvestri</a>, <a href="http://www.cs.brown.edu/~eli">Eli Upfal</a>, <a
-			href="http://www.imada.sdu.dk/~vandinfa/">Fabio Vandin</a>, <a
+			Pucci</a>, <a href="http://itu.dk/people/fras/">Francesco Silvestri</a>,
+			<a href="http://www.cs.brown.edu/~eli">Eli Upfal</a>, <a
+			href="http://dei.unipd.it/~vandinfa/">Fabio Vandin</a>, <a
 			href="http://www.cs.brown.edu/~sbz/">Stan B. Zdonik</a></p>
 <?php include("footer.html"); ?>

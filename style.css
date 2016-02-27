@@ -151,16 +151,20 @@ strong {
 	counter-reset: pubs 4;
 }
 
-#tutorials {
+#unpublished {
 	counter-reset: pubs 17;
 }
 
+#tutorials {
+	counter-reset: pubs 19;
+}
+
 #dissertation {
-	counter-reset: pubs 18;
+	counter-reset: pubs 21;
 }
 
 #otherpubs {
-	counter-reset: pubs 19;
+	counter-reset: pubs 22;
 }
 
 #pubs {
@@ -171,15 +175,19 @@ strong {
 #pubs ol {
 	margin: 0px;
 	padding-left: 0em;
+	display: table;
 }
 
 #pubs li {
 	display: block;
+	display: table-row;
 }
 
 #pubs li:before {
 	content: counter(pubs) ". ";
-	counter-increment: pubs;}
+	display: table-cell;
+	counter-increment: pubs;
+}
 
 #maincontent li {
 	padding-top: 0.2em;
