@@ -19,6 +19,11 @@
 				(10th).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>arXiv:</strong> Two new works on the arXiv, one on <a
+						href="http://arxiv.org/abs/1602.07424">approximate counting
+						triangles from streams</a>, and one on <a
+						href="http://arxiv.org/abs/1602.05866">fully-dynamic betweenness
+						centrality approximation</a>.</li>
 					<li><strong>WWW'16:</strong> Our tutorial <a
 						href="centrtutorial/"><em>Centrality Measures on
 						Big Graphs: Exact, Approximated, and Distributed
@@ -36,12 +41,5 @@
 						Methods in Finance</a>, in the <a
 						href="http://cs.brown.edu/">Department of Computer
 						Science</a>.</li>
-					<li><strong>ACM KDD'16:</strong> I'm a PC member for the Research
-					track.</li>
-					<li><strong>ACM WSDM'16:</strong> Our paper <a
-						href="papers/MahmoodyEtAl-Wiggins-WSDM.pdf"><em>Wiggins: Detecting
-						Valuable Information in Dynamic Networks with Limited
-						Resources</em></a> (joint work with Eli Upfal and Ahmad Mahmoody)
-						was accepted.</li>
 				</ul>
 <?php include("footer.html"); ?>
