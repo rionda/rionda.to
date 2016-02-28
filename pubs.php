@@ -131,24 +131,24 @@
 		</div>
 
 		<h3>Coauthors</h3>
-		<p class="notop"><a href="http://www.cs.brown.edu/~makdere/">Mert Akdere</a>, <a
-			href="http://www/aris.me/">Aris Anagnostopoulos</a>, <a
+		<p class="notop"><a href="http://www.cs.brown.edu/~makdere/">Mert
+			Akdere</a>, <a href="http://www.aris.me/">Aris Anagnostopoulos</a>, <a
 			href="http://www.dis.uniroma1.it/~becchett/">Luca Becchetti</a>, <a
-			href="http://www.francescobonchi.com">Francesco Bonchi</a>, <a
+			href="http://www.francescobonchi.com/">Francesco Bonchi</a>, <a
 			href="http://www.cs.brown.edu/~ugur/">U&#287;ur
 			&Ccedil;etintemel</a>, <a
-			href="http://www.cs.brown.edu/~debrabant">Justin A. DeBrabant</a>, <a
-			href="http://www.gdfm.me">Gianmarco De Francisci Morales</a>, Lorenzo De
-			Stefani, <a href="http://www.cs.brown.edu/~rfonseca">Rodrigo Fonseca</a>,
+			href="http://www.cs.brown.edu/~debrabant/">Justin A. DeBrabant</a>, <a
+			href="http://www.gdfm.me/">Gianmarco De Francisci Morales</a>, Lorenzo De
+			Stefani, <a href="http://www.cs.brown.edu/~rfonseca/">Rodrigo Fonseca</a>,
 			<a href="http://www.epasto.org/">Alessandro Epasto</a>, <a
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
-			Soriano</a>, <a href="http://www.cs.brown.edu/~evgenios">Evgenios M.
-			Kornaropoulos</a>, <a href="http://www.cs.brown.edu/~ahmad">Ahmad
+			Soriano</a>, <a href="http://www.cs.brown.edu/~evgenios/">Evgenios M.
+			Kornaropoulos</a>, <a href="http://www.cs.brown.edu/~ahmad/">Ahmad
 			Mahmoody</a>, <a href="http://people.mpi-inf.mpg.de/~imele/">Ida
-			Mele</a>, <a href="http://www.dei.unipd.it/~capri">Andrea
-			Pietracaprina</a>, <a href="http://www.dei.unipd.it/~geppo">Geppino
+			Mele</a>, <a href="http://www.dei.unipd.it/~capri/">Andrea
+			Pietracaprina</a>, <a href="http://www.dei.unipd.it/~geppo/">Geppino
 			Pucci</a>, <a href="http://itu.dk/people/fras/">Francesco Silvestri</a>,
-			<a href="http://www.cs.brown.edu/~eli">Eli Upfal</a>, <a
+			<a href="http://www.cs.brown.edu/~eli/">Eli Upfal</a>, <a
 			href="http://dei.unipd.it/~vandinfa/">Fabio Vandin</a>, <a
 			href="http://www.cs.brown.edu/~sbz/">Stan B. Zdonik</a></p>
 <?php include("footer.html"); ?>
