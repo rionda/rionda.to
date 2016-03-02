@@ -26,19 +26,21 @@
 						href="http://arxiv.org/abs/1602.07424">approximate counting
 						triangles from streams</a>, and one on <a
 						href="http://arxiv.org/abs/1602.05866">fully-dynamic betweenness
-						centrality approximation</a>.</li>
+						centrality approximation</a>. Sampling rules everything around
+						me.</li>
 					<li><strong>WWW'16:</strong> Our tutorial <a
 						href="centrtutorial/"><em>Centrality Measures on
 						Big Graphs: Exact, Approximated, and Distributed
 						Algorithms</em></a> (joint work with <a
 						href="http://www.francescobonchi.com">Francesco Bonchi</a> and <a
 						href="http://www.gdfm.me">Gianmarco De Francisci Morales</a>) was
-						accepted.</li>
+						accepted. I was also a member of the PC. See you in Montreal!</li>
 					<li><strong>DAMI/DMKD:</strong> Our paper <a
 						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf"><em>Graph
 						Summarization with Quality Guarantees</em></a> (joint work with
 						David Garc&iacute;a-Soriano and Francesco Bonchi) was accepted for
-						publication.</li>
+						publication. Geometric clustering and extremal graph theory get
+						together!</li>
 					<li><strong>Brown University:</strong> I am teaching <a
 						href="http://cs.brown.edu/courses/csci1951-g.html">Optimization
 						Methods in Finance</a>, in the <a
