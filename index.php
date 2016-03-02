@@ -19,7 +19,9 @@
 				(10th).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>ECML PKDD'16:</strong> I am a member of the PC</li>
+					<li><strong>ECML PKDD'16:</strong> I am a member of the PC. This year
+					the conference will be in beautiful Riva del Garda, on Lake Garda,
+					Italy, very close to my hometown Padua!</li>
 					<li><strong>arXiv:</strong> Two new works on the arXiv, one on <a
 						href="http://arxiv.org/abs/1602.07424">approximate counting
 						triangles from streams</a>, and one on <a
