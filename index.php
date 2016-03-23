@@ -15,8 +15,9 @@
 				&rarr; Matteo), and I am a <a
 				href="http://genealogy.math.ndsu.nodak.edu/id.php?id=190626">mathematical
 				descendant</a> of <a href="http://www.cs.brown.edu/people/eli/">Eli
-				Upfal</a>, Eli Shamir (2nd generation), Jacques Hadamard (5th),
-				Sim&eacute;on Denis Poisson (9th), and Pierre-Simon Laplace (10th).</p>
+				Upfal</a>, Eli Shamir (2<sup>nd</sup> generation), Jacques Hadamard
+				(5<sup>th</sup>), Sim&eacute;on Denis Poisson (9<sup>th</sup>), and
+				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
 					<li><strong>SINS'16:</strong> I'll be giving a talk at <a
