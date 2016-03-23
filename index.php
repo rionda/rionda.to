@@ -19,6 +19,10 @@
 				Sim&eacute;on Denis Poisson (9th), and Pierre-Simon Laplace (10th).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>SINS'16:</strong> I'll be giving a talk at <a
+					href="http://www.dsi.unive.it/~sins2016/">SINS'16</a>, a workshop on
+					Social Impact through Network Science. I t takes place in Venice, in
+					June. Whop whop!</li>
 					<li><strong>ECML PKDD'16:</strong> I am a member of the Program
 					Committee. This year the conference will be in beautiful Riva del
 					Garda, on Lake Garda, Italy, very close to my hometown Padua!</li>
