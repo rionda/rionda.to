@@ -111,7 +111,10 @@
 					<li>M. Riondato and E. Upfal. <a
 						href="http://bigdata.cs.brown.edu/vctutorial/">VC-Dimension and
 						Rademacher Averages: From Statistical Learning Theory to Sampling
-					Algorithms</a>, <em>ACM KDD'15, ECML PKDD'15, ACM CIKM'15</em></li>
+						Algorithms</a>, <em>ACM KDD'15, ECML PKDD'15, ACM CIKM'15</em>. <a
+					href="http://www.youtube.com/watch?v=dngQYAxXQ_8">Video at KDD'15 (Part 1)</a>,
+					<a href="https://www.youtube.com/watch?v=y62guRKC3yU">Video at KDD'15 (Part
+						2)</a></li>
 				</ol>
 
 				<h3>PhD Dissertation</h3>
