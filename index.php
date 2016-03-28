@@ -20,10 +20,10 @@
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>SINS'16:</strong> I'll be giving a talk at <a
+					<li><strong>SINS'16:</strong> I'm giving a talk  at <a
 					href="http://www.dsi.unive.it/~sins2016/">SINS'16</a>, a workshop on
-					Social Impact through Network Science. I t takes place in Venice, in
-					June. Whop whop!</li>
+					Social Impact through Network Science. It takes place in Venice, in
+					June. Looking forward to meeting many people there! </li>
 					<li><strong>ECML PKDD'16:</strong> I am a member of the Program
 					Committee. This year the conference will be in beautiful Riva del
 					Garda, on Lake Garda, Italy, very close to my hometown Padua!</li>
