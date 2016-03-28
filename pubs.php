@@ -76,16 +76,16 @@
 					<a
 						href="papers/PietracaprinaEtAl-SpaceRoundMapReduce-ICS.pdf">Space-round
 						Tradeoffs for MapReduce Computations</a>, <em>ACM ICS'12</em>, 2012</li>
-					<li>M. Akdere, U. Çetintemel, M. Riondato, E. Upfal, and S. B. Zdonik.
+					<li>M. Akdere, U. &Ccedil;etintemel, M. Riondato, E. Upfal, and S. B. Zdonik.
 					<a
 						href="papers/AkdereEtAl-LearningQueryPerformance-ICDE.pdf">Learning-based
 						Query Performance Modeling and Prediction</a>, <em>IEEE
 					ICDE'12</em>, 2012</li>
-					<li>M. Riondato, M. Akdere, U. Çetintemel, S. B. Zdonik, and E. Upfal. <a
+					<li>M. Riondato, M. Akdere, U. &Ccedil;etintemel, S. B. Zdonik, and E. Upfal. <a
 						href="papers/RiondatoEtAl-VCDimensionSQLQueries-ECMLPKDD.pdf">The
 						VC-dimension of SQL Queries and Selectivity Estimation through
 					Sampling</a>, <em>ECML PKDD'11</em>, 2011</li>
-					<li>M. Akdere, U. Çetintemel, M. Riondato, E. Upfal, and S. B. Zdonik.
+					<li>M. Akdere, U. &Ccedil;etintemel, M. Riondato, E. Upfal, and S. B. Zdonik.
 					<a href="papers/AkdereEtAl-CasePredictiveDatabase-CIDR.pdf">The Case for
 					Predictive Database Systems: Opportunities and Challenges</a>,
 					<em>CIDR'11</em>, 2011</li>
