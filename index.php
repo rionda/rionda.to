@@ -20,6 +20,11 @@
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>GCH'16:</strong> I'm so very excited to be part of the PC
+					for the <a
+					href="http://ghc.anitaborg.org/2014-call-for-participation/technology-zone/#data-science">Data
+					Science track at Grace Hopper 2016</a>, the celebration of women in
+					computing.</li>
 					<li><strong>SINS'16:</strong> I'm giving a talk  at <a
 					href="http://www.dsi.unive.it/~sins2016/">SINS'16</a>, a workshop on
 					Social Impact through Network Science. It takes place in Venice, in
