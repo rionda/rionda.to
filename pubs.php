@@ -107,14 +107,17 @@
 				<ol id="tutorials">
 					<li>* F. Bonchi, G. De Francisci Morales, and M. Riondato. <a
 						href="centrtutorial/">Centrality Measures on Big Graphs: Exact,
-						Approximated, and Distributed Algorithms</a>, <em>WWW'16</em></li>
+						Approximated, and Distributed Algorithms</a>, <em>WWW'16</em>. <a
+						href="/centrtutorial/BonchiDeFrancisciMoralesRiondato-CentralityBigGraphsTutorial-Slides.pdf">Slides</a>.</li>
 					<li>M. Riondato and E. Upfal. <a
 						href="http://bigdata.cs.brown.edu/vctutorial/">VC-Dimension and
 						Rademacher Averages: From Statistical Learning Theory to Sampling
 						Algorithms</a>, <em>ACM KDD'15, ECML PKDD'15, ACM CIKM'15</em>. <a
-					href="http://www.youtube.com/watch?v=dngQYAxXQ_8">Video at KDD'15 (Part 1)</a>,
-					<a href="https://www.youtube.com/watch?v=y62guRKC3yU">Video at KDD'15 (Part
-						2)</a></li>
+						href="files/RiondatoUpfal-VCDimensionRademachersampling-TutorialPKDD.pdf">Slides</a>,
+						<a href="http://www.youtube.com/watch?v=dngQYAxXQ_8">Video at
+						KDD'15 (Part 1)</a>, <a
+						href="https://www.youtube.com/watch?v=y62guRKC3yU">Video at KDD'15
+						(Part 2)</a></li>
 				</ol>
 
 				<h3>PhD Dissertation</h3>
