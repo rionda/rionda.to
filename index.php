@@ -20,6 +20,15 @@
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>WWW'16:</strong> We are giving our tutorial <a
+						href="centrtutorial/"><em>Centrality Measures on
+						Big Graphs: Exact, Approximated, and Distributed
+						Algorithms</em></a> (joint work with <a
+						href="http://www.francescobonchi.com">Francesco Bonchi</a> and <a
+						href="http://www.gdfm.me">Gianmarco De Francisci Morales</a>). I
+						am also a member of the PC and will chair the <a
+						href="https://www2016.ca/program/program-by-track/research-track.html#track-1-r-520be-social-networks-graph-analysis-1">Social
+						Networks and Graph Analysis 1</a> session. See you in Montreal!</li>
 					<li><strong>GHC'16:</strong> I'm so very excited to be part of the PC
 					for the <a
 					href="http://ghc.anitaborg.org/2014-call-for-participation/technology-zone/#data-science">Data
@@ -42,15 +51,6 @@
 						centrality approximation</a> (joint work with <a
 						href="http://www.cs.brown.edu/people/eli/">Eli Upfal</a>). Sampling
 						rules everything around me, and these two papers show it.</li>
-					<li><strong>WWW'16:</strong> We are giving our tutorial <a
-						href="centrtutorial/"><em>Centrality Measures on
-						Big Graphs: Exact, Approximated, and Distributed
-						Algorithms</em></a> (joint work with <a
-						href="http://www.francescobonchi.com">Francesco Bonchi</a> and <a
-						href="http://www.gdfm.me">Gianmarco De Francisci Morales</a>). I
-						am also a member of the PC and will chair the <a
-						href="https://www2016.ca/program/program-by-track/research-track.html#track-1-r-520be-social-networks-graph-analysis-1">Social
-						Networks and Graph Analysis 1</a> session. See you in Montreal!</li>
 					<li><strong>DAMI/DMKD:</strong> Our paper <a
 						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf"><em>Graph
 						Summarization with Quality Guarantees</em></a> (joint work with
