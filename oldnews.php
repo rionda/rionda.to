@@ -13,6 +13,9 @@
 				am also a member of the PC and will chair the <a
 				href="https://www2016.ca/program/program-by-track/research-track.html#track-1-r-520be-social-networks-graph-analysis-1">Social
 				Networks and Graph Analysis 1</a> session. See you in Montreal!</li>
+			<li><strong>ACM KDD'16:</strong> I'm a PC member for the Research
+				track. After WSDM'16, another trip to San Francisco to hear about
+				exciting research.</li>
 			<li><strong>ACM WSDM'16:</strong> Our paper <em>Wiggins: Detecting
 				Valuable Information in Dynamic Networks with Limited Resources</em>
 				(joint work with Eli Upfal and Ahmad Mahmoody) was accepted.</li>
