@@ -20,15 +20,6 @@
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>WWW'16:</strong> We are giving our tutorial <a
-						href="centrtutorial/"><em>Centrality Measures on
-						Big Graphs: Exact, Approximated, and Distributed
-						Algorithms</em></a> (joint work with <a
-						href="http://www.francescobonchi.com">Francesco Bonchi</a> and <a
-						href="http://www.gdfm.me">Gianmarco De Francisci Morales</a>). I
-						am also a member of the PC and will chair the <a
-						href="https://www2016.ca/program/program-by-track/research-track.html#track-1-r-520be-social-networks-graph-analysis-1">Social
-						Networks and Graph Analysis 1</a> session. See you in Montreal!</li>
 					<li><strong>GHC'16:</strong> I'm so very excited to be part of the PC
 					for the <a
 					href="http://ghc.anitaborg.org/2014-call-for-participation/technology-zone/#data-science">Data
@@ -57,12 +48,6 @@
 						David Garc&iacute;a-Soriano and Francesco Bonchi) was accepted for
 						publication. Geometric clustering and extremal graph theory get
 						together, and the chemistry is great!</li>
-					<li><strong>Brown University:</strong> I am teaching <a
-						href="http://cs.brown.edu/courses/csci1951-g.html">Optimization
-						Methods in Finance</a>, in the <a
-						href="http://cs.brown.edu/">Department of Computer
-						Science</a>. A wonderful area of computer science, with relevant
-						applications. As usual, I will be balancing theory and
-						practice.</li>
+						<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
