@@ -20,6 +20,8 @@
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>ACM CIKM'16:</strong> I joined the Program Committee of
+					<a href="http://cikm2016.cs.iupui.edu/">ACM CIKM'16</a>.</li>
 					<li><strong>GHC'16:</strong> I'm so very excited to be part of the PC
 					for the <a
 					href="http://ghc.anitaborg.org/2014-call-for-participation/technology-zone/#data-science">Data
