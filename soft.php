@@ -11,7 +11,7 @@
 		LaTeX package to insert notes, todo lists, questions, and answers. It is
 		useful when writing papers with multiple authors.</p>
 		<p><a href="software/radeprogrfi.tar.bz2">RadeProgrFI</a>: Mining Frequent
-		Itemsets through Progressive Sampling with Rademacher Averages</p>
+		Itemsets through Progressive Sampling with Rademacher Averages.</p>
 		<p>Centrsampl: If you are looking for the software to approximate
 		betweenness centrality via sampling, check out the implementation in <a
 		href="https://networkit.iti.kit.edu/">NetworKit</a> as
