@@ -4,6 +4,21 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>arXiv:</strong> Two new works on the arXiv, one on <a
+				href="http://arxiv.org/abs/1602.07424">approximate counting
+				triangles from streams</a> (joint work with <a
+				href="http://www.epasto.org">Alessandro Epasto</a>, Lorenzo De Stefani,
+				and <a href="http://www.cs.brown.edu/people/eli/">Eli Upfal</a>), and
+				one on <a href="http://arxiv.org/abs/1602.05866">fully-dynamic
+				betweenness centrality approximation</a> (joint work with <a
+				href="http://www.cs.brown.edu/people/eli/">Eli Upfal</a>). Sampling
+				rules everything around me, and these two papers show it.</li>
+			<li><strong>DAMI/DMKD:</strong> Our paper <a
+				href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf"><em>Graph
+				Summarization with Quality Guarantees</em></a> (joint work with David
+				Garc&iacute;a-Soriano and Francesco Bonchi) was accepted for
+				publication. Geometric clustering and extremal graph theory get
+				together, and the chemistry is great!</li>
 			<li><strong>WWW'16:</strong> We are giving our tutorial <a
 				href="centrtutorial/"><em>Centrality Measures on
 				Big Graphs: Exact, Approximated, and Distributed

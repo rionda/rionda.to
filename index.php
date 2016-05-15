@@ -20,8 +20,13 @@
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>ACM KDD'16:</strong> Two of papers of mine (<a
+					href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> and <a
+					href="http://arxiv.org/abs/1602.07424">TRI&Eacute;ST</a>) got
+					accepted as full presentations. See you in SF in August!</li>
 					<li><strong>ACM CIKM'16:</strong> I joined the Program Committee of
-					<a href="http://cikm2016.cs.iupui.edu/">ACM CIKM'16</a>.</li>
+					<a href="http://cikm2016.cs.iupui.edu/">ACM CIKM'16</a>. Nice event
+					that brings together different communities.</li>
 					<li><strong>GHC'16:</strong> I'm so very excited to be part of the PC
 					for the <a
 					href="http://ghc.anitaborg.org/2014-call-for-participation/technology-zone/#data-science">Data
@@ -34,22 +39,6 @@
 					<li><strong>ECML PKDD'16:</strong> I am a member of the Program
 					Committee. This year the conference will be in beautiful Riva del
 					Garda, on Lake Garda, Italy, very close to my hometown Padua!</li>
-					<li><strong>arXiv:</strong> Two new works on the arXiv, one on <a
-						href="http://arxiv.org/abs/1602.07424">approximate counting
-						triangles from streams</a> (joint work with <a
-						href="http://www.epasto.org">Alessandro Epasto</a>, Lorenzo De
-						Stefani, and <a href="http://www.cs.brown.edu/people/eli/">Eli
-						Upfal</a>), and one on <a
-						href="http://arxiv.org/abs/1602.05866">fully-dynamic betweenness
-						centrality approximation</a> (joint work with <a
-						href="http://www.cs.brown.edu/people/eli/">Eli Upfal</a>). Sampling
-						rules everything around me, and these two papers show it.</li>
-					<li><strong>DAMI/DMKD:</strong> Our paper <a
-						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf"><em>Graph
-						Summarization with Quality Guarantees</em></a> (joint work with
-						David Garc&iacute;a-Soriano and Francesco Bonchi) was accepted for
-						publication. Geometric clustering and extremal graph theory get
-						together, and the chemistry is great!</li>
-						<li><a href="oldnews.php">News archive</a></li>
+					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
