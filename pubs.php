@@ -42,7 +42,7 @@
 						href="/papers/RiondatoUpfal-ABRA-ext.pdf">full version</a>),
 						2016</li>
 					<li class="pubs">* L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
-						<a href="http://arxiv.org/abs/1602.07424">TRI&Eacute;ST: Counting
+						<a href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST: Counting
 						Local and Global Triangles in Fully-dynamic Streams with Fixed
 						Memory Size</a>, to appear in <em>ACM KDD'16</em> (full version: <a
 						href="http://arxiv.org/abs/1602.07424">arXiv:1602.07424</a>),

@@ -22,7 +22,7 @@
 				<ul>
 					<li><strong>ACM KDD'16:</strong> Two of papers of mine (<a
 					href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> and <a
-					href="http://arxiv.org/abs/1602.07424">TRI&Eacute;ST</a>) got
+					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a>) got
 					accepted as full presentations. See you in SF in August!</li>
 					<li><strong>ACM CIKM'16:</strong> I joined the Program Committee of
 					<a href="http://cikm2016.cs.iupui.edu/">ACM CIKM'16</a>. Nice event
