@@ -20,7 +20,7 @@
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>ACM KDD'16:</strong> Two of papers of mine (<a
+					<li><strong>ACM KDD'16:</strong> Two papers of mine (<a
 					href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> and <a
 					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a>) got
 					accepted as full presentations. See you in SF in August!</li>
