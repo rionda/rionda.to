@@ -22,7 +22,7 @@
 				<ul>
 					<li><strong>IEEE ICDM'16:</strong> I joined the Program Committe of
 					<a href="http://icdm16.eurecat.org">ICDM'16</a>, which takes place in
-					the most awesome city of Barcelona.</p>
+					the most awesome city of Barcelona.</li>
 					<li><strong>ACM KDD'16:</strong> Two papers of mine (<a
 					href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> and <a
 					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a>) got
