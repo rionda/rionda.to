@@ -2,8 +2,8 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Service</h2>
 		<h3>Program Committees</h3>
-		<p class="notop">2016: ACM CIKM'16, Grace Hopper'16, ECML PKDD'16, ACM
-			KDD'16, WWW'16</p>
+		<p class="notop">2016: IEEE ICDM'16, ACM CIKM'16, Grace Hopper'16, ECML
+			PKDD'16, ACM KDD'16, WWW'16</p>
 		<p class="notop">2015: ACM KDD'15, ACM CIKM'15</p>
 		<p class="notop">2014: ACM CIKM'14</p>
 		<h3>Journal Reviewing</h3>
@@ -17,8 +17,8 @@
 		<p class="notop"><em>The Computer Journal</em></p>
 		<p class="notop"><em>VLDB Journal</em> (VLDBJ)</p>
 		<h3>Conference Reviewing</h3>
-		<p class="notop">2016: ACM CIKM'16, Grace Hopper'16, ECML PKDD'16, ACM
-			KDD'16, WWW'16, ACM WSDM'16</p>
+		<p class="notop">2016: IEEE ICDM'16, ACM CIKM'16, Grace Hopper'16, ECML
+			PKDD'16, ACM KDD'16, WWW'16, ACM WSDM'16</p>
 		<p class="notop">2015: ACM CIKM'15, ACM KDD'15, ISAAC'15, SIAM SDM'15, IEEE
 			ICDE'15</p>
 		<p class="notop">2014: ACM CIKM'14, DISC'14, ACM WSDM'14, WWW'14,
