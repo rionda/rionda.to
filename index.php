@@ -20,6 +20,9 @@
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>IEEE ICDM'16:</strong> I joined the Program Committe of
+					<a href="http://icdm16.eurecat.org">ICDM'16</a>, which takes place in
+					the most awesome city of Barcelona.</p>
 					<li><strong>ACM KDD'16:</strong> Two papers of mine (<a
 					href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> and <a
 					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a>) got
