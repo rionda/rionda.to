@@ -4,6 +4,12 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>ACM CIKM'16:</strong> I joined the Program Committee of
+				<a href="http://cikm2016.cs.iupui.edu/">ACM CIKM'16</a>. Nice event
+				that brings together different communities.</li>
+				<li><strong>ECML PKDD'16:</strong> I am a member of the Program
+				Committee. This year the conference will be in beautiful Riva del
+				Garda, on Lake Garda, Italy, very close to my hometown Padua!</li>
 			<li><strong>SINS'16:</strong> I'm giving a talk on <a
 				href="/papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> at <a
 				href="http://www.dsi.unive.it/~sins2016/">SINS'16</a>, a workshop on
