@@ -25,7 +25,7 @@
 					best student paper award. Feeling very honored, and thankful to the
 					PC and to my coauthors.</li>
 					<li><Strong>WWW'17:</strong> I'm on the PC for next year's <a
-					href="http://www.www2017.com.au/">WWW</a></li>
+					href="http://www.www2017.com.au/">WWW</a>.</li>
 					<li><strong>arXiv:</strong> a much longer version of <a
 					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> is now
 					available.</li>
