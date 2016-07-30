@@ -7,7 +7,9 @@
 				href="http://scholar.google.com/citations?user=5okzSN0AAAAJ&amp;hl=en">Google
 				Scholar</a>, <a href="http://arnetminer.org/person/matteo-riondato-1572079.html">AMiner</a>,
 			<a
-				href="https://www.researchgate.net/profile/Matteo_Riondato">ResearchGate</a>, <a href="http://orcid.org/0000-0003-2523-4420">ORCID</a>.</p>
+				href="https://www.researchgate.net/profile/Matteo_Riondato">ResearchGate</a>,
+			<a href="http://orcid.org/0000-0003-2523-4420">ORCID</a>, <a
+				href="http://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>.</p>
 			<p>In the following list, the symbol '*' denotes equal contribution by
 			all authors.<br/>
 			Many of the linked PDFs are extended versions of the original publications.</p>
