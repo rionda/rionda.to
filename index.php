@@ -22,7 +22,9 @@
 				<ul>
 					<li><strong>ACM KDD'16:</strong> <a
 					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> wins the
-					best student paper award (Research track). Feeling very honored, and
+					<a
+					href="http://www.kdd.org/awards/view/2016-sigkdd-best-paper-award-winners">best
+					student paper award (Research track)</a>. I feel very honored, and
 					thankful to the PC and to my coauthors (Lorenzo De Stefani (the
 					student), <a href="http://www.epasto.org">Alessandro Epasto</a>, and
 					<a href="http://cs.brown.edu/people/eli/">Eli Upfal</a>).</li>
