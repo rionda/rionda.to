@@ -42,10 +42,10 @@
     // Generate the hash verification with the request body and the key stored in your .htaccess file
     function verify_request(){
         $message = $GLOBALS['body'];
-        $key = $getenv['GIT_TOKEN'];
-	    $hash = hash_hmac("sha1", $message, $key);
-	    $hash = "sha1=".$hash;
-	    return $hash;
+        $key = getenv('GIT_TOKEN');
+        $hash = hash_hmac("sha1", $message, $key);
+        $hash = "sha1=".$hash;
+        return $hash;
     }
 
 
