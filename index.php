@@ -22,8 +22,10 @@
 				<ul>
 					<li><strong>ACM KDD'16:</strong> <a
 					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> wins the
-					best student paper award. Feeling very honored, and thankful to the
-					PC and to my coauthors.</li>
+					best student paper award (Research track). Feeling very honored, and
+					thankful to the PC and to my coauthors (Lorenzo De Stefani (the
+					student), <a href="http://www.epasto.org">Alessandro Epasto</a>, and
+					<a href="http://cs.brown.edu/people/eli/">Eli Upfal</a>).</li>
 					<li><Strong>WWW'17:</strong> I'm on the PC for next year's <a
 					href="http://www.www2017.com.au/">WWW</a>.</li>
 					<li><strong>arXiv:</strong> a much longer version of <a
