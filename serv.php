@@ -15,6 +15,7 @@
 		<p class="notop"><em>IEEE Transactions on Network Science and Engineering</em> (TNSE)</p>
 		<p class="notop"><em>IEEE Transactions on Parallel and Distributed Systems</em> (TPDS)</p>
 		<p class="notop"><em>IEEE Transactions on Services Computing</em> (TSC)</p>
+		<p class="notop"><em>Machine Learning (Mach. Learn.)</em></p>
 		<p class="notop"><em>The Computer Journal</em></p>
 		<p class="notop"><em>VLDB Journal</em> (VLDBJ)</p>
 		<h3>Conference Reviewing</h3>
