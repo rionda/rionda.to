@@ -24,12 +24,25 @@
 
     if (strpos($agent,'GitHub-Hookshot') !== false){
         if (hash_equals($signature, verify_request())){
-            // Run the commands
-            foreach($commands AS $command){
-                // Run it
-                $tmp = shell_exec($command);
-            }
-            echo "Deploy successful.";
+			if (ini_get('safe_mode')){
+				header('HTTP/1.1 403 Forbidden');
+				echo "PHP safe mode is enabled, so we cannot exec().";
+			}else{
+				// Run the commands
+				foreach($commands AS $command){
+					$output = array();
+					$return = 0;
+					exec($command, $output, $return);
+					if ($return !== 0){
+						header('HTTP/1.1 403 Forbidden');
+						echo "Command '$command' exited with status $return:\n";
+						foreach($output as $line){
+							echo "\t$line\n";
+						}
+					}
+				}
+				echo "Deploy successful.";
+			}
         }else{
             header('HTTP/1.1 403 Forbidden');
             echo "Invalid request 1.";
