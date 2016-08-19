@@ -14,7 +14,7 @@
 
     // The commands
     $commands = array(
-        'git pull origin master',
+        'git pull',
         'git submodule sync',
         'git submodule update'
     );
