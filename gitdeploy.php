@@ -25,7 +25,7 @@
     if (strpos($agent,'GitHub-Hookshot') !== false){
         if (hash_equals($signature, verify_request())){
 			if (ini_get('safe_mode')){
-				header('HTTP/1.1 403 Forbidden');
+				header('HTTP/1.1 501 Not Implemented');
 				echo "PHP safe mode is enabled, so we cannot exec().";
 			}else{
 				// Run the commands
@@ -34,7 +34,7 @@
 					$return = 0;
 					exec("$command 2>&1", $output, $return);
 					if ($return !== 0){
-						header('HTTP/1.1 403 Forbidden');
+						header('HTTP/1.1 500 Internal Server Error');
 						echo "ERROR: Command '$command' exited with status $return:\n";
 					}
 					foreach($output as $line){
