@@ -8,6 +8,9 @@
 		<p class="notop">2015: ACM KDD'15, ACM CIKM'15</p>
 		<p class="notop">2014: ACM CIKM'14</p>
 		<h3>Journal Reviewing</h3>
+		<p class="notop"><em>ACM Transactions on Information Systems</em> (TOIS)</p>
+		<p class="notop"><em>ACM Transactions on Knowledge Discovery from Data</em> (TKDD)</p>
+		<p class="notop"><em>Data Mining and Knowledge Discovery</em> (DMKD/DAMI)</p>
 		<p class="notop"><em>Data Mining and Knowledge Discovery</em> (DMKD/DAMI)</p>
 		<p class="notop"><em>Engineering Applications of Artificial Intelligence</em> (EAAI)</p>
 		<p class="notop"><em>Knowledge and Information Systems</em> (KAIS)</p>
@@ -33,6 +36,7 @@
 		<p class="notop">Social Networks and Graph Analysis 1 at WWW'16</p>
 		<p class="notop">Social and Graphs 4 at ACM KDD'15</p>
 		<h3>Grant Proposal Reviewing</h3>
+		<p class="notop">Grace Hopper Conference Fellowship</p>
 		<p class="notop">Sigma Delta Epsilon (Graduate Women in Science) National
 		Fellowship</p>
 <?php include("footer.html"); ?>
