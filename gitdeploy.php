@@ -32,7 +32,7 @@
 				foreach($commands AS $command){
 					$output = array();
 					$return = 0;
-					exec($command, $output, $return);
+					exec("$command 2>&1", $output, $return);
 					if ($return !== 0){
 						header('HTTP/1.1 403 Forbidden');
 						echo "ERROR: Command '$command' exited with status $return:\n";
