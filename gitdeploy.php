@@ -35,10 +35,10 @@
 					exec($command, $output, $return);
 					if ($return !== 0){
 						header('HTTP/1.1 403 Forbidden');
-						echo "Command '$command' exited with status $return:\n";
-						foreach($output as $line){
-							echo "\t$line\n";
-						}
+						echo "ERROR: Command '$command' exited with status $return:\n";
+					}
+					foreach($output as $line){
+						echo "$line\n";
 					}
 				}
 				echo "Deploy successful.";
