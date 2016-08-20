@@ -40,15 +40,13 @@
 					<li class="pubs">M. Riondato and E. Upfal <a
 						href="http://arxiv.org/abs/1602.05866">ABRA: Approximating
 						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
-						Averages</a>, to appear in <em>ACM KDD'16</em> (<a
+						Averages</a>, <em>ACM KDD'16</em> (<a
 						href="/papers/RiondatoUpfal-ABRA-ext.pdf">full version</a>),
 						2016</li>
 					<li class="pubs">* L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
 						<a href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST: Counting
 						Local and Global Triangles in Fully-dynamic Streams with Fixed
-						Memory Size</a>, to appear in <em>ACM KDD'16</em> (full version: <a
-						href="http://arxiv.org/abs/1602.07424">arXiv:1602.07424</a>),
-						2016</li>
+						Memory Size</a>, <em>ACM KDD'16</em>, 2016</li>
 					<li class="pubs">A. Mahmoody, M. Riondato, and E. Upfal. <a
 						href="papers/MahmoodyEtAl-Wiggins-WSDM.pdf">Wiggins: Detecting
 						Valuable Information in Dynamic Networks with Limited
