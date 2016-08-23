@@ -1,3 +1,4 @@
 [submodule "cv"]
 	path = cv
-	url = git@github.com:rionda/cv
+	url = https://github.com/rionda/cv
+	#git@github.com:rionda/cv
