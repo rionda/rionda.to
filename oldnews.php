@@ -4,6 +4,16 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>ACM WSDM'17:</strong> I joined the Program Committee of
+			<a href="http://www.wsdm-conference.org/2017/">WSDM'17</a>, a conference
+			I always enjoy so much.</li>
+			<li><strong>IEEE ICDM'16:</strong> I joined the Program Committee of
+			<a href="http://icdm16.eurecat.org">ICDM'16</a>, which takes place in
+			the most awesome city of Barcelona.</li>
+			<li><strong>ACM KDD'16:</strong> Two papers of mine (<a
+			href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> and <a
+			href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a>) got
+			accepted as full presentations. See you in SF in August!</li>
 			<li><strong>ACM CIKM'16:</strong> I joined the Program Committee of
 				<a href="http://cikm2016.cs.iupui.edu/">ACM CIKM'16</a>. Nice event
 				that brings together different communities.</li>

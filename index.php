@@ -20,6 +20,10 @@
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>University of Padua:</strong> I'm giving a talk on <a
+					href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">graph
+					summarization</a> at DEI (Department of Information Engineering) on
+					9/30. Excited to speak at my alma mater.</li>
 					<li><strong>ACM KDD'16:</strong> <a
 					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> wins the
 					<a
@@ -33,16 +37,6 @@
 					<li><strong>arXiv:</strong> a much longer version of <a
 					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> is now
 					available.</li>
-					<li><strong>ACM WSDM'17:</strong> I joined the Program Committee of
-					<a href="http://www.wsdm-conference.org/2017/">WSDM'17</a>, a
-					conference I always enjoy so much.</li>
-					<li><strong>IEEE ICDM'16:</strong> I joined the Program Committee of
-					<a href="http://icdm16.eurecat.org">ICDM'16</a>, which takes place in
-					the most awesome city of Barcelona.</li>
-					<li><strong>ACM KDD'16:</strong> Two papers of mine (<a
-					href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> and <a
-					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a>) got
-					accepted as full presentations. See you in SF in August!</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
