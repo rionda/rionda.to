@@ -5,7 +5,8 @@
 				innovative investment firm in New York City. I also have an appointment
 				as Visiting Assistant Professor of Computer Science at Brown
 				University.</p>
-				<p>My research interest is in algorithmic data analysis. I develop
+				<p>My research interest is in <em>algorithmic data science</em>. I
+develop
 				theory and methods to extract the most information from large datasets,
 				as fast as possible and in a statistically sound way. The problems I
 				study include pattern extraction, graph mining, and time series
