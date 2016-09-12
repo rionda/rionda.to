@@ -186,7 +186,7 @@ strong {
 #pubs li {
 	display: block;
 	display: table-row;
-	padding-top: 0.3ex;
+	padding-top: 1ex;
 }
 
 #pubs li:before {
