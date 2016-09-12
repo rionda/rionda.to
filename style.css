@@ -143,6 +143,11 @@ strong {
 	margin: 0px;
 }
 
+
+#maincontent li {
+	padding-top: 0.3ex;
+}
+
 #journals {
 	counter-reset: pubs;
 }
@@ -181,16 +186,13 @@ strong {
 #pubs li {
 	display: block;
 	display: table-row;
+	padding-top: 0.3ex;
 }
 
 #pubs li:before {
 	content: counter(pubs) ". ";
 	display: table-cell;
 	counter-increment: pubs;
-}
-
-#maincontent li {
-	padding-top: 0.2em;
 }
 
 .notop {
