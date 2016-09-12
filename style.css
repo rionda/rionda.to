@@ -184,9 +184,9 @@ strong {
 }
 
 #pubs li {
-	display: block;
+	/* display: block; */
 	/* display: table-row; */
-	padding-top: 1ex;
+	padding-top: 0.5ex;
 }
 
 #pubs li:before {
