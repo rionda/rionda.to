@@ -185,7 +185,7 @@ strong {
 
 #pubs li {
 	display: block;
-	display: table-row;
+	/* display: table-row; */
 	padding-top: 1ex;
 }
 
