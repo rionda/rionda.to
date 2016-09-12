@@ -21,8 +21,11 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>University of Padua:</strong> I'm giving a talk on <a
-					href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">graph
+					<li><strong>Northeastern University (10/17):</strong> I'm giving a
+					talk, hosted by <a href="http://www.eliassi.org">Tina
+					Eliassi-Rad</a>.
+					<li><strong>University of Padua (9/30):</strong> I'm giving a talk on
+					<a href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">graph
 					summarization</a> at DEI (Department of Information Engineering) on
 					9/30. Excited to speak at my alma mater.</li>
 					<li><strong>ACM KDD'16:</strong> <a
