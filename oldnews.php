@@ -4,6 +4,9 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>arXiv:</strong> a much longer version of <a
+			href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> is now
+			available.</li>
 			<li><strong>ACM WSDM'17:</strong> I joined the Program Committee of
 			<a href="http://www.wsdm-conference.org/2017/">WSDM'17</a>, a conference
 			I always enjoy so much.</li>

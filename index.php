@@ -21,10 +21,14 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>Carnegie Mellon University (10/24):</strong> Giving a
+					talk at the <a href="http://db.cs.cmu.edu/">database group</a>
+					meeting, hosted by <a href="http://cs.cmu.edu/~pavlo">Andy
+					Pavlo<a/>.</li>
 					<li><strong>Northeastern University (10/17):</strong> I'm giving a
 					talk, hosted by <a href="http://www.eliassi.org">Tina
 					Eliassi-Rad</a>.
-					<li><strong>University of Padua (9/30):</strong> I'm giving a talk on
+					<li><strong>University of Padua (9/26):</strong> I'm giving a talk on
 					<a href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">graph
 					summarization</a> at DEI (Department of Information Engineering) on
 					9/30. Excited to speak at my alma mater.</li>
@@ -38,9 +42,6 @@ develop
 					<a href="http://cs.brown.edu/people/eli/">Eli Upfal</a>).</li>
 					<li><Strong>WWW'17:</strong> I'm on the PC for next year's <a
 					href="http://www.www2017.com.au/">WWW</a>.</li>
-					<li><strong>arXiv:</strong> a much longer version of <a
-					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> is now
-					available.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
