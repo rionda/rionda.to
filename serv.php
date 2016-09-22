@@ -33,8 +33,9 @@
 		<p class="notop">2012: IEEE IPDPS'12, ACM ICS'12</p>
 		<p class="notop">2011: APPROX-RANDOM'11</p>
 		<h3>Conference Session Chairing</h3>
-		<p class="notop">Social Networks and Graph Analysis 1 at WWW'16</p>
-		<p class="notop">Social and Graphs 4 at ACM KDD'15</p>
+		<p class="notop">ECML PKDD'16: Graphs and Social Networks 1</p>
+		<p class="notop">WWW'16: Social Networks and Graph Analysis 1</p>
+		<p class="notop">KDD'15: Social and Graphs 4</p>
 		<h3>Grant Proposal Reviewing</h3>
 		<p class="notop">Grace Hopper Conference Fellowship</p>
 		<p class="notop">Sigma Delta Epsilon (Graduate Women in Science) National
