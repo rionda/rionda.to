@@ -24,7 +24,7 @@ develop
 					<li><strong>Carnegie Mellon University (10/24):</strong> Giving a
 					talk at the <a href="http://db.cs.cmu.edu/">database group</a>
 					meeting, hosted by <a href="http://cs.cmu.edu/~pavlo">Andy
-					Pavlo<a/>.</li>
+					Pavlo</a>.</li>
 					<li><strong>Northeastern University (10/17):</strong> I'm giving a
 					talk, hosted by <a href="http://www.eliassi.org">Tina
 					Eliassi-Rad</a>.
