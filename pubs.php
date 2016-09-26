@@ -24,7 +24,7 @@
 					<li>M. Riondato and E. M. Kornaropoulos. <a
 						href="papers/RiondatoKornaropoulos-BetweennessSampling-DMKD.pdf">Fast
 						Approximation of Betweenness Centrality through Sampling</a>, <em>Data
-						Mining and Knowledge Discovery</em>, 30(2):438&mdash;475, 2015</li>
+						Mining and Knowledge Discovery</em>, 30(2):438&mdash;475, 2016</li>
 					<li>M. Riondato and E. Upfal. <a
 						href="papers/RiondatoUpfal-FrequentItemsetsSampling-TKDD.pdf">Efficient
 						Discovery of Association Rules and Frequent Itemsets through Sampling
