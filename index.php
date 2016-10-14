@@ -21,6 +21,14 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>IEEE MIT URTC (11/05):</strong> I'm a keynote speaker at
+					the <a href="http://ieee.scripts.mit.edu/conference/index.php">IEEE
+					MIT Undegraduate Technology Conference</a>. My speech will be about
+					algorithmic data science as a way of combining theory. I'm excited
+					and honored to share my point of view with brilliant young
+					minds.</li>
+					<li><strong>IEEE ICDE'17:</strong> I'm on the PC for next year <a
+					href="http://icde2017.sdsc.edu/">ICDE</a>.</li>
 					<li><strong>Carnegie Mellon University (10/24):</strong> Giving a
 					talk at the <a href="http://db.cs.cmu.edu/">database group</a>
 					meeting, hosted by <a href="http://cs.cmu.edu/~pavlo">Andy
@@ -28,18 +36,6 @@ develop
 					<li><strong>Northeastern University (10/17):</strong> I'm giving a
 					talk, hosted by <a href="http://www.eliassi.org">Tina
 					Eliassi-Rad</a>.
-					<li><strong>University of Padua (9/26):</strong> I'm giving a talk on
-					<a href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">graph
-					summarization</a> at DEI (Department of Information Engineering) on
-					9/30. Excited to speak at my alma mater.</li>
-					<li><strong>ACM KDD'16:</strong> <a
-					href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> wins the
-					<a
-					href="http://www.kdd.org/awards/view/2016-sigkdd-best-paper-award-winners">best
-					student paper award (Research track)</a>. I feel very honored, and
-					thankful to the PC and to my coauthors (Lorenzo De Stefani (the
-					student), <a href="http://www.epasto.org">Alessandro Epasto</a>, and
-					<a href="http://cs.brown.edu/people/eli/">Eli Upfal</a>).</li>
 					<li><Strong>WWW'17:</strong> I'm on the PC for next year's <a
 					href="http://www.www2017.com.au/">WWW</a>.</li>
 					<li><a href="oldnews.php">News archive</a></li>

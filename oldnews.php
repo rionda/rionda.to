@@ -4,6 +4,18 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>University of Padua (9/26):</strong> I'm giving a talk on
+			<a href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">graph
+			summarization</a> at DEI (Department of Information Engineering). Excited
+			to speak at my alma mater.</li>
+			<li><strong>ACM KDD'16:</strong> <a
+			href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> wins the
+			<a
+			href="http://www.kdd.org/awards/view/2016-sigkdd-best-paper-award-winners">best
+			student paper award (Research track)</a>. I feel very honored, and
+			thankful to the PC and to my coauthors (Lorenzo De Stefani (the
+			student), <a href="http://www.epasto.org">Alessandro Epasto</a>, and
+			<a href="http://cs.brown.edu/people/eli/">Eli Upfal</a>).</li>
 			<li><strong>arXiv:</strong> a much longer version of <a
 			href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> is now
 			available.</li>
