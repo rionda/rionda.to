@@ -2,7 +2,7 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Service</h2>
 		<h3>Program Committees</h3>
-		<p class="notop">2017: ACM WSDM'17, WWW'17</p>
+		<p class="notop">2017: ACM WSDM'17, WWW'17, IEEE ICDE'17</p>
 		<p class="notop">2016: IEEE ICDM'16, ACM CIKM'16, Grace Hopper'16, ECML
 			PKDD'16, ACM KDD'16, WWW'16</p>
 		<p class="notop">2015: ACM KDD'15, ACM CIKM'15</p>
@@ -13,12 +13,14 @@
 		<p class="notop"><em>Data Mining and Knowledge Discovery</em> (DMKD/DAMI)</p>
 		<p class="notop"><em>Engineering Applications of Artificial Intelligence</em> (EAAI)</p>
 		<p class="notop"><em>Expert Systems with Applications</em> (ESWA)</p>
+		<p class="notop"><em>Journal of Parallel and Distributed Computing</em> (JDPC)</p>
 		<p class="notop"><em>Knowledge and Information Systems</em> (KAIS)</p>
 		<p class="notop"><em>IEEE Transactions on Knowledge and Data Engineering</em> (TKDE)</p>
 		<p class="notop"><em>IEEE Transactions on Network Science and Engineering</em> (TNSE)</p>
 		<p class="notop"><em>IEEE Transactions on Parallel and Distributed Systems</em> (TPDS)</p>
 		<p class="notop"><em>IEEE Transactions on Services Computing</em> (TSC)</p>
 		<p class="notop"><em>Machine Learning</em> (Mach. Learn.)</p>
+		<p class="notop"><em>PLOS ONE</em></p>
 		<p class="notop"><em>The Computer Journal</em></p>
 		<p class="notop"><em>VLDB Journal</em> (VLDBJ)</p>
 		<h3>Conference Reviewing</h3>
