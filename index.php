@@ -30,12 +30,12 @@ develop
 					<li><strong>IEEE ICDE'17:</strong> I'm on the PC for next year <a
 					href="http://icde2017.sdsc.edu/">ICDE</a>.</li>
 					<li><strong>Carnegie Mellon University (10/24):</strong> Giving a
-					talk at the <a href="http://db.cs.cmu.edu/">database group</a>
-					meeting, hosted by <a href="http://cs.cmu.edu/~pavlo">Andy
+					talk on TRI&Egrave;ST at the <a href="http://db.cs.cmu.edu/">database
+					group</a> meeting, hosted by <a href="http://cs.cmu.edu/~pavlo">Andy
 					Pavlo</a>.</li>
-					<li><strong>Northeastern University (10/17):</strong> I'm giving a
-					talk, hosted by <a href="http://www.eliassi.org">Tina
-					Eliassi-Rad</a>.
+					<li><strong>Network Science Institute @ Northeastern University
+					(10/17):</strong> I'm talking about ABRA, hosted by <a
+					href="http://www.eliassi.org">Tina Eliassi-Rad</a>.
 					<li><Strong>WWW'17:</strong> I'm on the PC for next year's <a
 					href="http://www.www2017.com.au/">WWW</a>.</li>
 					<li><a href="oldnews.php">News archive</a></li>
