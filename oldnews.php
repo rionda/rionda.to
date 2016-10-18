@@ -4,6 +4,11 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Network Science Institute @ Northeastern University
+			(10/17):</strong> I'm <a
+			href="http://www.networkscienceinstitute.org/events/matteo-riondato">talking</a>
+			about <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>, hosted by
+			<a href="http://www.eliassi.org">Tina Eliassi-Rad</a>.
 			<li><strong>University of Padua (9/26):</strong> I'm giving a talk on
 			<a href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">graph
 			summarization</a> at DEI (Department of Information Engineering). Excited
