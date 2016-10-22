@@ -21,6 +21,10 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>Boston University (11/10):</strong> I'm <a
+					talking about <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>,
+					hosted by <a href="http://www.cs.bu.edu/~evimaria/">Evimaria
+					Terzi</a>.
 					<li><strong>IEEE MIT URTC (11/05):</strong> I'm a keynote speaker at
 					the <a href="http://ieee.scripts.mit.edu/conference/index.php">IEEE
 					MIT Undegraduate Technology Conference</a>. My speech will be about
