@@ -35,7 +35,7 @@ develop
 					href="http://icde2017.sdsc.edu/">ICDE</a>.</li>
 					<li><strong>Carnegie Mellon University (10/24):</strong> Giving a
 					<a
-					href="http://db.cs.cmu.edu/events/db-seminar-fall-2016-matteo-riondato/">talk</a>
+					href="http://www.cs.cmu.edu/calendar/mon-2016-10-24-1645/database-seminar">talk</a>
 					on <a href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> at the
 					<a href="http://db.cs.cmu.edu/">database group</a> meeting, hosted by
 					<a href="http://cs.cmu.edu/~pavlo">Andy Pavlo</a>.</li>
