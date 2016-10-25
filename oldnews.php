@@ -4,6 +4,12 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Carnegie Mellon University (10/24):</strong> Giving a
+			<a
+			href="http://www.cs.cmu.edu/calendar/mon-2016-10-24-1645/database-seminar">talk</a>
+			on <a href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> at the
+			<a href="http://db.cs.cmu.edu/">database group</a> meeting, hosted by
+			<a href="http://cs.cmu.edu/~pavlo">Andy Pavlo</a>.</li>
 			<li><strong>Network Science Institute @ Northeastern University
 			(10/17):</strong> I'm <a
 			href="http://www.networkscienceinstitute.org/events/matteo-riondato">talking</a>
