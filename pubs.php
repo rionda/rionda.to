@@ -9,7 +9,8 @@
 			<a
 				href="https://www.researchgate.net/profile/Matteo_Riondato">ResearchGate</a>,
 			<a href="http://orcid.org/0000-0003-2523-4420">ORCID</a>, <a
-				href="http://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>.</p>
+				href="http://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>, <a
+				href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>.</p>
 			<p>In the following list, the symbol '*' denotes equal contribution by
 			all authors.<br/>
 			Many of the linked PDFs are extended versions of the original publications.</p>
