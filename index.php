@@ -25,16 +25,6 @@ develop
 					talking about <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>,
 					hosted by <a href="http://www.cs.bu.edu/~evimaria/">Evimaria
 					Terzi</a>.
-					<li><strong>IEEE MIT URTC (11/05):</strong> I'm a keynote speaker at
-					the <a href="http://ieee.scripts.mit.edu/conference/index.php">IEEE
-					MIT Undegraduate Technology Conference</a>. My talk will be about
-					algorithmic data science as a way of combining theory and practice.
-					I'm excited and honored to share my point of view with brilliant
-					young minds.</li>
-					<li><strong>IEEE ICDE'17:</strong> I'm on the PC for next year <a
-					href="http://icde2017.sdsc.edu/">ICDE</a>.</li>
-					<li><Strong>WWW'17:</strong> I'm on the PC for next year's <a
-					href="http://www.www2017.com.au/">WWW</a>.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
