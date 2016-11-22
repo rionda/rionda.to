@@ -178,19 +178,19 @@ strong {
 }
 
 #pubs ol {
-	margin: 0px;
 	padding-left: 0em;
-	display: table;
+	list-style-type: none;
 }
 
 #pubs li {
-	display: table-row;
-	padding-top: 0.3ex;
+	padding-top: 0.7ex;
+	list-style-position: inside;
+	text-indent: -1em;
+        padding-left: 1em;
 }
 
 #pubs li:before {
 	content: counter(pubs) ". ";
-	display: table-cell;
 	counter-increment: pubs;
 }
 
