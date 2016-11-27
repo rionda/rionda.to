@@ -21,10 +21,8 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>Boston University (11/18):</strong> I'm talking about <a
-					talking about <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>,
-					hosted by <a href="http://www.cs.bu.edu/~evimaria/">Evimaria
-					Terzi</a>.
+					<li><strong>Brown University:</strong> I'll be teaching "Optimization
+					Methods in Finance" again in Spring'17</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>

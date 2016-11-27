@@ -4,6 +4,9 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Boston University (11/18):</strong> I'm talking about <a
+			talking about <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>,
+			hosted by <a href="http://www.cs.bu.edu/~evimaria/">Evimaria Terzi</a>.
 			<li><strong>IEEE MIT URTC (11/05):</strong> I'm a keynote speaker at
 			the <a href="http://ieee.scripts.mit.edu/conference/index.php">IEEE
 			MIT Undegraduate Technology Conference</a>. My talk will be about
