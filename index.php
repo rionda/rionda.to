@@ -21,6 +21,8 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>ICDM'16:</strong> I'm attending IEEE ICDM'16 in Barcelona
+					from 12/12 to 12/15. Drop me a line if you would like to meet.</li>
 					<li><strong>Brown University:</strong> I'll be teaching "Optimization
 					Methods in Finance" again in Spring'17</li>
 					<li><a href="oldnews.php">News archive</a></li>
