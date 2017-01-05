@@ -4,6 +4,8 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>ICDM'16:</strong> I'm attending IEEE ICDM'16 in Barcelona
+			from 12/12 to 12/15. Drop me a line if you would like to meet.</li>
 			<li><strong>Boston University (11/18):</strong> I'm talking about <a
 			talking about <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>,
 			hosted by <a href="http://www.cs.bu.edu/~evimaria/">Evimaria Terzi</a>.

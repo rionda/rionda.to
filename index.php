@@ -23,8 +23,6 @@ develop
 				<ul>
 					<li><strong>KDD'17:</strong> I'll be a member of the Senior Program
 					Committee.</li>
-					<li><strong>ICDM'16:</strong> I'm attending IEEE ICDM'16 in Barcelona
-					from 12/12 to 12/15. Drop me a line if you would like to meet.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
