@@ -21,8 +21,10 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>KDD'17:</strong> I'll be a member of the Senior Program
-					Committee.</li>
+					<li><strong>ECML PKDD'17</strong>: I joined the PC. This year the
+					conference takes place in Skopje, Macedonia.</li>
+					<li><strong>KDD'17:</strong> I am a member of the Senior Program
+					Committee. Looking forward to reviewing many good submissions!</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
