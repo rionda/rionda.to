@@ -39,7 +39,7 @@
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
 					<li class="pubs">M. Riondato and E. Upfal <a
-						href="papers/RiondatoUpdal-ABRA-ext.pdf">ABRA: Approximating
+						href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA: Approximating
 						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
 						Averages</a>, <em>ACM KDD'16</em>, 2016</li>
 					<li class="pubs">* L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
