@@ -18,6 +18,11 @@
 			<div id="pubs">
 				<h3>Journal Articles</h3>
 				<ol id="journals">
+					<li>L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
+						<a href="papers/DeStefaniEtAl-TRIEST-ext.pdf">TRI&Egrave;ST:
+						Counting Local and Global Triangles in Fully-dynamic Streams with
+						Fixed Memory Size</a>, <em>ACM Tansactions on Knowledge Discovery
+						from Data</em>, in press.</li>
 					<li>M. Riondato, D. Garc&iacute;a-Soriano, and F. Bonchi. <a
 						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">Graph
 						Summarization with Quality Guarantees</a>, <em>Data Mining and
