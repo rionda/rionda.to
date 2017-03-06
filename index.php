@@ -22,7 +22,7 @@ develop
 				<h2>News</h2>
 				<ul>
 					<li><strong>ACM TKDD:</strong> the extended version of <a
-					href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;EST</a> has
+					href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST</a> has
 					been accepted for publication.</li>
 					<li><strong>ECML PKDD'17</strong>: I joined the PC. This year the
 					conference takes place in Skopje, Macedonia.</li>
