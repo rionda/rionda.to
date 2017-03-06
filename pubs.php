@@ -11,9 +11,8 @@
 			<a href="http://orcid.org/0000-0003-2523-4420">ORCID</a>, <a
 				href="http://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>, <a
 				href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>.</p>
-			<p>In the following list, the symbol '*' denotes equal contribution by
-			all authors.<br/>
-			Many of the linked PDFs are extended versions of the original publications.</p>
+			<p>Many of the linked PDFs are extended versions of the original
+				publications.</p>
 
 			<div id="pubs">
 				<h3>Journal Articles</h3>
@@ -36,7 +35,7 @@
 						Discovery of Association Rules and Frequent Itemsets through Sampling
 						with Tight Performance Guarantees</a>, <em>ACM Transactions on Knowledge
 					Discovery from Data</em>, 8(4):20, 2014</li>
-					<li>* A. Pietracaprina, M. Riondato, E. Upfal, and F. Vandin. <a
+					<li>A. Pietracaprina, M. Riondato, E. Upfal, and F. Vandin. <a
 						href="papers/PietracaprinaEtAl-TopKItemsetsProgressiveSampling-DMKD.pdf">Mining
 						Top-k Frequent Itemsets through Progressive Sampling</a>, <em>Data
 						Mining and Knowledge Discovery</em>, 21(2):310&mdash;326, 2010</li>
@@ -47,7 +46,7 @@
 						href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA: Approximating
 						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
 						Averages</a>, <em>ACM KDD'16</em>, 2016</li>
-					<li class="pubs">* L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
+					<li class="pubs">L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
 						<a href="papers/DeStefaniEtAl-TRIEST-KDD.pdf">TRI&Egrave;ST: Counting
 						Local and Global Triangles in Fully-dynamic Streams with Fixed
 						Memory Size</a>, <em>ACM KDD'16</em> (<a
@@ -62,7 +61,7 @@
 						Frequent Itemsets through Progressive Sampling with Rademacher
 						Averages</a>, <em>ACM KDD'15</em>, 2015, <a
 						href="https://www.youtube.com/watch?v=E5k51VQVWg8">Presentation Video</a></li>
-					<li>* A. Anagnastopoulos, L. Becchetti, A. Fazzone, I. Mele, and M.
+					<li>A. Anagnastopoulos, L. Becchetti, A. Fazzone, I. Mele, and M.
 					Riondato. <a
 						href="papers/AnagnostopoulosEtAl-ExpertsMaxFindingCrowdsourcing.pdf">The
 						Importance of Being Experts: Efficient Max-Finding in Crowdsourcing</a>,
@@ -90,7 +89,7 @@
 						href="papers/RiondatoUpfal-FrequentItemsetsSampling-TKDD.pdf">Efficient
 						Discovery of Association Rules and Frequent Itemsets through Sampling
 						with Tight Performance Guarantees</a>, <em>ECML PKDD'12</em>, 2012</li>
-					<li>* A. Pietracaprina, G. Pucci, M. Riondato, F. Silvestri, and E. Upfal.
+					<li>A. Pietracaprina, G. Pucci, M. Riondato, F. Silvestri, and E. Upfal.
 					<a
 						href="papers/PietracaprinaEtAl-SpaceRoundMapReduce-ICS.pdf">Space-round
 						Tradeoffs for MapReduce Computations</a>, <em>ACM ICS'12</em>, 2012</li>
@@ -118,7 +117,7 @@
 
 				<h3>Tutorials</h3>
 				<ol id="tutorials">
-					<li>* F. Bonchi, G. De Francisci Morales, and M. Riondato. <a
+					<li>F. Bonchi, G. De Francisci Morales, and M. Riondato. <a
 						href="centrtutorial/">Centrality Measures on Big Graphs: Exact,
 						Approximated, and Distributed Algorithms</a>, <em>WWW'16</em>. <a
 						href="/centrtutorial/BonchiDeFrancisciMoralesRiondato-CentralityBigGraphsTutorial-Slides.pdf">Slides</a>.</li>
