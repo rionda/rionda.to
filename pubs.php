@@ -18,7 +18,7 @@
 				<h3>Journal Articles</h3>
 				<ol id="journals">
 					<li>L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
-						<a href="papers/DeStefaniEtAl-TRIEST-ext.pdf">TRI&Egrave;ST:
+						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
 						Counting Local and Global Triangles in Fully-dynamic Streams with
 						Fixed Memory Size</a>, <em>ACM Tansactions on Knowledge Discovery
 						from Data</em>, in press.</li>
@@ -47,11 +47,9 @@
 						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
 						Averages</a>, <em>ACM KDD'16</em>, 2016</li>
 					<li class="pubs">L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
-						<a href="papers/DeStefaniEtAl-TRIEST-KDD.pdf">TRI&Egrave;ST: Counting
-						Local and Global Triangles in Fully-dynamic Streams with Fixed
-						Memory Size</a>, <em>ACM KDD'16</em> (<a
-						href="papers/DeStefaniEtAl-TRIEST-ext.pdf">full version</a>),
-						2016</li>
+						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
+						Counting Local and Global Triangles in Fully-dynamic Streams with
+						Fixed Memory Size</a>, <em>ACM KDD'16</em>, 2016</li>
 					<li class="pubs">A. Mahmoody, M. Riondato, and E. Upfal. <a
 						href="papers/MahmoodyEtAl-Wiggins-WSDM.pdf">Wiggins: Detecting
 						Valuable Information in Dynamic Networks with Limited
