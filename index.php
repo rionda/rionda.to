@@ -21,6 +21,9 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>ACM TKDD:</strong> the extended version of <a
+					href="papers/DeStefaniEtAl-TRIEST-ext.pdf">TRI&Egrave;EST</a> has
+					been accepted for publication.</li>
 					<li><strong>ECML PKDD'17</strong>: I joined the PC. This year the
 					conference takes place in Skopje, Macedonia.</li>
 					<li><strong>KDD'17:</strong> I am a member of the Senior Program
