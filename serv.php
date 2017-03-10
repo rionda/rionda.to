@@ -40,7 +40,7 @@
 		<p class="notop">WWW'16: Social Networks and Graph Analysis 1</p>
 		<p class="notop">KDD'15: Social and Graphs 4</p>
 		<h3>Grant Proposal Reviewing</h3>
-		<p class="notop">Grace Hopper Conference Fellowship</p>
+		<p class="notop">Grace Hopper Conference Scholarship (2016 and 2017)</p>
 		<p class="notop">Sigma Delta Epsilon (Graduate Women in Science) National
 		Fellowship</p>
 <?php include("footer.html"); ?>

@@ -21,6 +21,9 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>Grace Hopper'17:</strong> I am a member of the
+					Scholarship review committee for <a
+					href="https://ghc.anitaborg.org/">this wonderful event</a>.</li>
 					<li><strong>ACM TKDD:</strong> the extended version of <a
 					href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST</a> has
 					been accepted for publication.</li>
