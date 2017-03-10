@@ -27,8 +27,9 @@ develop
 					<li><strong>ACM TKDD:</strong> the extended version of <a
 					href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST</a> has
 					been accepted for publication.</li>
-					<li><strong>ECML PKDD'17</strong>: I joined the PC. This year the
-					conference takes place in Skopje, Macedonia.</li>
+					<li><strong>ECML PKDD'17</strong>: I joined the PC. This year <a
+					href="http://ecmlpkdd2017.ijs.si/">the conference</a> takes place in
+					Skopje, Macedonia.</li>
 					<li><strong>KDD'17:</strong> I am a member of the Senior Program
 					Committee. Looking forward to reviewing many good submissions!</li>
 					<li><a href="oldnews.php">News archive</a></li>
