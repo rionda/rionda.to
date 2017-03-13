@@ -21,6 +21,10 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>Dagstuhl</strong>: I will give a talk at the <a
+					href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17141">Probabilistic
+					Methods in the Design and Analysis of Algorithms</a> at Schloss
+					Dagsthul.</li>
 					<li><strong>Grace Hopper'17:</strong> I am a member of the
 					Scholarship review committee for <a
 					href="https://ghc.anitaborg.org/">this wonderful event</a>.</li>
