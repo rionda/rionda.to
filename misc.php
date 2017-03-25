@@ -10,5 +10,9 @@
 			Riondato</a>, my grandfather, also on Wikipedia: <a
 			href="http://it.wikipedia.org/wiki/Ezio_Riondato">Ezio Riondato</a></p>
 		<p><a href="http://www.cit317.org">CIT 317</a>, my office at Brown CS</p>
+		<p><a href="http://www.FreeBSD.org">FreeBSD</a>, a UNIX-like operating
+system. In my salad days, I used to be a FreeBSD src committer, and the
+maintainer of FreeSBIE, a FreeBSD LiveCD. I still run FreeBSD on my research
+machines.</p>
 		<p><a href="https://en.wikipedia.org/wiki/Padua">Padua</a>, my hometown in Italy</p>
 <?php include("footer.html"); ?>
