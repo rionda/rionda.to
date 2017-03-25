@@ -14,5 +14,6 @@
 system. In my salad days, I used to be a FreeBSD src committer, and the
 maintainer of FreeSBIE, a FreeBSD LiveCD. I still run FreeBSD on my research
 machines.</p>
-		<p><a href="https://en.wikipedia.org/wiki/Padua">Padua</a>, my hometown in Italy</p>
+		<p><a href="https://en.wikipedia.org/wiki/Padua">Padua</a>, my hometown in
+Italy</p>
 <?php include("footer.html"); ?>
