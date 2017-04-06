@@ -21,21 +21,15 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>Dagstuhl</strong>: I will give a talk at the <a
+					<li><strong>PC memberships</strong>: I joined the PCs of ACM CIKM'17
+					and IEEE ICDE'18. Looking forward to reviewing more works at the
+					intersection of data management and data analytics.</li>
+					<li><strong>Dagstuhl</strong>: I am giving a talk on Rademacher
+					Averages and <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA"</a> at
+					the <a
 					href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17141">Probabilistic
 					Methods in the Design and Analysis of Algorithms</a> at Schloss
-					Dagsthul.</li>
-					<li><strong>Grace Hopper'17:</strong> I am a member of the
-					Scholarship review committee for <a
-					href="https://ghc.anitaborg.org/">this wonderful event</a>.</li>
-					<li><strong>ACM TKDD:</strong> the extended version of <a
-					href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST</a> has
-					been accepted for publication.</li>
-					<li><strong>ECML PKDD'17</strong>: I joined the PC. This year <a
-					href="http://ecmlpkdd2017.ijs.si/">the conference</a> takes place in
-					Skopje, Macedonia.</li>
-					<li><strong>KDD'17:</strong> I am a member of the Senior Program
-					Committee. Looking forward to reviewing many good submissions!</li>
+					Dagstuhl.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>

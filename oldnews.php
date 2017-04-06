@@ -4,6 +4,17 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Grace Hopper'17:</strong> I am a member of the Scholarship
+			review committee for <a
+				href="https://ghc.anitaborg.org/">this wonderful event</a>.</li>
+			<li><strong>ACM TKDD:</strong> the extended version of <a
+				href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST</a> has
+				been accepted for publication.</li>
+			<li><strong>ECML PKDD'17</strong>: I joined the PC. This year <a
+				href="http://ecmlpkdd2017.ijs.si/">the conference</a> takes place in
+			Skopje, Macedonia.</li>
+			<li><strong>KDD'17:</strong> I am a member of the Senior Program
+			Committee. Looking forward to reviewing many good submissions!</li>
 			<li><strong>ICDM'16:</strong> I'm attending IEEE ICDM'16 in Barcelona
 			from 12/12 to 12/15. Drop me a line if you would like to meet.</li>
 			<li><strong>Boston University (11/18):</strong> I'm talking about <a
