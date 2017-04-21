@@ -21,6 +21,10 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
+					for SIAM SDM'18. I'm excited to contribute to the organization of
+					this great conference stressing the importance of theory in data
+					mining.</li>
 					<li><strong>PC memberships</strong>: I joined the PCs of ACM CIKM'17
 					and IEEE ICDE'18. Looking forward to reviewing more works at the
 					intersection of data management and data analytics.</li>
