@@ -24,7 +24,7 @@ develop
 					<li><strong>NYU</strong>: On May 17 I'm giving a talk on <a
 						href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> at the <a
 						href="http://cds.nyu.edu/data-science-lunch-seminar-series/">NYU
-					Center for Data Science</a>.
+					Center for Data Science</a>.</li>
 					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
 					for SIAM SDM'18. I'm excited to contribute to the organization of
 					this great conference stressing the importance of theory in data
