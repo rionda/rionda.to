@@ -21,6 +21,10 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>NYU:>/strong>: On May 17 I'm giving a talk on <a
+						href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> at the <a
+						href="http://cds.nyu.edu/data-science-lunch-seminar-series/">NYU
+					Center for Data Science</a>.
 					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
 					for SIAM SDM'18. I'm excited to contribute to the organization of
 					this great conference stressing the importance of theory in data
@@ -28,12 +32,6 @@ develop
 					<li><strong>PC memberships</strong>: I joined the PCs of ACM CIKM'17
 					and IEEE ICDE'18. Looking forward to reviewing more works at the
 					intersection of data management and data analytics.</li>
-					<li><strong>Dagstuhl</strong>: I am giving a talk on Rademacher
-					Averages and <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> at
-					the <a
-					href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17141">Probabilistic
-					Methods in the Design and Analysis of Algorithms</a> at Schloss
-					Dagstuhl.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>

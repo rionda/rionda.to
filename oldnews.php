@@ -4,6 +4,11 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Dagstuhl</strong>: I am giving a talk on Rademacher Averages
+			and <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> at the <a
+				href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17141">Probabilistic
+				Methods in the Design and Analysis of Algorithms</a> at Schloss
+			Dagstuhl.</li>
 			<li><strong>Grace Hopper'17:</strong> I am a member of the Scholarship
 			review committee for <a
 				href="https://ghc.anitaborg.org/">this wonderful event</a>.</li>
