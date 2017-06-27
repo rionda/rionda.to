@@ -21,6 +21,12 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>New GPG/PGP key:</strong> I <a
+					href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xD8CA78A51EC56BEC">revoked
+					my old GPG key</a> and <a
+					href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0x1B02FD4954255501">created
+					a new one</a> (<a href="files/riondapgp.asc">ASCII-armored
+					file</a>).</li>
 					<li><strong>WWW'18</strong>: I'll be in the PC for the next World
 					Wide Web Conference.</li>
 					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
