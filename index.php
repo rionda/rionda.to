@@ -27,8 +27,9 @@ develop
 					href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0x1B02FD4954255501">created
 					a new one</a> (<a href="files/riondapgp.asc">ASCII-armored
 					file</a>).</li>
-					<li><strong>WWW'18</strong>: I'll be in the PC for the next World
-					Wide Web Conference.</li>
+					<li><strong>WWW'18</strong>: I'll be in the PC for the next <a
+					href="https://www2018.thewebconf.org">(World Wide) Web
+					Conference</a>.</li>
 					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
 					for SIAM SDM'18. I'm excited to contribute to the organization of
 					this great conference stressing the importance of theory in data
