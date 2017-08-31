@@ -18,7 +18,7 @@
 		<em>ApproxBetweenness</em>.</p>
 		<p><a href="software/parma.tar.bz2">PARMA</a> (only for archival purposes):
 		Frequent Itemsets and Association Rule Mining for MapReduce (<a
-		href="papers/RiondatoEtAl-PARMA.pdf">Paper</a>).<br />
+		href="papers/RiondatoEtAl-PARMA-CIKM.pdf">Paper</a>).<br />
 		PARMA is also used inside <a
 		href="https://samoa.incubator.apache.org">Apache SAMOA</a>, Yahoo's
 		platform for Big Data streams analysis.</p>
