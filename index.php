@@ -21,6 +21,12 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>Visiting NII:</strong> From 11/12 to 11/22 I'll be
+					visiting <a href="http://research.nii.ac.jp/~yyoshida/">Yuichi
+					Yoshida</a> at the National Institute for Informatics in Tokyo,
+					Japan, where I will also give a talk. I'm thrilled to spend a wiki
+					with Yuichi, who is an incredibly smart, world-class researcher
+					combining theory and data mining.</li>
 					<li><strong>New GPG/PGP key:</strong> I <a
 					href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xD8CA78A51EC56BEC">revoked
 					my old GPG key</a> and <a
