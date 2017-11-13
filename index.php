@@ -21,6 +21,13 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>FouLarD'18:</strong> I'm co-organizing <a
+					href="foulard18/">FouLarD'18</a>, a workshop on the foundations of
+					learning from data, together with <a
+					href="http://cs.nyu.edu/~mohri">Mehryar Mohri</a>, <a
+					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
+					Panconesi, and <a href="http://cs.brown.edu/~eli">Eli Upfal</a>. It
+					will take place in Bertinoro, Italy, in September 2018.</li>
 					<li><strong>Visiting NII:</strong> From 11/12 to 11/22 I'll be
 					visiting <a href="http://research.nii.ac.jp/~yyoshida/">Yuichi
 					Yoshida</a> at the National Institute for Informatics in Tokyo,
