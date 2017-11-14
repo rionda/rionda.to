@@ -2,7 +2,9 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Service</h2>
 		<h3>Organizing Committees</h3>
-		<p class="notop">2018: SIAM SDM'18 (Sponsorhip Co-chair)</p>
+		<p class="notop">2018: SIAM SDM'18 (Sponsorship Co-chair), <a
+		href="foulard18/">Foundations on Learning from Data Workshop</a>
+		(Organizer)</p>
 		<h3>Program Committees</h3>
 		<p class="notop">2018: WWW'18, IEEE ICDE'18</p>
 		<p class="notop">2017: ACM KDD'17 (Senior PC), ACM WSDM'17, WWW'17, IEEE
@@ -12,6 +14,7 @@
 		<p class="notop">2015: ACM KDD'15, ACM CIKM'15</p>
 		<p class="notop">2014: ACM CIKM'14</p>
 		<h3>Journal Reviewing</h3>
+		<p class="notop"><em>ACM Transactions on Database Systems</em> (TODS)</p>
 		<p class="notop"><em>ACM Transactions on Information Systems</em> (TOIS)</p>
 		<p class="notop"><em>ACM Transactions on Knowledge Discovery from Data</em> (TKDD)</p>
 		<p class="notop"><em>Data Mining and Knowledge Discovery</em> (DMKD/DAMI)</p>
@@ -28,7 +31,9 @@
 		<p class="notop"><em>The Computer Journal</em></p>
 		<p class="notop"><em>VLDB Journal</em> (VLDBJ)</p>
 		<h3>Conference Reviewing</h3>
-		<p class="notop">2017: ACM WSDM'17, SODA'17</p>
+		<p class="notop">2018: IEEE ICDE'18, WWW'18</p>
+		<p class="notop">2017: ECML PKDD'17, ACM KDD'17, ACM CIKM'17, ACM WSDM'17,
+			SODA'17</p>
 		<p class="notop">2016: IEEE ICDM'16, ACM CIKM'16, Grace Hopper'16, ECML
 			PKDD'16, ACM KDD'16, WWW'16, ACM WSDM'16</p>
 		<p class="notop">2015: ACM CIKM'15, ACM KDD'15, ISAAC'15, SIAM SDM'15, IEEE
@@ -39,10 +44,14 @@
 		<p class="notop">2012: IEEE IPDPS'12, ACM ICS'12</p>
 		<p class="notop">2011: APPROX-RANDOM'11</p>
 		<h3>Conference Session Chairing</h3>
+		<p class="notop">KDD'17: Graphs 1</p>
+		<p class="notop">KDD'16: Graphs 1</p>
+		<p class="notop">ICDM'16: Theory</p>
 		<p class="notop">ECML PKDD'16: Graphs and Social Networks 1</p>
 		<p class="notop">WWW'16: Social Networks and Graph Analysis 1</p>
 		<p class="notop">KDD'15: Social and Graphs 4</p>
 		<h3>Grant Proposal Reviewing</h3>
+		<p class="notop">NSF SBIR/STTR Program</p>
 		<p class="notop">Grace Hopper Conference Scholarship (2016 and 2017)</p>
 		<p class="notop">Sigma Delta Epsilon (Graduate Women in Science) National
 		Fellowship</p>
