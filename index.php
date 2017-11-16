@@ -30,7 +30,7 @@ develop
 					will take place in Bertinoro, Italy, in September 2018.</li>
 					<li><strong>Visiting NII:</strong> From 11/12 to 11/22 I'll be
 					visiting <a href="http://research.nii.ac.jp/~yyoshida/">Yuichi
-					Yoshida</a> at the National Institute for Informatics in Tokyo,
+					Yoshida</a> at the National Institute of Informatics in Tokyo,
 					Japan, where I will also give a talk. I'm thrilled to spend a wiki
 					with Yuichi, who is an incredibly smart, world-class researcher
 					combining theory and data mining.</li>
