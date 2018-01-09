@@ -4,6 +4,23 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Visiting NII:</strong> From 11/12 to 11/22 I'll be visiting
+			<a href="http://research.nii.ac.jp/~yyoshida/">Yuichi Yoshida</a> at the
+			National Institute of Informatics in Tokyo, Japan, where I will also give
+			a talk. I'm thrilled to spend a wiki with Yuichi, who is an incredibly
+			smart, world-class researcher combining theory and data mining.</li>
+			<li><strong>PC memberships</strong>: I joined the PCs of ACM CIKM'17 and
+			IEEE ICDE'18. Looking forward to reviewing more works at the intersection
+			of data management and data analytics.</li>
+			<li><strong>New GPG/PGP key:</strong> I <a
+			href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xD8CA78A51EC56BEC">revoked
+			my old GPG key</a> and <a
+			href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0x1B02FD4954255501">created
+			a new one</a> (<a href="files/riondapgp.asc">ASCII-armored
+			file</a>).</li>
+			<li><strong>WWW'18</strong>: I'll be in the PC for the next <a
+			href="https://www2018.thewebconf.org">(World Wide) Web
+			Conference</a>.</li>
 			<li><strong>NYU</strong>: On May 17 I'm giving a talk on <a
 			href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> at the <a
 			href="http://cds.nyu.edu/data-science-lunch-seminar-series/">NYU

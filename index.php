@@ -28,28 +28,12 @@ develop
 					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
 					Panconesi, and <a href="http://cs.brown.edu/~eli">Eli Upfal</a>. It
 					will take place in Bertinoro, Italy, in September 2018.</li>
-					<li><strong>Visiting NII:</strong> From 11/12 to 11/22 I'll be
-					visiting <a href="http://research.nii.ac.jp/~yyoshida/">Yuichi
-					Yoshida</a> at the National Institute of Informatics in Tokyo,
-					Japan, where I will also give a talk. I'm thrilled to spend a wiki
-					with Yuichi, who is an incredibly smart, world-class researcher
-					combining theory and data mining.</li>
-					<li><strong>New GPG/PGP key:</strong> I <a
-					href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xD8CA78A51EC56BEC">revoked
-					my old GPG key</a> and <a
-					href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0x1B02FD4954255501">created
-					a new one</a> (<a href="files/riondapgp.asc">ASCII-armored
-					file</a>).</li>
-					<li><strong>WWW'18</strong>: I'll be in the PC for the next <a
-					href="https://www2018.thewebconf.org">(World Wide) Web
-					Conference</a>.</li>
+					<li><strong>ACM KDD'18</strong>: I'll be serving on the PC of ACM
+					KDD'18, the major conference on data mining.</li>
 					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
 					for SIAM SDM'18. I'm excited to contribute to the organization of
 					this great conference stressing the importance of theory in data
 					mining.</li>
-					<li><strong>PC memberships</strong>: I joined the PCs of ACM CIKM'17
-					and IEEE ICDE'18. Looking forward to reviewing more works at the
-					intersection of data management and data analytics.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
