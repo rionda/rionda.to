@@ -6,7 +6,7 @@
 		href="foulard18/">Foundations on Learning from Data Workshop</a>
 		(Organizer)</p>
 		<h3>Program Committees</h3>
-		<p class="notop">2018: WWW'18, IEEE ICDE'18</p>
+		<p class="notop">2018: ACM KDD'18, WWW'18, IEEE ICDE'18</p>
 		<p class="notop">2017: ACM KDD'17 (Senior PC), ACM WSDM'17, WWW'17, IEEE
 			ICDE'17, ECML PKDD '17, ACM CIKM'17</p>
 		<p class="notop">2016: IEEE ICDM'16, ACM CIKM'16, Grace Hopper'16, ECML
@@ -17,6 +17,7 @@
 		<p class="notop"><em>ACM Transactions on Database Systems</em> (TODS)</p>
 		<p class="notop"><em>ACM Transactions on Information Systems</em> (TOIS)</p>
 		<p class="notop"><em>ACM Transactions on Knowledge Discovery from Data</em> (TKDD)</p>
+		<p class="notop"><em>Discrete Applied Mathematics</em> (DAM)</p>
 		<p class="notop"><em>Data Mining and Knowledge Discovery</em> (DMKD/DAMI)</p>
 		<p class="notop"><em>Engineering Applications of Artificial Intelligence</em> (EAAI)</p>
 		<p class="notop"><em>Expert Systems with Applications</em> (ESWA)</p>
