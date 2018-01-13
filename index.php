@@ -26,8 +26,8 @@ develop
 					learning from data, together with <a
 					href="http://cs.nyu.edu/~mohri">Mehryar Mohri</a>, <a
 					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
-					Panconesi, and <a href="http://cs.brown.edu/~eli">Eli Upfal</a>. It
-					will take place in Bertinoro, Italy, in September 2018.</li>
+					Panconesi</a>, and <a href="http://cs.brown.edu/~eli">Eli Upfal</a>.
+					It will take place in Bertinoro, Italy, in September 2018.</li>
 					<li><strong>ACM KDD'18</strong>: I'll be serving on the PC of ACM
 					KDD'18, the major conference on data mining.</li>
 					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
