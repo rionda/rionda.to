@@ -30,6 +30,10 @@ develop
 					It will take place in Bertinoro, Italy, in September 2018.</li>
 					<li><strong>ACM KDD'18</strong>: I'll be serving on the PC of ACM
 					KDD'18, the major conference on data mining.</li>
+					<li><strong>Teaching at Brown CS</strong>: I'm teaching <a
+					href="http://cs.brown.edu/courses/cs1951g/">CSCI 1951-G
+					<em>Optimization Methods in Finance</em></a> again this year. So
+					rewarding to be with in the class brilliant students again!</li>
 					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
 					for SIAM SDM'18. I'm excited to contribute to the organization of
 					this great conference stressing the importance of theory in data
