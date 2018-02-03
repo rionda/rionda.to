@@ -28,16 +28,17 @@ develop
 					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
 					Panconesi</a>, and <a href="http://cs.brown.edu/~eli">Eli Upfal</a>.
 					It will take place in Bertinoro, Italy, in September 2018.</li>
-					<li><strong>ACM KDD'18</strong>: I'll be serving on the PC of ACM
-					KDD'18, the major conference on data mining.</li>
+					<li><strong>ACM KDD'18</strong>: I'll be serving on the PC of <a
+					href="http://www.kdd.org/kdd2018/">ACM KDD'18</a>, the major
+					conference on data mining.</li>
 					<li><strong>Teaching at Brown CS</strong>: I'm teaching <a
 					href="http://cs.brown.edu/courses/cs1951g/">CSCI 1951-G
 					<em>Optimization Methods in Finance</em></a> again in Spring'18. So
 					rewarding to be in class with brilliant students again!</li>
 					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
-					for SIAM SDM'18. I'm excited to contribute to the organization of
-					this great conference stressing the importance of theory in data
-					mining.</li>
+					for <a href="http://www.siam.org/meetings/sdm18/">SIAM SDM'18</a>.
+					I'm excited to contribute to the organization of this great
+					conference stressing the importance of theory in data mining.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
