@@ -28,6 +28,11 @@ develop
 					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
 					Panconesi</a>, and <a href="http://cs.brown.edu/~eli">Eli Upfal</a>.
 					It will take place in Bertinoro, Italy, in September 2018.</li>
+					<li><strong>Talk at Harvard</strong></li>: On 4/30 I'll be speaking
+					at the <a href="https://toc.seas.harvard.edu/toc-seminar">Theory of
+					Computation Semininar</a> at Harvard. Thanks to <a
+					href="http://www.eecs.harvard.edu/~michaelm/">Mike Mitzenmacher</a>
+					for inviting me.</li>
 					<li><strong>ACM KDD'18</strong>: I'll be serving on the PC of <a
 					href="http://www.kdd.org/kdd2018/">ACM KDD'18</a>, the major
 					conference on data mining.</li>
