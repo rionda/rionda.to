@@ -28,6 +28,10 @@ develop
 					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
 					Panconesi</a>, and <a href="http://cs.brown.edu/~eli">Eli Upfal</a>.
 					It will take place in Bertinoro, Italy, in September 2018.</li>
+					<li><strong>Grace Hopper'18:</strong> I'm proud to be serving on the
+					program commitee for the Data Science track of the <a
+					href="https://ghc.anitab.org/">Grace Hopper Celebration</a>, the
+					premier event for women technologists.</li>
 					<li><strong>Talk at Harvard</strong>: On 4/30 I'll be speaking
 					at the <a href="https://toc.seas.harvard.edu/toc-seminar">Theory of
 					Computation Semininar</a> at Harvard. Thanks to <a
