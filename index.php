@@ -28,6 +28,10 @@ develop
 					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
 					Panconesi</a>, and <a href="http://cs.brown.edu/~eli">Eli Upfal</a>.
 					It will take place in Bertinoro, Italy, in September 2018.</li>
+					<li><strong>ECML PKDD'18:</strong> Happy to serve on the PC of <a
+					href="http://www.ecmlpkdd2018.org/">ECML PKDD'18</a>, my "home"
+					conference in many ways, and a great venue for algorithmic data
+					science.</li>
 					<li><strong>Grace Hopper'18:</strong> I'm proud to be serving on the
 					program commitee for the Data Science track of the <a
 					href="https://ghc.anitab.org/">Grace Hopper Celebration</a>, the
