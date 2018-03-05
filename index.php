@@ -41,6 +41,9 @@ develop
 					Computation Semininar</a> at Harvard. Thanks to <a
 					href="http://www.eecs.harvard.edu/~michaelm/">Mike Mitzenmacher</a>
 					for inviting me.</li>
+					<li><strong>ACM CIKM'18</strong>: I'm on the PC of <a
+					href="http://www.cikm2018.units.it/">ACM CIKM'18</a>, which takes
+					place in Turin in October.</li>
 					<li><strong>ACM KDD'18</strong>: I'll be serving on the PC of <a
 					href="http://www.kdd.org/kdd2018/">ACM KDD'18</a>, the major
 					conference on data mining.</li>
