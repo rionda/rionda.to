@@ -17,7 +17,7 @@
 			<div id="pubs">
 				<h3>Journal Articles</h3>
 				<ol id="journals">
-					<li class="pubs">M. Riondato and E. Upfal <a
+					<li>M. Riondato and E. Upfal <a
 						href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA: Approximating
 						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
 						Averages</a>, <em>ACM Tansactions on Knowledge Discovery from
@@ -47,15 +47,15 @@
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
-					<li class="pubs">M. Riondato and E. Upfal <a
+					<li>M. Riondato and E. Upfal <a
 						href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA: Approximating
 						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
 						Averages</a>, <em>ACM KDD'16</em>, 2016</li>
-					<li class="pubs">L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
+					<li>L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
 						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
 						Counting Local and Global Triangles in Fully-dynamic Streams with
 						Fixed Memory Size</a>, <em>ACM KDD'16</em>, 2016</li>
-					<li class="pubs">A. Mahmoody, M. Riondato, and E. Upfal. <a
+					<li>A. Mahmoody, M. Riondato, and E. Upfal. <a
 						href="papers/MahmoodyEtAl-Wiggins-WSDM.pdf">Wiggins: Detecting
 						Valuable Information in Dynamic Networks with Limited
 						Resources</a>, <em>ACM WSDM'16</em>, 2016</li>
