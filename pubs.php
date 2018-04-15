@@ -26,7 +26,7 @@
 						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
 						Counting Local and Global Triangles in Fully-dynamic Streams with
 						Fixed Memory Size</a>, <em>ACM Tansactions on Knowledge Discovery
-						from Data</em>, 11(2):43, 2017.</li>
+						from Data</em>, 11(2):43, 2017</li>
 					<li>M. Riondato, D. Garc&iacute;a-Soriano, and F. Bonchi. <a
 						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">Graph
 						Summarization with Quality Guarantees</a>, <em>Data Mining and
