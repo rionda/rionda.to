@@ -17,6 +17,11 @@
 			<div id="pubs">
 				<h3>Journal Articles</h3>
 				<ol id="journals">
+					<li class="pubs">M. Riondato and E. Upfal <a
+						href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA: Approximating
+						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
+						Averages</a>, <em>ACM Tansactions on Knowledge Discovery from
+						Data</em>, to appear</li>
 					<li>L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
 						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
 						Counting Local and Global Triangles in Fully-dynamic Streams with
