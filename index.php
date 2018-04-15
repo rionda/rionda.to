@@ -21,6 +21,10 @@ develop
 				Pierre-Simon Laplace (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>ACM TKDD:</strong> <a
+					href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>, our work on
+					approximating betweenness centrality with Rademacher averages was
+					accepted for publication in ACM TKDD.</li>
 					<li><strong>FouLarD'18:</strong> I'm co-organizing <a
 					href="foulard18/">FouLarD'18</a>, a workshop on the foundations of
 					learning from data, together with <a
@@ -28,6 +32,9 @@ develop
 					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
 					Panconesi</a>, and <a href="http://cs.brown.edu/~eli">Eli Upfal</a>.
 					It will take place in Bertinoro, Italy, in September 2018.</li>
+					<li><strong>IEEE ICDM'18:</strong> I'm serving on the PC of <a
+					href="http://icdm2018.org/">IEEE ICDM'18</a>, which will be in
+					Singapore in November.</a>
 					<li><strong>ECML PKDD'18:</strong> Happy to serve on the PC of <a
 					href="http://www.ecmlpkdd2018.org/">ECML PKDD'18</a>, my "home"
 					conference in many ways, and a great venue for algorithmic data
@@ -41,20 +48,6 @@ develop
 					Computation Semininar</a> at Harvard. Thanks to <a
 					href="http://www.eecs.harvard.edu/~michaelm/">Mike Mitzenmacher</a>
 					for inviting me.</li>
-					<li><strong>ACM CIKM'18</strong>: I'm on the PC of <a
-					href="http://www.cikm2018.units.it/">ACM CIKM'18</a>, which takes
-					place in Turin in October.</li>
-					<li><strong>ACM KDD'18</strong>: I'll be serving on the PC of <a
-					href="http://www.kdd.org/kdd2018/">ACM KDD'18</a>, the major
-					conference on data mining.</li>
-					<li><strong>Teaching at Brown CS</strong>: I'm teaching <a
-					href="http://cs.brown.edu/courses/cs1951g/">CSCI 1951-G
-					<em>Optimization Methods in Finance</em></a> again in Spring'18. So
-					rewarding to be in class with brilliant students again!</li>
-					<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair
-					for <a href="http://www.siam.org/meetings/sdm18/">SIAM SDM'18</a>.
-					I'm excited to contribute to the organization of this great
-					conference stressing the importance of theory in data mining.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>

@@ -4,6 +4,20 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>ACM CIKM'18</strong>: I'm on the PC of <a
+			href="http://www.cikm2018.units.it/">ACM CIKM'18</a>, which takes place
+			in Turin in October.</li>
+			<li><strong>ACM KDD'18</strong>: I'll be serving on the PC of <a
+			href="http://www.kdd.org/kdd2018/">ACM KDD'18</a>, the major conference
+			on data mining.</li>
+			<li><strong>Teaching at Brown CS</strong>: I'm teaching <a
+			href="http://cs.brown.edu/courses/cs1951g/">CSCI 1951-G <em>Optimization
+			Methods in Finance</em></a> again in Spring'18. So rewarding to be in
+			class with brilliant students again!</li>
+			<li><strong>SIAM SDM'18</strong>: I'll be the sponsorship co-chair for <a
+			href="http://www.siam.org/meetings/sdm18/">SIAM SDM'18</a>. I'm excited
+			to contribute to the organization of this great conference stressing the
+			importance of theory in data mining.</li>
 			<li><strong>Visiting NII:</strong> From 11/12 to 11/22 I'll be visiting
 			<a href="http://research.nii.ac.jp/~yyoshida/">Yuichi Yoshida</a> at the
 			National Institute of Informatics in Tokyo, Japan, where I will also give
