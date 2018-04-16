@@ -15,8 +15,8 @@ develop
 				theory and sampling.</p>
 				<p>My <a
 				href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erd&#337;s
-				number is 3</a> (<a
-				href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s">Erd&#337;s/a>
+				number</a> is 3 (<a
+				href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s">Erd&#337;s</a>
 				&rarr; <a href="http://math.usf.edu/faculty/ssuen/">Suen</a> &rarr; <a
 				href="https://cs.brown.edu/people/eli">Upfal</a> &rarr; Matteo), and I
 				am a <a
