@@ -2,3 +2,6 @@
 	path = cv
 	url = https://github.com/rionda/cv
 	#git@github.com:rionda/cv
+[submodule "files/bibtexs"]
+	path = files/bibtexs
+	url = https://github.com/rionda/bibtexs.git
