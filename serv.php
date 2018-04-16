@@ -33,15 +33,10 @@
 		<p class="notop"><em>The Computer Journal</em></p>
 		<p class="notop"><em>VLDB Journal</em> (VLDBJ)</p>
 		<h3>Conference Reviewing</h3>
-		<p class="notop">2018: IEEE ICDE'18, WWW'18</p>
-		<p class="notop">2017: ECML PKDD'17, ACM KDD'17, ACM CIKM'17, ACM WSDM'17,
-			SODA'17</p>
-		<p class="notop">2016: IEEE ICDM'16, ACM CIKM'16, Grace Hopper'16, ECML
-			PKDD'16, ACM KDD'16, WWW'16, ACM WSDM'16</p>
-		<p class="notop">2015: ACM CIKM'15, ACM KDD'15, ISAAC'15, SIAM SDM'15, IEEE
-			ICDE'15</p>
-		<p class="notop">2014: ACM CIKM'14, DISC'14, ACM WSDM'14, WWW'14,
-			ICALP'14</p>
+		<p>(Not including reviews done as Program Committee member)</p>
+		<p class="notop">2017: MFCS'17, SODA'17</p>
+		<p class="notop">2015: ISAAC'15, SIAM SDM'15, IEEE ICDE'15</p>
+		<p class="notop">2014: DISC'14, ACM WSDM'14, WWW'14, ICALP'14</p>
 		<p class="notop">2013: IEEE BigData'13, MFCS'13, ACM WSDM'13</p>
 		<p class="notop">2012: IEEE IPDPS'12, ACM ICS'12</p>
 		<p class="notop">2011: APPROX-RANDOM'11</p>
