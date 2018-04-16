@@ -18,10 +18,10 @@
 				<h3>Journal Articles</h3>
 				<ol id="journals">
 					<li>M. Riondato and E. Upfal <a
-						href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA: Approximating
-						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
-						Averages</a>, <em>ACM Tansactions on Knowledge Discovery from
-						Data</em>, to appear</li>
+						href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA:
+						Approximating Betweenness Centrality in Static and Dynamic Graphs
+						with Rademacher Averages</a>, <em>ACM Tansactions on Knowledge
+						Discovery from Data</em>, to appear</li>
 					<li>L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
 						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
 						Counting Local and Global Triangles in Fully-dynamic Streams with
@@ -48,9 +48,9 @@
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
 					<li>M. Riondato and E. Upfal <a
-						href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA: Approximating
-						Betweenness Centrality in Static and Dynamic Graphs with Rademacher
-						Averages</a>, <em>ACM KDD'16</em>, 2016</li>
+						href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA:
+						Approximating Betweenness Centrality in Static and Dynamic Graphs
+						with Rademacher Averages</a>, <em>ACM KDD'16</em>, 2016</li>
 					<li>L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
 						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
 						Counting Local and Global Triangles in Fully-dynamic Streams with

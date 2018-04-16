@@ -22,9 +22,11 @@ develop
 				<h2>News</h2>
 				<ul>
 					<li><strong>ACM TKDD:</strong> <a
-					href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>, our work on
+					href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>,
+					our work (with <a href="http://cs.brown.edu/people/eli">Eli</a>) on
 					approximating betweenness centrality with Rademacher averages was
-					accepted for publication in ACM TKDD.</li>
+					accepted for publication in <a href="http://tkdd.acm.org">ACM
+					TKDD</a>.</li>
 					<li><strong>FouLarD'18:</strong> I'm co-organizing <a
 					href="foulard18/">FouLarD'18</a>, a workshop on the foundations of
 					learning from data, together with <a

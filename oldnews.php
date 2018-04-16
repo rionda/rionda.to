@@ -36,12 +36,15 @@
 			href="https://www2018.thewebconf.org">(World Wide) Web
 			Conference</a>.</li>
 			<li><strong>NYU</strong>: On May 17 I'm giving a talk on <a
-			href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> at the <a
+			href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>
+			at the <a
 			href="http://cds.nyu.edu/data-science-lunch-seminar-series/">NYU
 			Center for Data Science</a>.</li>
 			<li><strong>Dagstuhl</strong>: I am giving a talk on Rademacher Averages
-			and <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> at the <a
-				href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17141">Probabilistic
+			and <a
+				href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>
+			at the <a
+			href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17141">Probabilistic
 				Methods in the Design and Analysis of Algorithms</a> at Schloss
 			Dagstuhl.</li>
 			<li><strong>Grace Hopper'17:</strong> I am a member of the Scholarship
@@ -58,7 +61,7 @@
 			<li><strong>ICDM'16:</strong> I'm attending IEEE ICDM'16 in Barcelona
 			from 12/12 to 12/15. Drop me a line if you would like to meet.</li>
 			<li><strong>Boston University (11/18):</strong> I'm talking about <a
-			talking about <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>,
+			href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>,
 			hosted by <a href="http://www.cs.bu.edu/~evimaria/">Evimaria Terzi</a>.
 			<li><strong>IEEE MIT URTC (11/05):</strong> I'm a keynote speaker at
 			the <a href="http://ieee.scripts.mit.edu/conference/index.php">IEEE
@@ -73,20 +76,21 @@
 			<li><strong>Carnegie Mellon University (10/24):</strong> Giving a
 			<a
 			href="http://www.cs.cmu.edu/calendar/mon-2016-10-24-1645/database-seminar">talk</a>
-			on <a href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> at the
-			<a href="http://db.cs.cmu.edu/">database group</a> meeting, hosted by
+			on <a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST</a> at
+			the <a href="http://db.cs.cmu.edu/">database group</a> meeting, hosted by
 			<a href="http://cs.cmu.edu/~pavlo">Andy Pavlo</a>.</li>
 			<li><strong>Network Science Institute @ Northeastern University
 			(10/17):</strong> I'm <a
 			href="http://www.networkscienceinstitute.org/events/matteo-riondato">talking</a>
-			about <a href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a>, hosted by
-			<a href="http://www.eliassi.org">Tina Eliassi-Rad</a>.
+			about <a
+			href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>,
+			hosted by <a href="http://www.eliassi.org">Tina Eliassi-Rad</a>.
 			<li><strong>University of Padua (9/26):</strong> I'm giving a talk on
 			<a href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">graph
 			summarization</a> at DEI (Department of Information Engineering). Excited
 			to speak at my alma mater.</li>
 			<li><strong>ACM KDD'16:</strong> <a
-			href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> wins the
+			href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST</a> wins the
 			<a
 			href="http://www.kdd.org/awards/view/2016-sigkdd-best-paper-award-winners">best
 			student paper award (Research track)</a>. I feel very honored, and
@@ -94,7 +98,7 @@
 			student), <a href="http://www.epasto.org">Alessandro Epasto</a>, and
 			<a href="http://cs.brown.edu/people/eli/">Eli Upfal</a>).</li>
 			<li><strong>arXiv:</strong> a much longer version of <a
-			href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a> is now
+			href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST</a> is now
 			available.</li>
 			<li><strong>ACM WSDM'17:</strong> I joined the Program Committee of
 			<a href="http://www.wsdm-conference.org/2017/">WSDM'17</a>, a conference
@@ -103,9 +107,9 @@
 			<a href="http://icdm16.eurecat.org">ICDM'16</a>, which takes place in
 			the most awesome city of Barcelona.</li>
 			<li><strong>ACM KDD'16:</strong> Two papers of mine (<a
-			href="papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> and <a
-			href="http://arxiv.org/abs/1602.07424">TRI&Egrave;ST</a>) got
-			accepted as full presentations. See you in SF in August!</li>
+			href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>
+			and <a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST</a>)
+			were accepted as full presentations. See you in SF in August!</li>
 			<li><strong>ACM CIKM'16:</strong> I joined the Program Committee of
 				<a href="http://cikm2016.cs.iupui.edu/">ACM CIKM'16</a>. Nice event
 				that brings together different communities.</li>
@@ -113,9 +117,9 @@
 				Committee. This year the conference will be in beautiful Riva del
 				Garda, on Lake Garda, Italy, very close to my hometown Padua!</li>
 			<li><strong>SINS'16:</strong> I'm giving a talk on <a
-				href="/papers/RiondatoUpfal-ABRA-ext.pdf">ABRA</a> at <a
-				href="http://www.dsi.unive.it/~sins2016/">SINS'16</a>, a workshop on
-				Social Impact through Network Science. It takes place in Venice, in
+				href="/papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>
+				at <a href="http://www.dsi.unive.it/~sins2016/">SINS'16</a>, a workshop
+				on Social Impact through Network Science. It takes place in Venice, in
 				June. Looking forward to meeting many people there!</li>
 			<li><strong>GHC'16:</strong> I'm so very excited to be part of the PC
 				for the <a
