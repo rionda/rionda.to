@@ -16,7 +16,7 @@
     $commands = array(
         '/usr/local/bin/git pull',
         '/usr/local/bin/git submodule sync',
-        '/usr/local/bin/git submodule update'
+        '/usr/local/bin/git submodule update --init'
     );
 
     base64_encode($agent);
