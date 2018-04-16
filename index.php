@@ -32,6 +32,11 @@ develop
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>HLF'18:</strong> I have been selected as a Young
+					Researcher for the <a
+					href="http://www.heidelberg-laureate-forum.org/">Heidelberg Laureate
+					Forum</a>!  Really excited to go meet brilliant minds of all ages in
+					September.</li>
 					<li><strong>ACM TKDD:</strong> <a
 					href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>,
 					our work (with <a href="https://cs.brown.edu/people/eli">Eli</a>) on
