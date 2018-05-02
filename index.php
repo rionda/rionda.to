@@ -32,6 +32,10 @@ develop
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>SDM'19:</strong> I'll be serving as Co-chair of the
+					Doctoral Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
+					SDM'19</a>. Very excited to help with the organization, as I won the
+					best student poster award at this event in 2014.</li>
 					<li><strong>HLF'18:</strong> I have been selected as a Young
 					Researcher for the <a
 					href="http://www.heidelberg-laureate-forum.org/">Heidelberg Laureate
