@@ -32,6 +32,11 @@ develop
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>KDD'18:></strong> MiSoSouP, our algorithm for subgroup
+					discovery using random sampling and pseudodimension has been accepted
+					for long presentation at KDD'18. Joint work with superstar co-author
+					<a href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>. Very happy
+					that all the work we put in this paper paid off.</li>
 					<li><strong>SDM'19:</strong> I'll be serving as Co-chair of the
 					Doctoral Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
 					SDM'19</a>. Very excited to help with the organization, as I won the
