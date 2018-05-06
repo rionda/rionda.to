@@ -32,7 +32,7 @@ develop
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>KDD'18:></strong> MiSoSouP, our algorithm for subgroup
+					<li><strong>KDD'18:</strong> MiSoSouP, our algorithm for subgroup
 					discovery using random sampling and pseudodimension has been accepted
 					for long presentation at KDD'18. Joint work with superstar co-author
 					<a href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>. Very happy
