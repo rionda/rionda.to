@@ -61,10 +61,6 @@ develop
 					href="http://www.ecmlpkdd2018.org/">ECML PKDD'18</a>, my "home"
 					conference in many ways, and a great venue for algorithmic data
 					science.</li>
-					<li><strong>Grace Hopper'18:</strong> I'm proud to be serving on the
-					program commitee for the Data Science track of the <a
-					href="https://ghc.anitab.org/">Grace Hopper Celebration</a>, the
-					premier event for women technologists.</li>
 					<li><strong>Talk at Harvard</strong>: On 5/7 I talk about <a
 					href="https://www.seas.harvard.edu/calendar/event/111551">Sampling-based
 					Approximation Algorithms for Data Analysis using Rademacher

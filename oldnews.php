@@ -4,6 +4,10 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Grace Hopper'18:</strong> I'm proud to be serving on the
+			program commitee for the Data Science track of the <a
+			href="https://ghc.anitab.org/">Grace Hopper Celebration</a>, the premier
+			event for women technologists.</li>
 			<li><strong>ACM CIKM'18</strong>: I'm on the PC of <a
 			href="http://www.cikm2018.units.it/">ACM CIKM'18</a>, which takes place
 			in Turin in October.</li>
