@@ -66,14 +66,6 @@ develop
 					href="http://www.ecmlpkdd2018.org/">ECML PKDD'18</a>, my "home"
 					conference in many ways, and a great venue for algorithmic data
 					science.</li>
-					<li><strong>Talk at Harvard</strong>: On 5/7 I talk about <a
-					href="https://www.seas.harvard.edu/calendar/event/111551">Sampling-based
-					Approximation Algorithms for Data Analysis using Rademacher
-					Averages</a> at the <a
-					href="https://toc.seas.harvard.edu/toc-seminar">Theory of Computation
-					Seminnar</a> at Harvard. Thanks to <a
-					href="http://www.eecs.harvard.edu/~michaelm/">Mike Mitzenmacher</a>
-					for inviting me.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>
