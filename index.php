@@ -3,7 +3,7 @@
 				<p>I am a researcher in computer science, currently with the
 				Labs group at <a href="http://www.twosigma.com/">Two Sigma</a>, a highly
 				innovative investment firm in New York City. I also have an appointment
-				as Visiting Assistant Professor of <a
+				as Adjunct Assistant Professor of <a
 				href="http://cs.brown.edu">Computer Science at Brown
 				University</a>.</p>
 				<p>My research interest is in <em>algorithmic data science</em>. I
@@ -37,7 +37,7 @@ develop
 					for long presentation at KDD'18. Joint work with superstar co-author
 					<a href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>. Very happy
 					that all the work we put in this paper paid off.</li>
-					<li><strong>SDM'19:</strong> I'll be serving as Co-chair of the
+					<li><strong>SDM'19:</strong> I'll be serving as co-chair of the
 					Doctoral Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
 					SDM'19</a>. Very excited to help with the organization, as I won the
 					best student poster award at this event in 2014.</li>
