@@ -160,16 +160,20 @@ strong {
 	counter-reset: pubs 17;
 }
 
-#tutorials {
+#techreps {
 	counter-reset: pubs 22;
 }
 
+#tutorials {
+	counter-reset: pubs 23;
+}
+
 #dissertation {
-	counter-reset: pubs 24;
+	counter-reset: pubs 25;
 }
 
 #otherpubs {
-	counter-reset: pubs 25;
+	counter-reset: pubs 26;
 }
 
 #pubs {
@@ -186,7 +190,7 @@ strong {
 	padding-top: 0.7ex;
 	list-style-position: inside;
 	text-indent: -1em;
-        padding-left: 1em;
+	padding-left: 1em;
 }
 
 #pubs li:before {
