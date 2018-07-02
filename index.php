@@ -32,6 +32,13 @@ develop
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>Sharpe ratio TR:</strong> my <a
+					href="papers/Riondato-SharpeRatioEstimationConfidenceIntervalsHypothesisTesting-TSTR.pdf">technical
+					report on the Sharpe ratio</a> is now available. The Sharpe ratio is
+					a fundamental metric to evaluate investment strategies. This
+					literature survey is part of the <a
+					href="http://research.twosigma.com">Two Sigma Technical Report
+					series</a>.</li>
 					<li><strong>KDD'18:</strong> MiSoSouP, our algorithm for subgroup
 					discovery using random sampling and pseudodimension has been accepted
 					for long presentation at KDD'18. Joint work with superstar co-author
@@ -46,12 +53,6 @@ develop
 					href="http://www.heidelberg-laureate-forum.org/">Heidelberg Laureate
 					Forum</a>!  Really excited to go meet brilliant minds of all ages in
 					September.</li>
-					<li><strong>ACM TKDD:</strong> <a
-					href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>,
-					our work (with <a href="https://cs.brown.edu/people/eli">Eli</a>) on
-					approximating betweenness centrality with Rademacher averages was
-					accepted for publication in <a href="https://tkdd.acm.org">ACM
-					TKDD</a>.</li>
 					<li><strong>FouLarD'18:</strong> I'm co-organizing <a
 					href="foulard18/">FouLarD'18</a>, a workshop on the foundations of
 					learning from data, together with <a
@@ -59,13 +60,6 @@ develop
 					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
 					Panconesi</a>, and <a href="https://cs.brown.edu/~eli">Eli Upfal</a>.
 					It will take place in Bertinoro, Italy, in September 2018.</li>
-					<li><strong>IEEE ICDM'18:</strong> I'm serving on the PC of <a
-					href="http://icdm2018.org/">IEEE ICDM'18</a>, which will be in
-					Singapore in November.</a>
-					<li><strong>ECML PKDD'18:</strong> Happy to serve on the PC of <a
-					href="http://www.ecmlpkdd2018.org/">ECML PKDD'18</a>, my "home"
-					conference in many ways, and a great venue for algorithmic data
-					science.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>

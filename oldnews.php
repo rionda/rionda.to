@@ -4,6 +4,19 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>ACM TKDD:</strong> <a
+			href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>,
+			our work (with <a href="https://cs.brown.edu/people/eli">Eli</a>) on
+			approximating betweenness centrality with Rademacher averages was
+			accepted for publication in <a href="https://tkdd.acm.org">ACM
+			TKDD</a>.</li>
+			<li><strong>IEEE ICDM'18:</strong> I'm serving on the PC of <a
+			href="http://icdm2018.org/">IEEE ICDM'18</a>, which will be in Singapore
+			in November.</li>
+			<li><strong>ECML PKDD'18:</strong> Happy to serve on the PC of <a
+			href="http://www.ecmlpkdd2018.org/">ECML PKDD'18</a>, my "home"
+			conference in many ways, and a great venue for algorithmic data
+			science.</li>
 			<li><strong>Talk at Harvard</strong>: On 5/7 I talk about <a
 			href="https://www.seas.harvard.edu/calendar/event/111551">Sampling-based
 			Approximation Algorithms for Data Analysis using Rademacher

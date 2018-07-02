@@ -115,12 +115,13 @@
 					<em>CIDR'11</em>, 2011</li>
 				</ol>
 
-				<!--
-				<h3>Unpublished / Under Submission</h3>
-				<ol id="unpublished">
-					<li></li>
+				<h3>Technical Reports</h3>
+				<ol id="techrep">
+					<li>M. Riondato. <a
+					href="papers/Riondato-SharpeRatioEstimationConfidenceIntervalsHypothesisTesting-TSTR.pdf">Sharpe
+					Ratio: Estimation, Confidence Intervals, and Hypothesis Testing</a>.
+					Two Sigma Technical Report Series, 2018-001.</li>
 				</ol>
-				-->
 
 				<h3>Tutorials</h3>
 				<ol id="tutorials">
