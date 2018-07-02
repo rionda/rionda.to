@@ -39,9 +39,10 @@ develop
 					literature survey is part of the <a
 					href="http://research.twosigma.com">Two Sigma Technical Report
 					series</a>.</li>
-					<li><strong>KDD'18:</strong> MiSoSouP, our algorithm for subgroup
-					discovery using random sampling and pseudodimension has been accepted
-					for long presentation at <a
+					<li><strong>KDD'18:</strong> <a
+					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP<a/>,
+					our algorithm for subgroup discovery using random sampling and
+					pseudodimension has been accepted for long presentation at <a
 					href="http://www.kdd.org/kdd2018/">KDD'18</a>. Joint work with
 					superstar co-author <a href="http://dei.unipd.it/~vandinfa">Fabio
 					Vandin</a>. Very happy that all the work we put in this paper paid

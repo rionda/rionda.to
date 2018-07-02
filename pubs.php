@@ -49,8 +49,10 @@
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
-					<li>M. Riondato and F. Vandin MiSoSouP: Mining Interesting Subgroups
-						with Sampling and Pseudodimension, <em>ACM KDD'18</em>, 2018</li>
+					<li>M. Riondato and F. Vandin. <a
+					 	href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP:
+						Mining Interesting Subgroups with Sampling and
+						Pseudodimension</a>, <em>ACM KDD'18</em>, 2018</li>
 					<li>M. Riondato and E. Upfal <a
 						href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA:
 						Approximating Betweenness Centrality in Static and Dynamic Graphs
