@@ -7,6 +7,7 @@
 		href="foulard18/">Foundations on Learning from Data Workshop</a>
 		(Organizer)</p>
 		<h3>Program Committees</h3>
+		<p class="notop">2019: ACM WSDM'19</p>
 		<p class="notop">2018: IEEE ICDM'18, ACM KDD'18, WWW'18, IEEE ICDE'18,
 			Grace Hopper'18, ECML PKDD'18, ACM CIKM'18</p>
 		<p class="notop">2017: ACM KDD'17 (Senior PC), ACM WSDM'17, WWW'17, IEEE
@@ -35,6 +36,7 @@
 		<p class="notop"><em>VLDB Journal</em> (VLDBJ)</p>
 		<h3>Conference Reviewing</h3>
 		<p>(Not including reviews done as Program Committee member)</p>
+		<p class="notop">2018: ESA'18</p>
 		<p class="notop">2017: MFCS'17, SODA'17</p>
 		<p class="notop">2015: ISAAC'15, SIAM SDM'15, IEEE ICDE'15</p>
 		<p class="notop">2014: DISC'14, ACM WSDM'14, WWW'14, ICALP'14</p>
