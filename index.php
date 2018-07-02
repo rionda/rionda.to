@@ -40,7 +40,7 @@ develop
 					href="http://research.twosigma.com">Two Sigma Technical Report
 					series</a>.</li>
 					<li><strong>KDD'18:</strong> <a
-					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP<a/>,
+					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>,
 					our algorithm for subgroup discovery using random sampling and
 					pseudodimension has been accepted for long presentation at <a
 					href="http://www.kdd.org/kdd2018/">KDD'18</a>. Joint work with
