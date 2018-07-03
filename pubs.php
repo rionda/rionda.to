@@ -23,7 +23,7 @@
 						href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA:
 						Approximating Betweenness Centrality in Static and Dynamic Graphs
 						with Rademacher Averages</a>, <em>ACM Tansactions on Knowledge
-						Discovery from Data</em>, to appear</li>
+						Discovery from Data</em>, 12(5):61, 2018</li>
 					<li>L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
 						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
 						Counting Local and Global Triangles in Fully-dynamic Streams with
