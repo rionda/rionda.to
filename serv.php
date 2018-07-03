@@ -7,7 +7,7 @@
 		href="foulard18/">Foundations on Learning from Data Workshop</a>
 		(Organizer)</p>
 		<h3>Program Committees</h3>
-		<p class="notop">2019: ACM WSDM'19</p>
+		<p class="notop">2019: ACM WSDM'19, WWW'19</p>
 		<p class="notop">2018: IEEE ICDM'18, ACM KDD'18, WWW'18, IEEE ICDE'18,
 			Grace Hopper'18, ECML PKDD'18, ACM CIKM'18</p>
 		<p class="notop">2017: ACM KDD'17 (Senior PC), ACM WSDM'17, WWW'17, IEEE
