@@ -32,7 +32,7 @@
 					<li>M. Riondato, D. Garc&iacute;a-Soriano, and F. Bonchi. <a
 						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">Graph
 						Summarization with Quality Guarantees</a>, <em>Data Mining and
-						Knowledge Discovery</em>, 31(2):314&mdash;349</li>
+						Knowledge Discovery</em>, 31(2):314&mdash;349, 2017</li>
 					<li>M. Riondato and E. M. Kornaropoulos. <a
 						href="papers/RiondatoKornaropoulos-BetweennessSampling-DMKD.pdf">Fast
 						Approximation of Betweenness Centrality through Sampling</a>, <em>Data
