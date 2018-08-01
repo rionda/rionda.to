@@ -1,18 +1,21 @@
 <?php include("header.html"); ?>
 				<!-- vim: set ts=2 sw=2 tw=79: -->
 				<p>I am a researcher in computer science, currently with the
-				Labs group at <a href="http://www.twosigma.com/">Two Sigma</a>, a highly
-				innovative investment firm in New York City. I also have an appointment
-				as Adjunct Assistant Professor of <a
-				href="http://cs.brown.edu">Computer Science at Brown
+				Labs group at <a href="https://www.twosigma.com/">Two Sigma</a>, a
+				highly innovative investment firm in New York City. I also have an
+				appointment as Adjunct Assistant Professor of
+				<a href="https://cs.brown.edu">Computer Science at Brown
 				University</a>.</p>
+				<p>In January 2019 I will be joining the <a
+				href="https://www.amherst.edu/academiclife/departments/computer_science">computer
+				science department</a> at <a href="http://www.amherst.edu">Amherst
+				College</a> as an assistant professor.</p>
 				<p>My research interest is in <em>algorithmic data science</em>. I
-develop
-				theory and methods to extract the most information from large datasets,
-				as fast as possible and in a statistically sound way. The problems I
-				study include pattern extraction, graph mining, and time series
-				analysis. My algorithms often use concepts from statistical learning
-				theory and sampling.</p>
+				develop theory and methods to extract the most information from large
+				datasets, as fast as possible and in a statistically sound way. The
+				problems I study include pattern extraction, graph mining, and time
+				series analysis. My algorithms often use concepts from statistical
+				learning theory and sampling.</p>
 				<p>My <a
 				href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erd&#337;s
 				number</a> is 3 (<a
@@ -32,6 +35,11 @@ develop
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>New job:</strong> In January 2019 I will be joining the
+					<a
+					href="https://www.amherst.edu/academiclife/departments/computer_science">computer
+					science department</a> at <a href="http://www.amherst.edu">Amherst
+					College</a> as an assistant professor.</li>
 					<li><strong>Sharpe ratio TR:</strong> my <a
 					href="papers/Riondato-SharpeRatioEstimationConfidenceIntervalsHypothesisTesting-TSTR.pdf">technical
 					report on the Sharpe ratio</a> is now available. The Sharpe ratio is
