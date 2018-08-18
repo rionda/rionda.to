@@ -37,8 +37,9 @@
 				<ul>
 					<li><strong>ICDM'18:</strong> Our work "ProSecCo: Progressive
 					Sequence Mining with Convergence Guarantees" has been accepted as
-					full paper at IEEE ICDM'18. This result is joint work with amazing
-					Brown CS undergrad Sacha Servan-Schreiber and star MIT postdoc <a
+					full paper at <a href="http://icdm2018.org">IEEE ICDM'18</a>. This
+					result is joint work with amazing Brown CS undergrad Sacha
+					Servan-Schreiber and star MIT postdoc <a
 					href="http://emanuelzgraggen.com/">Emanuel Zgraggen</a>.</li>
 					<li><strong>New job:</strong> In January 2019 I will be joining the
 					<a
