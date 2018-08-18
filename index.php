@@ -35,6 +35,11 @@
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>ICDM'18:</strong> Our work "ProSecCo: Progressive
+					Sequence Mining with Convergence Guarantees" has been accepted as
+					full paper at IEEE ICDM'18. This result is joint work with amazing
+					Brown CS undergrad Sacha Servan-Schreiber and star MIT postdoc <a
+					href="http://emanuelzgraggen.com/">Emanuel Zgraggen</a>.</li>
 					<li><strong>New job:</strong> In January 2019 I will be joining the
 					<a
 					href="https://www.amherst.edu/academiclife/departments/computer_science">computer

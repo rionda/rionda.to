@@ -49,6 +49,9 @@
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
+					<li>S. Servan-Schreiber, M. Riondato, and E. Zgraggen. ProSecCo:
+						Progressive Sequence Mining with Convergence Guarantees, <em>IEEE
+						ICDM'18</em> 2018</li>
 					<li>M. Riondato and F. Vandin. <a
 					 	href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP:
 						Mining Interesting Subgroups with Sampling and
