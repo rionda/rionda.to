@@ -146,6 +146,8 @@ strong {
 
 #maincontent li {
 	padding-top: 0.3ex;
+	margin-left: 2em;
+	text-indent: -2em;
 }
 
 #journals {
