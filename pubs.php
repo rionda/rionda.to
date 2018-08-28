@@ -22,12 +22,12 @@
 					<li>M. Riondato and E. Upfal <a
 						href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA:
 						Approximating Betweenness Centrality in Static and Dynamic Graphs
-						with Rademacher Averages</a>, <em>ACM Tansactions on Knowledge
+						with Rademacher Averages</a>, <em>ACM Transactions on Knowledge
 						Discovery from Data</em>, 12(5):61, 2018</li>
 					<li>L. De Stefani, A. Epasto, M. Riondato, and E. Upfal.
 						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
 						Counting Local and Global Triangles in Fully-dynamic Streams with
-						Fixed Memory Size</a>, <em>ACM Tansactions on Knowledge Discovery
+						Fixed Memory Size</a>, <em>ACM Transactions on Knowledge Discovery
 						from Data</em>, 11(2):43, 2017</li>
 					<li>M. Riondato, D. Garc&iacute;a-Soriano, and F. Bonchi. <a
 						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">Graph
