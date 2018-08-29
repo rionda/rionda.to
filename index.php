@@ -47,21 +47,6 @@
 					href="https://www.amherst.edu/academiclife/departments/computer_science">computer
 					science department</a> at <a href="http://www.amherst.edu">Amherst
 					College</a> as an assistant professor.</li>
-					<li><strong>Sharpe ratio TR:</strong> my <a
-					href="papers/Riondato-SharpeRatioEstimationConfidenceIntervalsHypothesisTesting-TSTR.pdf">technical
-					report on the Sharpe ratio</a> is now available. The Sharpe ratio is
-					a fundamental metric to evaluate investment strategies. This
-					literature survey is part of the <a
-					href="http://research.twosigma.com">Two Sigma Technical Report
-					series</a>.</li>
-					<li><strong>KDD'18:</strong> <a
-					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>,
-					our algorithm for subgroup discovery using random sampling and
-					pseudodimension has been accepted for long presentation at <a
-					href="http://www.kdd.org/kdd2018/">KDD'18</a>. Joint work with
-					superstar co-author <a href="http://dei.unipd.it/~vandinfa">Fabio
-					Vandin</a>. Very happy that all the work we put in this paper paid
-					off.</li>
 					<li><strong>SDM'19:</strong> I'll be serving as co-chair of the
 					Doctoral Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
 					SDM'19</a>. Very excited to help with the organization, as I won the
