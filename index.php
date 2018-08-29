@@ -47,8 +47,12 @@
 					href="https://www.amherst.edu/academiclife/departments/computer_science">computer
 					science department</a> at <a href="http://www.amherst.edu">Amherst
 					College</a> as an assistant professor.</li>
-					<li><strong>SDM'19:</strong> I'll be serving as co-chair of the
-					Doctoral Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
+					<li><strong>Dagstuhl:</strong> Very happy to attend the <a
+					href="https://www.dagstuhl.de/18401">Automating Data Science</a>
+					workshop in the very-conducive-to-collaboration environment of
+					Dagstuhl at the beginning of October.</li>
+					<li><strong>SDM'19:</strong> I'm serving as co-chair of the Doctoral
+					Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
 					SDM'19</a>. Very excited to help with the organization, as I won the
 					best student poster award at this event in 2014.</li>
 					<li><strong>HLF'18:</strong> I have been selected as a Young
