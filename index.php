@@ -35,6 +35,10 @@
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>AAAI'19:</strong> Happy to join the PC of <a
+					href="https://aaai.org/Conferences/AAAI-19/">AAAI'19</a>, one of the
+					longest running conferences in computer science and a leading
+					conference for AI.</li>
 					<li><strong>ICDM'18:</strong> Our work "<a
 					href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
 					Progressive Sequence Mining with Convergence Guarantees</a>" has been
