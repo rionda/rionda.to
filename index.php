@@ -59,18 +59,6 @@
 					Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
 					SDM'19</a>. Very excited to help with the organization, as I won the
 					best student poster award at this event in 2014.</li>
-					<li><strong>HLF'18:</strong> I have been selected as a Young
-					Researcher for the <a
-					href="http://www.heidelberg-laureate-forum.org/">Heidelberg Laureate
-					Forum</a>!  Really excited to go meet brilliant minds of all ages in
-					September.</li>
-					<li><strong>FouLarD'18:</strong> I'm co-organizing <a
-					href="foulard18/">FouLarD'18</a>, a workshop on the foundations of
-					learning from data, together with <a
-					href="http://cs.nyu.edu/~mohri">Mehryar Mohri</a>, <a
-					href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
-					Panconesi</a>, and <a href="https://cs.brown.edu/~eli">Eli Upfal</a>.
-					It will take place in Bertinoro, Italy, in September 2018.</li>
 					<li><a href="oldnews.php">News archive</a></li>
 				</ul>
 <?php include("footer.html"); ?>

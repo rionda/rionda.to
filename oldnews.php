@@ -4,6 +4,17 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>HLF'18:</strong> I have been selected as a Young Researcher
+			for the <a href="http://www.heidelberg-laureate-forum.org/">Heidelberg
+			Laureate Forum</a>!  Really excited to go meet brilliant minds of all
+			ages in September.</li>
+			<li><strong>FouLarD'18:</strong> I'm co-organizing <a
+			href="foulard18/">FouLarD'18</a>, a workshop on the foundations of
+			learning from data, together with <a
+			href="http://cs.nyu.edu/~mohri">Mehryar Mohri</a>, <a
+			href="https://sites.google.com/a/di.uniroma1.it/panco/">Alessandro
+			Panconesi</a>, and <a href="https://cs.brown.edu/~eli">Eli Upfal</a>.
+			It will take place in Bertinoro, Italy, in September 2018.</li>
 			<li><strong>Sharpe ratio TR:</strong> my <a
 			href="papers/Riondato-SharpeRatioEstimationConfidenceIntervalsHypothesisTesting-TSTR.pdf">technical
 			report on the Sharpe ratio</a> is now available. The Sharpe ratio is a
