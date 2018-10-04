@@ -179,8 +179,11 @@
 			Mahmoody</a>, <a href="http://people.mpi-inf.mpg.de/~imele/">Ida
 			Mele</a>, <a href="http://www.dei.unipd.it/~capri/">Andrea
 			Pietracaprina</a>, <a href="http://www.dei.unipd.it/~geppo/">Geppino
-			Pucci</a>, <a href="http://itu.dk/people/fras/">Francesco Silvestri</a>,
-			<a href="http://www.cs.brown.edu/~eli/">Eli Upfal</a>, <a
+			Pucci</a>, <a href="http://sachaservanschreiber.com/index.html">Sacha
+			Servan-Schreiber</a>, <a
+			href="http://www.dei.unipd.it/~silvestri">Francesco Silvestri</a>, <a
+			href="http://www.cs.brown.edu/~eli/">Eli Upfal</a>, <a
 			href="http://dei.unipd.it/~vandinfa/">Fabio Vandin</a>, <a
-			href="http://www.cs.brown.edu/~sbz/">Stan B. Zdonik</a></p>
+			href="http://www.cs.brown.edu/~sbz/">Stan B. Zdonik</a>, <a
+			href="http://emanuelzgraggen.com/">Emanuel Zgraggen</a></p>
 <?php include("footer.html"); ?>
