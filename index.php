@@ -35,10 +35,11 @@
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>AAAI'19:</strong> Happy to join the PC of <a
-					href="https://aaai.org/Conferences/AAAI-19/">AAAI'19</a>, one of the
-					longest running conferences in computer science and a leading
-					conference for AI.</li>
+					<li><strong>ACM TKDD:</strong> an extended version of <a
+					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>
+					was invited to the special issue of <a
+					href="https://tkdd.acm.org"</a> for the best papers of <a
+					href="http://www.kdd.org/kdd2018/">KDD'18</a>.</li>
 					<li><strong>ICDM'18:</strong> Our work "<a
 					href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
 					Progressive Sequence Mining with Convergence Guarantees</a>" has been
@@ -51,10 +52,6 @@
 					href="https://www.amherst.edu/academiclife/departments/computer_science">computer
 					science department</a> at <a href="http://www.amherst.edu">Amherst
 					College</a> as an assistant professor.</li>
-					<li><strong>Dagstuhl:</strong> Very happy to attend the <a
-					href="https://www.dagstuhl.de/18401">Automating Data Science</a>
-					workshop in the very-conducive-to-collaboration environment of
-					Dagstuhl at the beginning of October.</li>
 					<li><strong>SDM'19:</strong> I'm serving as co-chair of the Doctoral
 					Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
 					SDM'19</a>. Very excited to help with the organization, as I won the

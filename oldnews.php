@@ -4,6 +4,14 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Dagstuhl:</strong> Very happy to attend the <a
+			href="https://www.dagstuhl.de/18401">Automating Data Science</a> workshop
+			in the very-conducive-to-collaboration environment of Dagstuhl at the
+			beginning of October.</li>
+			<li><strong>AAAI'19:</strong> Happy to join the PC of <a
+			href="https://aaai.org/Conferences/AAAI-19/">AAAI'19</a>, one of the
+			longest running conferences in computer science and a leading conference
+			for AI.</li>
 			<li><strong>HLF'18:</strong> I have been selected as a Young Researcher
 			for the <a href="http://www.heidelberg-laureate-forum.org/">Heidelberg
 			Laureate Forum</a>!  Really excited to go meet brilliant minds of all
