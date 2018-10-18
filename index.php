@@ -38,7 +38,7 @@
 					<li><strong>ACM TKDD:</strong> an extended version of <a
 					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>
 					was invited to the special issue of <a
-					href="https://tkdd.acm.org"</a> for the best papers of <a
+					href="https://tkdd.acm.org">ACM TKDD</a> for the best papers of <a
 					href="http://www.kdd.org/kdd2018/">KDD'18</a>.</li>
 					<li><strong>ICDM'18:</strong> Our work "<a
 					href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
