@@ -167,15 +167,14 @@
 			Akdere</a>, <a href="http://www.aris.me/">Aris Anagnostopoulos</a>, <a
 			href="http://www.dis.uniroma1.it/~becchett/">Luca Becchetti</a>, <a
 			href="http://www.francescobonchi.com/">Francesco Bonchi</a>, <a
-			href="http://www.cs.brown.edu/~ugur/">U&#287;ur
-			&Ccedil;etintemel</a>, <a
-			href="http://www.cs.brown.edu/~debrabant/">Justin A. DeBrabant</a>, <a
+			href="https://sites.google.com/a/brown.edu/ugur-cetintemel/">U&#287;ur
+			&Ccedil;etintemel</a>, Justin A. DeBrabant, <a
 			href="http://www.gdfm.me/">Gianmarco De Francisci Morales</a>, Lorenzo De
 			Stefani, <a href="http://www.cs.brown.edu/~rfonseca/">Rodrigo Fonseca</a>,
 			<a href="http://www.epasto.org/">Alessandro Epasto</a>, <a
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
-			Soriano</a>, <a href="http://www.cs.brown.edu/~evgenios/">Evgenios M.
-			Kornaropoulos</a>, <a href="http://www.cs.brown.edu/~ahmad/">Ahmad
+			Soriano</a>, <a href="http://kornaropoulos.webflow.io/">Evgenios M.
+			Kornaropoulos</a>, <a href="http://www.cs.brown.edu/people/am104/">Ahmad
 			Mahmoody</a>, <a href="http://hpc.isti.cnr.it/~idamele/">Ida
 			Mele</a>, <a href="http://www.dei.unipd.it/~capri/">Andrea
 			Pietracaprina</a>, <a href="http://www.dei.unipd.it/~geppo/">Geppino
