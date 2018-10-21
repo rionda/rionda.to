@@ -176,7 +176,7 @@
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
 			Soriano</a>, <a href="http://www.cs.brown.edu/~evgenios/">Evgenios M.
 			Kornaropoulos</a>, <a href="http://www.cs.brown.edu/~ahmad/">Ahmad
-			Mahmoody</a>, <a href="http://people.mpi-inf.mpg.de/~imele/">Ida
+			Mahmoody</a>, <a href="http://hpc.isti.cnr.it/~idamele/">Ida
 			Mele</a>, <a href="http://www.dei.unipd.it/~capri/">Andrea
 			Pietracaprina</a>, <a href="http://www.dei.unipd.it/~geppo/">Geppino
 			Pucci</a>, <a href="http://sachaservanschreiber.com/index.html">Sacha
