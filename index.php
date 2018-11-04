@@ -35,6 +35,9 @@
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>PC and editorial board:</strong> glad to serve on the PC
+					for ICML'19 and on the guest editorial board of the Data Mining and
+					Knowledge Discovery journal for ECML PKDD'19.</li>
 					<li><strong>ACM TKDD:</strong> an extended version of <a
 					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>
 					was invited to the special issue of <a
