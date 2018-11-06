@@ -36,8 +36,10 @@
 				<h2>News</h2>
 				<ul>
 					<li><strong>PC and editorial board:</strong> glad to serve on the PC
-					for ICML'19 and on the guest editorial board of the Data Mining and
-					Knowledge Discovery journal for ECML PKDD'19.</li>
+					for <a href="https://icml.cc/Conferences/2019">ICML'19</a> and on the
+					guest editorial board of the Data Mining and Knowledge Discovery
+					journal for <a href="http://ecmlpkdd2019.org/">ECML
+					PKDD'19</a>.</li>
 					<li><strong>ACM TKDD:</strong> an extended version of <a
 					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>
 					was invited to the special issue of <a
