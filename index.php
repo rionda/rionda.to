@@ -35,6 +35,15 @@
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>Invited talks:</strong> on 11/26 I am giving a guest
+					lecture at Harvard, for the COMPSCI-134 Networks talk, invited by
+					<a href="http://www.eecs.harvard.edu/~michaelm/">Michael
+					Mitzenmacher</a> and <a
+					href="https://people.seas.harvard.edu/~yaron/">Yaron Singer</a>. I
+					will also be speaking at Google Research NY on <a
+					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>,
+					thanks to <a href="http://www.epasto.org">Alessandro Epasto</a> for
+					the invite.</li>
 					<li><strong>PC and editorial board:</strong> glad to serve on the PC
 					for <a href="https://icml.cc/Conferences/2019">ICML'19</a> and on the
 					guest editorial board of the Data Mining and Knowledge Discovery
