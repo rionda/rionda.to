@@ -1,13 +1,15 @@
 <?php include("header.html"); ?>
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Misc</h2>
+		<p><a href="cv/MatteoRiondato-bio.txt">A short bio for events, in
+			plaintext</a></p>
 		<p><a href="files/matteo_riondato.mp3">How to pronounce my name</a>
 		(muh-TAY-oh REE-awn-DAH-toh)</p>
 		<p><a href="files/riondapgp.asc">My GnuPG/PGP key</a> (Key fingerprint:
 			6BDB 8A64 BD21 3F81 3C36  5E6F 1B02 FD49 5425 5501)</p>
 		<p><a href="http://www.riondato.com">Silvio Riondato</a>, my father</p>
 		<p><a href="http://www.ezioriondato.org">Ezio
-			Riondato</a>, my grandfather, also on Wikipedia: <a
+			Riondato</a>, my grandfather, also on Italian Wikipedia: <a
 			href="http://it.wikipedia.org/wiki/Ezio_Riondato">Ezio Riondato</a></p>
 		<p><a href="http://www.cit317.org">CIT 317</a>, my office at Brown CS</p>
 		<p><a href="http://www.FreeBSD.org">FreeBSD</a>, a UNIX-like operating
