@@ -35,6 +35,14 @@
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>ICDM'18:</strong> <a
+					href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
+					Progressive Sequence Mining with Convergence Guarantees</a> was
+					recognized as the best paper award runner-up of <a
+					href="http://www.icdm18.org">IEEE ICDM'18</a>. Congrats to superstar
+					undergrad <a href="http://sachaservanschreiber.com/index.html">Sacha
+					Servan-Schreiber</a> and postdoc <a
+					href="http://emanuelzgraggen.com">Emanuel Zgraggen</a>!</li>
 					<li><strong>Invited talks:</strong> on 11/26 I am giving a guest
 					lecture at Harvard, for the COMPSCI-134 Networks talk, invited by
 					<a href="http://www.eecs.harvard.edu/~michaelm/">Michael
@@ -54,13 +62,6 @@
 					was invited to the special issue of <a
 					href="https://tkdd.acm.org">ACM TKDD</a> for the best papers of <a
 					href="http://www.kdd.org/kdd2018/">KDD'18</a>.</li>
-					<li><strong>ICDM'18:</strong> Our work "<a
-					href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
-					Progressive Sequence Mining with Convergence Guarantees</a>" has been
-					accepted as full paper at <a href="http://icdm2018.org">IEEE
-					ICDM'18</a>. This result is joint work with amazing Brown CS
-					undergrad Sacha Servan-Schreiber and star MIT postdoc <a
-					href="http://emanuelzgraggen.com/">Emanuel Zgraggen</a>.</li>
 					<li><strong>New job:</strong> In January 2019 I will be joining the
 					<a
 					href="https://www.amherst.edu/academiclife/departments/computer_science">computer

@@ -4,6 +4,14 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>ICDM'18:</strong> Our work "<a
+			href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo: Progressive
+			Sequence Mining with Convergence Guarantees</a>" has been accepted as
+			full paper at <a href="http://icdm2018.org">IEEE ICDM'18</a>. This result
+			is joint work with amazing Brown CS undergrad<a
+			href="http://sachaservanschreiber.com/index.html">Sacha
+			Servan-Schreiber</a> and star MIT postdoc <a
+			href="http://emanuelzgraggen.com/">Emanuel Zgraggen</a>.</li>
 			<li><strong>Dagstuhl:</strong> Very happy to attend the <a
 			href="https://www.dagstuhl.de/18401">Automating Data Science</a> workshop
 			in the very-conducive-to-collaboration environment of Dagstuhl at the
