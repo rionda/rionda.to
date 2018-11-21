@@ -38,7 +38,9 @@
 					<li><strong>ICDM'18:</strong> <a
 					href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
 					Progressive Sequence Mining with Convergence Guarantees</a> was
-					recognized as the best paper award runner-up of <a
+					recognized as the <a
+					href="http://www.cs.uvm.edu/~icdm/Awards/BestPapers.shtml">best
+					student paper award runner-up</a> of <a
 					href="http://www.icdm18.org">IEEE ICDM'18</a>. Congrats to superstar
 					undergrad <a href="http://sachaservanschreiber.com/index.html">Sacha
 					Servan-Schreiber</a> and postdoc <a
