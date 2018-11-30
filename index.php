@@ -50,7 +50,7 @@
 					<a href="http://www.eecs.harvard.edu/~michaelm/">Michael
 					Mitzenmacher</a> and <a
 					href="https://people.seas.harvard.edu/~yaron/">Yaron Singer</a>. I
-					will also be speaking at Google Research NY on <a
+					will also be speaking at Google Research NY on 4/12, on <a
 					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>,
 					thanks to <a href="http://www.epasto.org">Alessandro Epasto</a> for
 					the invite.</li>
