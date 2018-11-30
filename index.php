@@ -3,8 +3,8 @@
 				<p>I am a researcher in computer science, currently with the
 				Labs group at <a href="https://www.twosigma.com/">Two Sigma</a>, a
 				highly innovative investment firm in New York City. I also have an
-				appointment as Adjunct Assistant Professor of
-				<a href="https://cs.brown.edu">Computer Science at Brown
+				appointment as adjunct faculty in <a
+				href="https://cs.brown.edu">Computer Science at Brown
 				University</a>.</p>
 				<p>In January 2019 I will be joining the <a
 				href="https://www.amherst.edu/academiclife/departments/computer_science">computer
