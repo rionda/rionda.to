@@ -4,6 +4,14 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Invited talks:</strong> on 11/26 I am giving a guest lecture
+			at Harvard, for the COMPSCI-134 Networks talk, invited by <a
+			href="http://www.eecs.harvard.edu/~michaelm/">Michael Mitzenmacher</a>
+			and <a href="https://people.seas.harvard.edu/~yaron/">Yaron Singer</a>. I
+			will also be speaking at Google Research NY on 4/12, on <a
+			href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>,
+			thanks to <a href="http://www.epasto.org">Alessandro Epasto</a> for the
+			invite.</li>
 			<li><strong>ICDM'18:</strong> Our work "<a
 			href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo: Progressive
 			Sequence Mining with Convergence Guarantees</a>" has been accepted as
