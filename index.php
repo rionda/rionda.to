@@ -9,7 +9,7 @@
 				in the Labs group at <a href="https://www.twosigma.com/">Two
 				Sigma</a>.</p>
 				<p>My research focuses on <strong>algorithms</strong> for
-				<strong>knowledge discovery</strong>, <strong>data mining</strong> and
+				<strong>knowledge discovery</strong>, <strong>data mining</strong>, and
 				<strong>machine learning</strong>. I develop theory and methods to
 				extract the most information from large datasets, as fast as possible
 				and in a statistically sound way. The problems I study include pattern
