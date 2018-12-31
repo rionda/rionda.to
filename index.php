@@ -1,6 +1,6 @@
 <?php include("header.html"); ?>
 				<!-- vim: set ts=2 sw=2 tw=79: -->
-				<p>I am an assistant professor of <a
+				<p>I am an <strong>assistant professor</strong> of <a
 				href="https://www.amherst.edu/academiclife/departments/computer_science">computer
 				science</a> at <a href="http://www.amherst.edu">Amherst
 				College</a>. I also have an appointment as visiting faculty in <a
@@ -8,12 +8,13 @@
 				University</a>. Previously, I spent some years as a research scientist
 				in the Labs group at <a href="https://www.twosigma.com/">Two
 				Sigma</a>.</p>
-				<p>My research focuses on <em>algorithms</em> for <em>data mining</em>
-				and <em>machine learning</em>. I develop theory and methods to extract
-				the most information from large datasets, as fast as possible and in a
-				statistically sound way. The problems I study include pattern
-				extraction, graph mining, and time series analysis. My algorithms
-				often use concepts from statistical learning theory and sampling.</p>
+				<p>My research focuses on <strong>algorithms</strong> for <strong>data
+				mining</strong> and <strong>machine learning</strong>. I develop theory
+				and methods to extract the most information from large datasets, as
+				fast as possible and in a statistically sound way. The problems I study
+				include pattern extraction, graph mining, and time series analysis. My
+				algorithms often use concepts from statistical learning theory and
+				sampling.</p>
 				<p>My <a
 				href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erd&#337;s
 				number</a> is 3 (<a
