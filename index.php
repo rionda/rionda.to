@@ -2,7 +2,7 @@
 				<!-- vim: set ts=2 sw=2 tw=79: -->
 				<p>I am an <strong>assistant professor</strong> of <a
 				href="https://www.amherst.edu/academiclife/departments/computer_science">computer
-				science</a> at <a href="http://www.amherst.edu">Amherst
+				science</a> at <a href="https://www.amherst.edu">Amherst
 				College</a>. I also have an appointment as visiting faculty in <a
 				href="https://cs.brown.edu">Computer Science at Brown
 				University</a>. Previously, I spent some fantastic years as a research
@@ -22,7 +22,7 @@
 				&rarr; <a href="http://math.usf.edu/faculty/ssuen/">Suen</a> &rarr; <a
 				href="https://cs.brown.edu/people/eli">Upfal</a> &rarr; Matteo), and I
 				am a <a
-				href="http://genealogy.math.ndsu.nodak.edu/id.php?id=190626">mathematical
+				href="https://genealogy.math.ndsu.nodak.edu/id.php?id=190626">mathematical
 				descendant</a> of <a href="https://cs.brown.edu/people/eli/">Eli
 				Upfal</a>, <a href="https://en.wikipedia.org/wiki/Eli_Shamir">Eli
 				Shamir</a> (2<sup>nd</sup> generation), <a
@@ -51,7 +51,7 @@
 					href="https://tkdd.acm.org">ACM TKDD</a> for the best papers of <a
 					href="http://www.kdd.org/kdd2018/">KDD'18</a>.</li>
 					<li><strong>SDM'19:</strong> I'm serving as co-chair of the Doctoral
-					Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
+					Forum for <a href="https://www.siam.org/meetings/sdm19/">SIAM
 					SDM'19</a>. Very excited to help with the organization, as I won the
 					best student poster award at this event in 2014.</li>
 					<li><a href="oldnews.php">News archive</a></li>
