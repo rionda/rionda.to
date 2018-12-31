@@ -6,7 +6,7 @@ body {
 }
 
 a {
-	color: #3f1f69;
+	color: #5d3c85;
 	text-decoration: none;
 }
 
@@ -19,7 +19,7 @@ a:active {
 }
 
 strong {
-	color: #3f1f69;
+	color: #5d3c85;
 }
 
 #container {
@@ -43,7 +43,7 @@ strong {
 }
 
 #header {
-	color: #3f1f69;
+	color: #5d3c85;
 }
 
 #side {
@@ -59,7 +59,7 @@ strong {
 }
 
 #side h2 {
-	color: #3f1f69;
+	color: #5d3c85;
 	margin: 0px;
 }
 
@@ -128,12 +128,12 @@ strong {
 }
 
 #maincontent h2 {
-	color: #3f1f69;
+	color: #5d3c85;
 	margin-bottom: 0.1em;
 }
 
 #maincontent h3 {
-	color: #3f1f69;
+	color: #5d3c85;
 	margin-bottom: 0.1em;
 }
 
