@@ -35,6 +35,7 @@
 		<p class="notop"><em>IEEE Transactions on Services Computing</em> (TSC)</p>
 		<p class="notop"><em>Machine Learning</em> (Mach. Learn.)</p>
 		<p class="notop"><em>PLOS ONE</em></p>
+		<p class="notop"><em>PeerJ</em></p>
 		<p class="notop"><em>The Computer Journal</em></p>
 		<p class="notop"><em>VLDB Journal</em> (VLDBJ)</p>
 		<h3>Conference Reviewing</h3>
