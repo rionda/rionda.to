@@ -4,8 +4,8 @@
 		<p>My current projects are hosted on <a
 			href="https://github.com/rionda?tab=repositories">GitHub</a>.<br />
 		I am also a committer for <a
-		href="https://networkit.iti.kit.edu/">NetworKit</a>, a toolkit for
-		high-performance network analysis.</p> 
+		href="https://networkit.github.io/">NetworKit</a>, a toolkit for
+		high-performance network analysis.</p>
 
 		<p><a href="https://github.com/rionda/chato-notes">ChaTo-notes</a>: a
 		LaTeX package to insert notes, todo lists, questions, and answers. It is
@@ -23,6 +23,6 @@
 		href="https://samoa.incubator.apache.org">Apache SAMOA</a>, Yahoo's
 		platform for Big Data streams analysis.</p>
 		<p>In my salad days, I was a <a
-		href="http://www.FreeBSD.org">FreeBSD</a> committer, and the release
-		engineer for <a href="http://www.freesbie.org">FreeSBIE 2.x</a>.</p>
+		href="https://www.FreeBSD.org">FreeBSD</a> committer, and the release
+		engineer for <a href="https://www.freesbie.org">FreeSBIE 2.x</a>.</p>
 <?php include("footer.html"); ?>

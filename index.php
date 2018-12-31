@@ -43,13 +43,13 @@
 					<li><strong>PC and editorial board:</strong> glad to serve on the PC
 					for <a href="https://icml.cc/Conferences/2019">ICML'19</a> and on the
 					guest editorial board of the Data Mining and Knowledge Discovery
-					journal for <a href="http://ecmlpkdd2019.org/">ECML
+					journal for <a href="https://ecmlpkdd2019.org/">ECML
 					PKDD'19</a>.</li>
 					<li><strong>ACM TKDD:</strong> an extended version of <a
 					href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>
 					was invited to the special issue of <a
 					href="https://tkdd.acm.org">ACM TKDD</a> for the best papers of <a
-					href="http://www.kdd.org/kdd2018/">KDD'18</a>.</li>
+					href="https://www.kdd.org/kdd2018/">KDD'18</a>.</li>
 					<li><strong>SDM'19:</strong> I'm serving as co-chair of the Doctoral
 					Forum for <a href="https://www.siam.org/meetings/sdm19/">SIAM
 					SDM'19</a>. Very excited to help with the organization, as I won the

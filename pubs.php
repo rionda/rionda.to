@@ -2,14 +2,14 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 			<h2>Publications</h2>
 			<p>My publications and citations on: <a
-				href="http://dblp.uni-trier.de/db/indices/a-tree/r/Riondato:Matteo.html">DBLP</a>,
+				href="https://dblp.uni-trier.de/db/indices/a-tree/r/Riondato:Matteo.html">DBLP</a>,
 			<a
-				href="http://scholar.google.com/citations?user=5okzSN0AAAAJ&amp;hl=en">Google
-				Scholar</a>, <a href="http://arnetminer.org/person/matteo-riondato-1572079.html">AMiner</a>,
+				href="https://scholar.google.com/citations?user=5okzSN0AAAAJ&amp;hl=en">Google
+				Scholar</a>, <a href="https://arnetminer.org/person/matteo-riondato-1572079.html">AMiner</a>,
 			<a
 				href="https://www.researchgate.net/profile/Matteo_Riondato">ResearchGate</a>,
-			<a href="http://orcid.org/0000-0003-2523-4420">ORCID</a>, <a
-				href="http://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>, <a
+			<a href="https://orcid.org/0000-0003-2523-4420">ORCID</a>, <a
+				href="https://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>, <a
 				href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>.</p>
 			<p>Here are the <a href="files/bibtexs/riondapubs.bib">BibTeX entries for my
 			papers</a>.</p>
@@ -136,11 +136,11 @@
 						Approximated, and Distributed Algorithms</a>, <em>WWW'16</em>. <a
 						href="/centrtutorial/BonchiDeFrancisciMoralesRiondato-CentralityBigGraphsTutorial-Slides.pdf">Slides</a>.</li>
 					<li>M. Riondato and E. Upfal. <a
-						href="http://bigdata.cs.brown.edu/vctutorial/">VC-Dimension and
+						href="https://bigdata.cs.brown.edu/vctutorial/">VC-Dimension and
 						Rademacher Averages: From Statistical Learning Theory to Sampling
 						Algorithms</a>, <em>ACM KDD'15, ECML PKDD'15, ACM CIKM'15</em>. <a
 						href="papers/RiondatoUpfal-VCDimensionRademachersampling-TutorialPKDD.pdf">Slides</a>,
-						<a href="http://www.youtube.com/watch?v=dngQYAxXQ_8">Video at
+						<a href="https://www.youtube.com/watch?v=dngQYAxXQ_8">Video at
 						KDD'15 (Part 1)</a>, <a
 						href="https://www.youtube.com/watch?v=y62guRKC3yU">Video at KDD'15
 						(Part 2)</a></li>
@@ -158,31 +158,31 @@
 				<ol id="otherpubs">
 					<li>M. Riondato, <a
 						href="https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/jails.html">Jails</a>,
-					in <a href="http://www.freebsd.org/handbook">FreeBSD Handbook</a>.</li>
+					in <a href="https://www.freebsd.org/handbook">FreeBSD Handbook</a>.</li>
 				</ol>
 		</div>
 
 		<h3>Coauthors</h3>
-		<p class="notop"><a href="http://www.cs.brown.edu/~makdere/">Mert
+		<p class="notop"><a href="https://www.cs.brown.edu/~makdere/">Mert
 			Akdere</a>, <a href="http://www.aris.me/">Aris Anagnostopoulos</a>, <a
-			href="http://www.dis.uniroma1.it/~becchett/">Luca Becchetti</a>, <a
+			href="https://www.dis.uniroma1.it/~becchett/">Luca Becchetti</a>, <a
 			href="http://www.francescobonchi.com/">Francesco Bonchi</a>, <a
 			href="https://sites.google.com/a/brown.edu/ugur-cetintemel/">U&#287;ur
 			&Ccedil;etintemel</a>, Justin A. DeBrabant, <a
-			href="http://www.gdfm.me/">Gianmarco De Francisci Morales</a>, Lorenzo De
-			Stefani, <a href="http://www.cs.brown.edu/~rfonseca/">Rodrigo Fonseca</a>,
-			<a href="http://www.epasto.org/">Alessandro Epasto</a>, <a
+			href="https://www.gdfm.me/">Gianmarco De Francisci Morales</a>, Lorenzo De
+			Stefani, <a href="https://www.cs.brown.edu/~rfonseca/">Rodrigo Fonseca</a>,
+			<a href="https://www.epasto.org/">Alessandro Epasto</a>, <a
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
-			Soriano</a>, <a href="http://kornaropoulos.webflow.io/">Evgenios M.
-			Kornaropoulos</a>, <a href="http://www.cs.brown.edu/people/am104/">Ahmad
+			Soriano</a>, <a href="https://kornaropoulos.webflow.io/">Evgenios M.
+			Kornaropoulos</a>, <a href="https://www.cs.brown.edu/people/am104/">Ahmad
 			Mahmoody</a>, <a href="http://hpc.isti.cnr.it/~idamele/">Ida
-			Mele</a>, <a href="http://www.dei.unipd.it/~capri/">Andrea
-			Pietracaprina</a>, <a href="http://www.dei.unipd.it/~geppo/">Geppino
+			Mele</a>, <a href="https://www.dei.unipd.it/~capri/">Andrea
+			Pietracaprina</a>, <a href="https://www.dei.unipd.it/~geppo/">Geppino
 			Pucci</a>, <a href="http://sachaservanschreiber.com/index.html">Sacha
 			Servan-Schreiber</a>, <a
-			href="http://www.dei.unipd.it/~silvestri">Francesco Silvestri</a>, <a
-			href="http://www.cs.brown.edu/~eli/">Eli Upfal</a>, <a
-			href="http://dei.unipd.it/~vandinfa/">Fabio Vandin</a>, <a
-			href="http://www.cs.brown.edu/~sbz/">Stan B. Zdonik</a>, <a
+			href="https://www.dei.unipd.it/~silvestri">Francesco Silvestri</a>, <a
+			href="https://www.cs.brown.edu/~eli/">Eli Upfal</a>, <a
+			href="https://dei.unipd.it/~vandinfa/">Fabio Vandin</a>, <a
+			href="https://www.cs.brown.edu/~sbz/">Stan B. Zdonik</a>, <a
 			href="http://emanuelzgraggen.com/">Emanuel Zgraggen</a></p>
 <?php include("footer.html"); ?>
