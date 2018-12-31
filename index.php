@@ -8,13 +8,13 @@
 				University</a>. Previously, I spent some years as a research scientist
 				in the Labs group at <a href="https://www.twosigma.com/">Two
 				Sigma</a>.</p>
-				<p>My research focuses on <strong>algorithms</strong> for <strong>data
-				mining</strong> and <strong>machine learning</strong>. I develop theory
-				and methods to extract the most information from large datasets, as
-				fast as possible and in a statistically sound way. The problems I study
-				include pattern extraction, graph mining, and time series analysis. My
-				algorithms often use concepts from statistical learning theory and
-				sampling.</p>
+				<p>My research focuses on <strong>algorithms</strong> for
+				<strong>knowledge discovery</strong>, <strong>data mining</strong> and
+				<strong>machine learning</strong>. I develop theory and methods to
+				extract the most information from large datasets, as fast as possible
+				and in a statistically sound way. The problems I study include pattern
+				extraction, graph mining, and time series analysis. My algorithms often
+				use concepts from statistical learning theory and sampling.</p>
 				<p>My <a
 				href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erd&#337;s
 				number</a> is 3 (<a
