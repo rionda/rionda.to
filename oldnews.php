@@ -4,6 +4,21 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>ICDM'18:</strong> <a
+			href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
+			Progressive Sequence Mining with Convergence Guarantees</a> was
+			recognized as the <a
+			href="http://www.cs.uvm.edu/~icdm/Awards/BestPapers.shtml">best student
+			paper award runner-up</a> of <a
+			href="http://www.icdm18.org">IEEE ICDM'18</a>. Congrats to superstar
+			undergrad <a href="http://sachaservanschreiber.com/index.html">Sacha
+			Servan-Schreiber</a> and postdoc <a
+			href="http://emanuelzgraggen.com">Emanuel Zgraggen</a>!</li>
+			<li><strong>New job:</strong> In January 2019 I will be joining the
+			<a
+			href="https://www.amherst.edu/academiclife/departments/computer_science">computer
+			science department</a> at <a href="http://www.amherst.edu">Amherst
+			College</a> as an assistant professor.</li>
 			<li><strong>Invited talks:</strong> on 11/26 I am giving a guest lecture
 			at Harvard, for the COMPSCI-134 Networks talk, invited by <a
 			href="http://www.eecs.harvard.edu/~michaelm/">Michael Mitzenmacher</a>

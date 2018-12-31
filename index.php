@@ -1,21 +1,19 @@
 <?php include("header.html"); ?>
 				<!-- vim: set ts=2 sw=2 tw=79: -->
-				<p>I am a researcher in computer science, currently with the
-				Labs group at <a href="https://www.twosigma.com/">Two Sigma</a>, a
-				highly innovative investment firm in New York City. I also have an
-				appointment as adjunct faculty in <a
-				href="https://cs.brown.edu">Computer Science at Brown
-				University</a>.</p>
-				<p>In January 2019 I will be joining the <a
+				<p>I am an assistant professor of <a
 				href="https://www.amherst.edu/academiclife/departments/computer_science">computer
-				science department</a> at <a href="http://www.amherst.edu">Amherst
-				College</a> as an assistant professor.</p>
-				<p>My research interest is in <em>algorithmic data science</em>. I
-				develop theory and methods to extract the most information from large
-				datasets, as fast as possible and in a statistically sound way. The
-				problems I study include pattern extraction, graph mining, and time
-				series analysis. My algorithms often use concepts from statistical
-				learning theory and sampling.</p>
+				science</a> at <a href="http://www.amherst.edu">Amherst
+				College</a>. I also have an appointment as visiting faculty in <a
+				href="https://cs.brown.edu">Computer Science at Brown
+				University</a>. Previously, I spent some years as a research scientist
+				in the Labs group at <a href="https://www.twosigma.com/">Two
+				Sigma</a>.</p>
+				<p>My research focuses on <em>algorithms</em> for <em>data mining</em>
+				and <em>machine learning</em>. I develop theory and methods to extract
+				the most information from large datasets, as fast as possible and in a
+				statistically sound way. The problems I study include pattern
+				extraction, graph mining, and time series analysis. My algorithms
+				often use concepts from statistical learning theory and sampling.</p>
 				<p>My <a
 				href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erd&#337;s
 				number</a> is 3 (<a
@@ -35,16 +33,12 @@
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
-					<li><strong>ICDM'18:</strong> <a
+					<li><strong>KAIS:</strong> an extended version of <a
 					href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
 					Progressive Sequence Mining with Convergence Guarantees</a> was
-					recognized as the <a
-					href="http://www.cs.uvm.edu/~icdm/Awards/BestPapers.shtml">best
-					student paper award runner-up</a> of <a
-					href="http://www.icdm18.org">IEEE ICDM'18</a>. Congrats to superstar
-					undergrad <a href="http://sachaservanschreiber.com/index.html">Sacha
-					Servan-Schreiber</a> and postdoc <a
-					href="http://emanuelzgraggen.com">Emanuel Zgraggen</a>!</li>
+					invited to the special issue of <a
+					href="https://link.springer.com/journal/10115">KAIS</a> for the best
+					papers of <a href="http://www.icdm18.org">IEEE ICDM'18</a>.</li>
 					<li><strong>PC and editorial board:</strong> glad to serve on the PC
 					for <a href="https://icml.cc/Conferences/2019">ICML'19</a> and on the
 					guest editorial board of the Data Mining and Knowledge Discovery
@@ -55,11 +49,6 @@
 					was invited to the special issue of <a
 					href="https://tkdd.acm.org">ACM TKDD</a> for the best papers of <a
 					href="http://www.kdd.org/kdd2018/">KDD'18</a>.</li>
-					<li><strong>New job:</strong> In January 2019 I will be joining the
-					<a
-					href="https://www.amherst.edu/academiclife/departments/computer_science">computer
-					science department</a> at <a href="http://www.amherst.edu">Amherst
-					College</a> as an assistant professor.</li>
 					<li><strong>SDM'19:</strong> I'm serving as co-chair of the Doctoral
 					Forum for <a href="http://www.siam.org/meetings/sdm19/">SIAM
 					SDM'19</a>. Very excited to help with the organization, as I won the
