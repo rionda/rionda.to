@@ -5,8 +5,8 @@
 				science</a> at <a href="http://www.amherst.edu">Amherst
 				College</a>. I also have an appointment as visiting faculty in <a
 				href="https://cs.brown.edu">Computer Science at Brown
-				University</a>. Previously, I spent some years as a research scientist
-				in the Labs group at <a href="https://www.twosigma.com/">Two
+				University</a>. Previously, I spent some fantastic years as a research
+				scientist in the Labs group at <a href="https://www.twosigma.com/">Two
 				Sigma</a>.</p>
 				<p>My research focuses on <strong>algorithms</strong> for
 				<strong>knowledge discovery</strong>, <strong>data mining</strong>, and
