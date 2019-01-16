@@ -34,14 +34,21 @@
 				Laplace</a> (10<sup>th</sup>).</p>
 				<h2>News</h2>
 				<ul>
+					<li><strong>Teaching:</strong> in my first semester at Amherst
+					College, I'm teaching <a href="courses/cosc-254-s19/">Data Mining</a>
+					and <a href="courses/cosc-111-s19/">Intro to CS 1</a>. Thrilled to be
+					working closely with brilliant students again.</li>
 					<li><strong>KAIS:</strong> an extended version of <a
 					href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
 					Progressive Sequence Mining with Convergence Guarantees</a> was
 					invited to the special issue of <a
 					href="https://link.springer.com/journal/10115">KAIS</a> for the best
 					papers of <a href="http://www.icdm18.org">IEEE ICDM'18</a>.</li>
-					<li><strong>PC and editorial board:</strong> glad to serve on the PC
-					for <a href="https://icml.cc/Conferences/2019">ICML'19</a> and on the
+					<li><strong>PCs and editorial board:</strong> glad to serve on the PC
+					for <a href="https://icml.cc/Conferences/2019">ICML'19</a>, <a
+					href="https://www.kdd.org/kdd2019/">ACM KDD'19</a>, <a
+					href="http://vermontcomplexsystems.org/events/netsci/">NetSci'19</a>,
+					and <a href="https://www.ijcai19.org/">IJCAI'19</a>, and on the
 					guest editorial board of the Data Mining and Knowledge Discovery
 					journal for <a href="https://ecmlpkdd2019.org/">ECML
 					PKDD'19</a>.</li>
