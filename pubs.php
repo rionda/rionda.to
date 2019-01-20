@@ -50,7 +50,7 @@
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
 					<li>S. Servan-Schreiber, M. Riondato, and E. Zgraggen. <a
-						href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
+						href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo:
 						Progressive Sequence Mining with Convergence Guarantees</a>,
 						<em>IEEE ICDM'18</em>, 2018</li>
 					<li>M. Riondato and F. Vandin. <a

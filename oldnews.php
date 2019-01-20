@@ -5,7 +5,7 @@
 		personal records.</p>
 		<ul>
 			<li><strong>ICDM'18:</strong> <a
-			href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
+			href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo:
 			Progressive Sequence Mining with Convergence Guarantees</a> was
 			recognized as the <a
 			href="http://www.cs.uvm.edu/~icdm/Awards/BestPapers.shtml">best student
@@ -28,7 +28,7 @@
 			thanks to <a href="http://www.epasto.org">Alessandro Epasto</a> for the
 			invite.</li>
 			<li><strong>ICDM'18:</strong> Our work "<a
-			href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo: Progressive
+			href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo: Progressive
 			Sequence Mining with Convergence Guarantees</a>" has been accepted as
 			full paper at <a href="http://icdm2018.org">IEEE ICDM'18</a>. This result
 			is joint work with amazing Brown CS undergrad<a

@@ -39,7 +39,7 @@
 					and <a href="courses/cosc-111-s19/">Intro to CS 1</a>. Thrilled to be
 					working closely with brilliant students again.</li>
 					<li><strong>KAIS:</strong> an extended version of <a
-					href="papers/ServanSchreiberEtAl-ProSecCo-ICDM.pdf">ProSecCo:
+					href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo:
 					Progressive Sequence Mining with Convergence Guarantees</a> was
 					invited to the special issue of <a
 					href="https://link.springer.com/journal/10115">KAIS</a> for the best
