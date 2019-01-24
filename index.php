@@ -1,5 +1,6 @@
 <?php include("header.html"); ?>
 				<!-- vim: set ts=2 sw=2 tw=79: -->
+				<div>
 				<img src="/files/matteo_riondato.jpg" alt="Head shot of Matteo Riondato
 				by Andrea Podest&agrave;" title="Matteo Riondato"
 				style="float:left;padding:0 0.5em 0.5em 0;"
@@ -36,6 +37,7 @@
 				Denis Poisson</a> (9<sup>th</sup>), and <a
 				href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace">Pierre-Simon
 				Laplace</a> (10<sup>th</sup>).</p>
+				</div>
 				<h2>News</h2>
 				<ul>
 					<li><strong>Teaching:</strong> in my first semester at Amherst
