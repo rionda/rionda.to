@@ -1,5 +1,8 @@
 <?php include("header.html"); ?>
 				<!-- vim: set ts=2 sw=2 tw=79: -->
+				<img src="/files/matteo_riondato.jpg" alt="Head shot of Matteo Riondato
+				by Andrea Podest&agrave;" title="Matteo Riondato" style="float:left;"
+				/>
 				<p>I am an <strong>assistant professor</strong> of <a
 				href="https://www.amherst.edu/academiclife/departments/computer_science">computer
 				science</a> at <a href="https://www.amherst.edu">Amherst
