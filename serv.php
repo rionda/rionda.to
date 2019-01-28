@@ -48,6 +48,7 @@
 		<p class="notop">2012: IEEE IPDPS'12, ACM ICS'12</p>
 		<p class="notop">2011: APPROX-RANDOM'11</p>
 		<h3>Conference Session Chairing</h3>
+		<p class="notop">KDD'18: Unsupervised Learning II</p>
 		<p class="notop">KDD'17: Graphs 1</p>
 		<p class="notop">KDD'16: Graphs 1</p>
 		<p class="notop">ICDM'16: Theory</p>
