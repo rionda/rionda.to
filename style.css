@@ -1,4 +1,5 @@
-@charset "utf-8";
+@
+harset "utf-8";
 body {
 	font-family: 'Roboto', sans-serif;
 	background: #FFFFFF;
@@ -133,6 +134,11 @@ strong {
 }
 
 #maincontent h3 {
+	color: #5d3c85;
+	margin-bottom: 0.1em;
+}
+
+#maincontent h4 {
 	color: #5d3c85;
 	margin-bottom: 0.1em;
 }
