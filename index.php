@@ -38,7 +38,7 @@
 					href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace">Pierre-Simon
 					Laplace</a> (10<sup>th</sup>).</p>
 				</div>
-				<div style="clear:both;">
+				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
 						<li><strong>Teaching:</strong> in my first semester at Amherst

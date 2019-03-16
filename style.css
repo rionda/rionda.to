@@ -142,14 +142,13 @@ strong {
 	margin-bottom: 0.1em;
 }
 
-#maincontent ul {
+#news ul {
 	list-style-type: none;
 	padding-left: 0px;
 	margin: 0px;
 }
 
-
-#maincontent li {
+#news li {
 	padding-top: 0.3ex;
 	margin-left: 2em;
 	text-indent: -2em;

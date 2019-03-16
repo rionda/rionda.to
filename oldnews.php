@@ -1,5 +1,6 @@
 <?php include("header.html"); ?>
 <!-- vim: set ts=2 sw=2 tw=79: -->
+<div id="news">
 		<h2>Old News</h2>
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
@@ -261,4 +262,5 @@
 				href="http://bigdata.cs.brown.edu/vctutorial">tutorial on VC-Dimension
 				and Rademacher Averages for sampling algorithms</a>.</li>
 		</ul>
+</div>
 <?php include("footer.html"); ?>
