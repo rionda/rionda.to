@@ -16,6 +16,8 @@
 			<p>Many of the linked PDFs are extended versions of the original
 				publications.</p>
 
+			<p><a href="#journals">Journal articles</a>, <a href="#conferences">Conference papers</a>, <a href="#techrep">Technical report</a>, <a href="#tutorials">Tutorials</a></p>
+
 			<div id="pubs">
 				<h3>Journal Articles</h3>
 				<ol id="journals">
