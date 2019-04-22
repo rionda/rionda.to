@@ -44,7 +44,7 @@
 						<li><strong>ACM KDD:</strong> Our <a href="/statdmtut">tutorial</a>
 on multiple hypothesis testing and statistically-sound pattern mining has been
 accepted to <a href="http://www.kdd.org/kdd2019">ACM KDD'19</a>. See you in
-Anchore, AK!</li>
+Anchorage, AK!</li>
 						<li><strong>Teaching:</strong> in my first semester at Amherst
 						College, I'm teaching <a href="courses/cosc-254-s19/">Data
 						Mining</a> and <a href="courses/cosc-111-s19/">Intro to CS 1</a>.
