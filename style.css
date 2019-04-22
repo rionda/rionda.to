@@ -175,11 +175,11 @@ strong {
 }
 
 #dissertation {
-	counter-reset: pubs 26;
+	counter-reset: pubs 27;
 }
 
 #otherpubs {
-	counter-reset: pubs 27;
+	counter-reset: pubs 28;
 }
 
 #pubs {
