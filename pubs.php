@@ -51,6 +51,7 @@
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
+					<li>L. Pellegrina, M. Riondato, and F. Vandin, SPuManTE: Significant Pattern Mining with Unconditional Testing, <em>ACM KDD'19</em> (to appear), 2019.</li>
 					<li>S. Servan-Schreiber, M. Riondato, and E. Zgraggen. <a
 						href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo:
 						Progressive Sequence Mining with Convergence Guarantees</a>,
@@ -181,7 +182,8 @@
 			Soriano</a>, <a href="https://kornaropoulos.webflow.io/">Evgenios M.
 			Kornaropoulos</a>, <a href="https://www.cs.brown.edu/people/am104/">Ahmad
 			Mahmoody</a>, <a href="http://hpc.isti.cnr.it/~idamele/">Ida
-			Mele</a>, <a href="https://www.dei.unipd.it/~capri/">Andrea
+			Mele</a>,  <a href="https://www.dei.unipd.it/~pellegri/">Leonardo
+			Pellegrina</a>, <a href="https://www.dei.unipd.it/~capri/">Andrea
 			Pietracaprina</a>, <a href="https://www.dei.unipd.it/~geppo/">Geppino
 			Pucci</a>, <a href="http://sachaservanschreiber.com/index.html">Sacha
 			Servan-Schreiber</a>, <a

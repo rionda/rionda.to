@@ -41,6 +41,12 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>ACM KDD:</strong> SPuManTE, our work on unconditional
+multiple hypothesis testing for combinatorial patterns has been accepted to
+KDD'19. Joint work with thought leader <a
+href="http://www.dei.unipd.it/~vandinfa">Fabio Vandin</a> and amazing Ph.D.
+student
+<a href="http://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>.</li>
 						<li><strong>ACM KDD:</strong> Our <a href="/statdmtut">tutorial</a>
 on multiple hypothesis testing and statistically-sound pattern mining has been
 accepted to <a href="http://www.kdd.org/kdd2019">ACM KDD'19</a>. See you in
