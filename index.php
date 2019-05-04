@@ -62,24 +62,11 @@ Anchorage, AK!</li>
 						href="https://link.springer.com/journal/10115">KAIS</a> for the
 						best papers of <a href="http://www.icdm18.org">IEEE
 						ICDM'18</a>.</li>
-						<li><strong>PCs and editorial board:</strong> glad to serve on the
-						PC for <a href="https://icml.cc/Conferences/2019">ICML'19</a>, <a
-						href="https://www.kdd.org/kdd2019/">ACM KDD'19</a>, <a
-						href="http://vermontcomplexsystems.org/events/netsci/">NetSci'19</a>,
-						and <a href="https://www.ijcai19.org/">IJCAI'19</a>, and on the
-						guest editorial board of the Data Mining and Knowledge Discovery
-						journal for <a href="https://ecmlpkdd2019.org/">ECML
-						PKDD'19</a>.</li>
 						<li><strong>ACM TKDD:</strong> an extended version of <a
 						href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a>
 						was invited to the special issue of <a
 						href="https://tkdd.acm.org">ACM TKDD</a> for the best papers of <a
 						href="https://www.kdd.org/kdd2018/">KDD'18</a>.</li>
-						<li><strong>SDM'19:</strong> I'm serving as co-chair of the
-						Doctoral Forum for <a
-						href="https://www.siam.org/meetings/sdm19/">SIAM SDM'19</a>. Very
-						excited to help with the organization, as I won the best student
-						poster award at this event in 2014.</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>

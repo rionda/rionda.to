@@ -5,6 +5,17 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>PCs and editorial board:</strong> glad to serve on the
+			PC for <a href="https://icml.cc/Conferences/2019">ICML'19</a>, <a
+			href="https://www.kdd.org/kdd2019/">ACM KDD'19</a>, <a
+			href="http://vermontcomplexsystems.org/events/netsci/">NetSci'19</a>,
+			and <a href="https://www.ijcai19.org/">IJCAI'19</a>, and on the guest
+			editorial board of the Data Mining and Knowledge Discovery journal for <a
+			href="https://ecmlpkdd2019.org/">ECML PKDD'19</a>.</li>
+			<li><strong>SDM'19:</strong> I'm serving as co-chair of the Doctoral
+			Forum for <a href="https://www.siam.org/meetings/sdm19/">SIAM SDM'19</a>.
+			Very excited to help with the organization, as I won the best student
+			poster award at this event in 2014.</li>
 			<li><strong>ICDM'18:</strong> <a
 			href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo:
 			Progressive Sequence Mining with Convergence Guarantees</a> was
