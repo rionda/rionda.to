@@ -5,6 +5,10 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Teaching:</strong> in my first semester at Amherst College,
+			I'm teaching <a href="courses/cosc-254-s19/">Data Mining</a> and <a
+			href="courses/cosc-111-s19/">Intro to CS 1</a>.  Thrilled to be working
+			closely with brilliant students again.</li>
 			<li><strong>PCs and editorial board:</strong> glad to serve on the
 			PC for <a href="https://icml.cc/Conferences/2019">ICML'19</a>, <a
 			href="https://www.kdd.org/kdd2019/">ACM KDD'19</a>, <a
