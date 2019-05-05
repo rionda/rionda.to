@@ -8,12 +8,12 @@
 				Scholar</a>, <a href="https://arnetminer.org/person/matteo-riondato-1572079.html">AMiner</a>,
 			<a
 				href="https://www.researchgate.net/profile/Matteo_Riondato">ResearchGate</a>,
-			<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs"
+			<span itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs"
 			content="https://orcid.org/0000-0003-2523-4420"
 			href="https://orcid.org/0000-0003-2523-4420" target="orcid.widget"
 			rel="noopener noreferrer" style="vertical-align:top;"><img
 			src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-			style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a></div>,
+			style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a></span>,
 			<a href="https://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>,
 			<a href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>.</p>
 			<p>Here are the <a href="files/bibtexs/riondapubs.bib">BibTeX entries for my
