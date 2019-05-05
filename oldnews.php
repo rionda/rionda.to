@@ -166,7 +166,7 @@
 			from 12/12 to 12/15. Drop me a line if you would like to meet.</li>
 			<li><strong>Boston University (11/18):</strong> I'm talking about <a
 			href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>,
-			hosted by <a href="http://www.cs.bu.edu/~evimaria/">Evimaria Terzi</a>.
+			hosted by <a href="http://www.cs.bu.edu/~evimaria/">Evimaria Terzi</a>.</li>
 			<li><strong>IEEE MIT URTC (11/05):</strong> I'm a keynote speaker at
 			the <a href="http://ieee.scripts.mit.edu/conference/index.php">IEEE
 			MIT Undegraduate Technology Conference</a>. My talk will be about
