@@ -133,7 +133,7 @@
 			<li><strong>New GPG/PGP key:</strong> I <a
 			href="http://pgp.mit.edu/pks/lookup?op=vindex&amp;search=0xD8CA78A51EC56BEC">revoked
 			my old GPG key</a> and <a
-			href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0x1B02FD4954255501">created
+			href="http://pgp.mit.edu/pks/lookup?op=vindex&amp;search=0x1B02FD4954255501">created
 			a new one</a> (<a href="files/riondapgp.asc">ASCII-armored
 			file</a>).</li>
 			<li><strong>WWW'18</strong>: I'll be in the PC for the next <a
