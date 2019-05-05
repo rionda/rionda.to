@@ -101,6 +101,7 @@ strong {
 	margin-top: 1em;
 	border-top-style: dashed;
 	border-width: thin;
+	padding-top: 0.3em;
 	padding-left: 0.5em;
 	padding-right: 0.5em;
 	box-sizing: border-box;
