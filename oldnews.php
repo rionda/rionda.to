@@ -131,7 +131,7 @@
 			IEEE ICDE'18. Looking forward to reviewing more works at the intersection
 			of data management and data analytics.</li>
 			<li><strong>New GPG/PGP key:</strong> I <a
-			href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xD8CA78A51EC56BEC">revoked
+			href="http://pgp.mit.edu/pks/lookup?op=vindex&amp;search=0xD8CA78A51EC56BEC">revoked
 			my old GPG key</a> and <a
 			href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0x1B02FD4954255501">created
 			a new one</a> (<a href="files/riondapgp.asc">ASCII-armored
