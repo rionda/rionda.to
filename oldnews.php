@@ -175,7 +175,7 @@
 			young minds.</li>
 			<li><strong>IEEE ICDE'17:</strong> I'm on the PC for next year <a
 			href="http://icde2017.sdsc.edu/">ICDE</a>.</li>
-			<li><Strong>WWW'17:</strong> I'm on the PC for next year's <a
+			<li><strong>WWW'17:</strong> I'm on the PC for next year's <a
 			href="http://www.www2017.com.au/">WWW</a>.</li>
 			<li><strong>Carnegie Mellon University (10/24):</strong> Giving a
 			<a
@@ -188,7 +188,7 @@
 			href="http://www.networkscienceinstitute.org/events/matteo-riondato">talking</a>
 			about <a
 			href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA</a>,
-			hosted by <a href="http://www.eliassi.org">Tina Eliassi-Rad</a>.
+			hosted by <a href="http://www.eliassi.org">Tina Eliassi-Rad</a>.</li>
 			<li><strong>University of Padua (9/26):</strong> I'm giving a talk on
 			<a href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">graph
 			summarization</a> at DEI (Department of Information Engineering). Excited
