@@ -11,7 +11,7 @@
 			<span itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs"
 			content="https://orcid.org/0000-0003-2523-4420"
 			href="https://orcid.org/0000-0003-2523-4420" target="orcid.widget"
-			rel="noopener noreferrer" style="vertical-align:top;"><img
+			rel="noopener noreferrer"><img
 			src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
 			style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a></span>,
 			<a href="https://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>,
