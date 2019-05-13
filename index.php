@@ -41,6 +41,12 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>ICERM:</strong> Happy to give a talk about
+pseudodimension for data analysis at the <a
+href="https://icerm.brown.edu/tripods/tri19-2-dslds/">Data Science in
+Low-dimensional Spaces</a> workshop taking place at <a
+href="https://icerm.brown.edu">ICERM</a>. Even more excited to hear about
+exciting research from others.</li>
 						<li><strong>ACM KDD:</strong> SPuManTE, our work on unconditional
 multiple hypothesis testing for combinatorial patterns has been accepted to
 KDD'19. Joint work with thought leader <a
