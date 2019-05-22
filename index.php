@@ -47,9 +47,10 @@ href="https://icerm.brown.edu/tripods/tri19-2-dslds/">Data Science in
 Low-dimensional Spaces</a> workshop taking place at <a
 href="https://icerm.brown.edu">ICERM</a>. Even more excited to hear about
 exciting research from others.</li>
-						<li><strong>ACM KDD:</strong> SPuManTE, our work on unconditional
-multiple hypothesis testing for combinatorial patterns has been accepted to
-KDD'19. Joint work with thought leader <a
+						<li><strong>ACM KDD:</strong> <a
+href="papers/PellegrinaEtAl-SPuManTE-KDD.pdf">SPuManTE</a>, our work on
+unconditional multiple hypothesis testing for combinatorial patterns has been
+accepted to KDD'19. Joint work with thought leader <a
 href="http://www.dei.unipd.it/~vandinfa">Fabio Vandin</a> and amazing Ph.D.
 student
 <a href="http://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>.</li>

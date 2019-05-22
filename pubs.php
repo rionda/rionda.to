@@ -56,7 +56,10 @@
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
-					<li>L. Pellegrina, M. Riondato, and F. Vandin, SPuManTE: Significant Pattern Mining with Unconditional Testing, <em>ACM KDD'19</em> (to appear), 2019.</li>
+					<li>L. Pellegrina, M. Riondato, and F. Vandin, <a
+						href="papers/PellegrinaEtAl-SPuManTE-KDD.pdf">SPuManTE: Significant
+						Pattern Mining with Unconditional Testing</a>, <em>ACM KDD'19</em>,
+						2019.</li>
 					<li>S. Servan-Schreiber, M. Riondato, and E. Zgraggen. <a
 						href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo:
 						Progressive Sequence Mining with Convergence Guarantees</a>,
