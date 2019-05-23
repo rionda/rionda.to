@@ -144,7 +144,7 @@
 				<ol id="tutorials">
 					<li>L. Pellegrina, M. Riondato, and F. Vandin, <a
 					href="statdmtut/">Hypothesis Testing and Statistically-sound Pattern
-					Mining</a>, <em>ACM KDD'19</em> (Slides TBD).</li>
+					Mining</a> (<a href="papers/PellegrinaEtAl-HypTestSigPattTut-KDD19.pdf">2-pager</a>), <em>ACM KDD'19</em> (Slides TBD).</li>
 					<li>F. Bonchi, G. De Francisci Morales, and M. Riondato. <a
 						href="centrtutorial/">Centrality Measures on Big Graphs: Exact,
 						Approximated, and Distributed Algorithms</a>, <em>WWW'16</em>. <a

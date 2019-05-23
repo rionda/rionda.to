@@ -55,7 +55,8 @@ href="http://www.dei.unipd.it/~vandinfa">Fabio Vandin</a> and amazing Ph.D.
 student
 <a href="http://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>.</li>
 						<li><strong>ACM KDD:</strong> Our <a href="/statdmtut">tutorial</a>
-on multiple hypothesis testing and statistically-sound pattern mining has been
+on multiple hypothesis testing and statistically-sound pattern mining (<a
+href="papers/PellegrinaEtAl-HypTestSigPattTut-KDD19.pdf">2-pager</a>) has been
 accepted to <a href="http://www.kdd.org/kdd2019">ACM KDD'19</a>. See you in
 Anchorage, AK!</li>
 						<li><strong>KAIS:</strong> an extended version of <a
