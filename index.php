@@ -41,6 +41,13 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>ECML PKDD:</strong> <a href="papers/CousinsRiondato-CaDET-MachLearn.pdf">CaDET</a>, our algorithm
+for interpretable conditional density estimation using decision trees has been
+accepted to the special issue of <a
+href="https://www.springer.com/computer/ai/journal/10994">Machine Learning</a>
+for <a href="http://ecmlpkdd2019.org/">ECML PKDD'19</a>. Joint work with
+thinker-extraordinaire PhD student <a
+href="">Cyrus Cousins</a>.</li>
 						<li><strong>ICERM:</strong> Happy to give a talk about
 pseudodimension for data analysis at the <a
 href="https://icerm.brown.edu/tripods/tri19-2-dslds/">Data Science in
