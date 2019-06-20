@@ -183,10 +183,11 @@
 			href="https://www.dis.uniroma1.it/~becchett/">Luca Becchetti</a>, <a
 			href="http://www.francescobonchi.com/">Francesco Bonchi</a>, <a
 			href="https://sites.google.com/a/brown.edu/ugur-cetintemel/">U&#287;ur
-			&Ccedil;etintemel</a>, Justin A. DeBrabant, <a
-			href="https://www.gdfm.me/">Gianmarco De Francisci Morales</a>, Lorenzo De
-			Stefani, <a href="https://www.cs.brown.edu/~rfonseca/">Rodrigo Fonseca</a>,
-			<a href="https://www.epasto.org/">Alessandro Epasto</a>, <a
+			&Ccedil;etintemel</a>, <a href="http://cs.brown.edu/~ccousins">Cyrus
+			Cousins</a> Justin A. DeBrabant, <a href="https://www.gdfm.me/">Gianmarco
+			De Francisci Morales</a>, Lorenzo De Stefani, <a
+			href="https://www.cs.brown.edu/~rfonseca/">Rodrigo Fonseca</a>, <a
+			href="https://www.epasto.org/">Alessandro Epasto</a>, <a
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
 			Soriano</a>, <a href="https://kornaropoulos.webflow.io/">Evgenios M.
 			Kornaropoulos</a>, <a href="https://www.cs.brown.edu/people/am104/">Ahmad

@@ -47,7 +47,7 @@ accepted to the special issue of <a
 href="https://www.springer.com/computer/ai/journal/10994">Machine Learning</a>
 for <a href="http://ecmlpkdd2019.org/">ECML PKDD'19</a>. Joint work with
 thinker-extraordinaire PhD student <a
-href="">Cyrus Cousins</a>.</li>
+href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>.</li>
 						<li><strong>ICERM:</strong> Happy to give a talk about
 pseudodimension for data analysis at the <a
 href="https://icerm.brown.edu/tripods/tri19-2-dslds/">Data Science in
