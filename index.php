@@ -48,12 +48,6 @@ href="https://www.springer.com/computer/ai/journal/10994">Machine Learning</a>
 for <a href="http://ecmlpkdd2019.org/">ECML PKDD'19</a>. Joint work with
 thinker-extraordinaire PhD student <a
 href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>.</li>
-						<li><strong>ICERM:</strong> Happy to give a talk about
-pseudodimension for data analysis at the <a
-href="https://icerm.brown.edu/tripods/tri19-2-dslds/">Data Science in
-Low-dimensional Spaces</a> workshop taking place at <a
-href="https://icerm.brown.edu">ICERM</a>. Even more excited to hear about
-exciting research from others.</li>
 						<li><strong>ACM KDD:</strong> <a
 href="papers/PellegrinaEtAl-SPuManTE-KDD.pdf">SPuManTE</a>, our work on
 unconditional multiple hypothesis testing for combinatorial patterns has been

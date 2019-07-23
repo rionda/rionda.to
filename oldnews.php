@@ -5,9 +5,15 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>ICERM:</strong> Happy to give a talk about pseudodimension
+			for data analysis at the <a
+			href="https://icerm.brown.edu/tripods/tri19-2-dslds/">Data Science in
+			Low-dimensional Spaces</a> workshop taking place at <a
+			href="https://icerm.brown.edu">ICERM</a>. Even more excited to hear about
+			exciting research from others.</li>
 			<li><strong>Teaching:</strong> in my first semester at Amherst College,
 			I'm teaching <a href="courses/cosc-254-s19/">Data Mining</a> and <a
-			href="courses/cosc-111-s19/">Intro to CS 1</a>.  Thrilled to be working
+			href="courses/cosc-111-s19/">Intro to CS 1</a>. Thrilled to be working
 			closely with brilliant students again.</li>
 			<li><strong>PCs and editorial board:</strong> glad to serve on the
 			PC for <a href="https://icml.cc/Conferences/2019">ICML'19</a>, <a
