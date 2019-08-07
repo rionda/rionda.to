@@ -3,7 +3,7 @@
 		<h2>Service</h2>
 		<h3>Editorial Boards</h3>
 		<p class="notop">Data Mining and Knowledge Discovery (guest editorial board
-	  for ECML PKDD'19)</p>
+		for ECML PKDD'19)</p>
 		<h3>Organizing Committees</h3>
 		<p class="notop">2019: SIAM SDM'19 (Doctoral Forum Co-chair)</p>
 		<p class="notop">2018: SIAM SDM'18 (Sponsorship Co-chair), <a
