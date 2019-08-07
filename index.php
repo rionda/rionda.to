@@ -41,6 +41,9 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>GPG key:</strong> I updated <a
+href="files/riondapgp.asc">my GPG key</a>, which had expired. The keys did not
+change, only the expiration date.</li>
 						<li><strong>ECML PKDD:</strong> <a href="papers/CousinsRiondato-CaDET-MachLearn.pdf">CaDET</a>, our algorithm
 for interpretable conditional density estimation using decision trees has been
 accepted to the special issue of <a
