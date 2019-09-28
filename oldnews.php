@@ -5,6 +5,30 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>GPG key:</strong> I updated <a
+href="files/riondapgp.asc">my GPG key</a>, which had expired. The keys did not
+change, only the expiration date.</li>
+			<li><strong>ACM KDD:</strong> <a
+href="papers/PellegrinaEtAl-SPuManTE-KDD.pdf">SPuManTE</a>, our work on
+unconditional multiple hypothesis testing for combinatorial patterns has been
+accepted to KDD'19. Joint work with thought leader <a
+href="http://www.dei.unipd.it/~vandinfa">Fabio Vandin</a> and amazing Ph.D.
+student
+<a href="http://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>.</li>
+			<li><strong>ACM KDD:</strong> Our <a href="/statdmtut">tutorial</a>
+on multiple hypothesis testing and statistically-sound pattern mining (<a
+href="papers/PellegrinaEtAl-HypTestSigPattTut-KDD19.pdf">2-pager</a>) has been
+accepted to <a href="http://www.kdd.org/kdd2019">ACM KDD'19</a>. See you in
+Anchorage, AK!</li>
+			<li><strong>KAIS:</strong> an extended version of <a
+href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo: Progressive
+Sequence Mining with Convergence Guarantees</a> was invited to the special
+issue of <a href="https://link.springer.com/journal/10115">KAIS</a> for the
+best papers of <a href="http://www.icdm18.org">IEEE ICDM'18</a>.</li>
+			<li><strong>ACM TKDD:</strong> an extended version of <a
+href="papers/RiondatoVandin-MiSoSouPExtended-KDD.pdf">MiSoSouP</a> was invited
+to the special issue of <a href="https://tkdd.acm.org">ACM TKDD</a> for the
+best papers of <a href="https://www.kdd.org/kdd2018/">KDD'18</a>.</li>
 			<li><strong>ICERM:</strong> Happy to give a talk about pseudodimension
 			for data analysis at the <a
 			href="https://icerm.brown.edu/tripods/tri19-2-dslds/">Data Science in
