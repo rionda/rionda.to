@@ -3,7 +3,7 @@
 		<h2>Service</h2>
 		<h3>Editorial Boards</h3>
 		<p class="notop">Data Mining and Knowledge Discovery (guest editorial board
-		for ECML PKDD'19)</p>
+		for ECML PKDD'19, ECML PKDD'20)</p>
 		<h3>Organizing Committees</h3>
 		<p class="notop">2020: SIAM SDM'20 (Doctoral Forum Co-chair)</p>
 		<p class="notop">2019: SIAM SDM'19 (Doctoral Forum Co-chair)</p>
@@ -11,7 +11,7 @@
 		href="foulard18/">Foundations on Learning from Data Workshop</a>
 		(Organizer)</p>
 		<h3>Program Committees</h3>
-		<p class="notop">2020: AAAI'20, ACM WSDM'20</p>
+		<p class="notop">2020: AAAI'20, ACM WSDM'20, WWW'20</p>
 		<p class="notop">2019: AAAI'19, ACM CIKM'19, ACM WSDM'19, ACM KDD'19, ECML
 			PKDD'19, ICDM'19, ICML'19, IJCAI'19, NetSci'19, NeurIPS'19, SIAM SDM'19,
 			WWW'19</p>
@@ -37,6 +37,7 @@
 		<p class="notop"><em>IEEE Transactions on Network Science and Engineering</em> (TNSE)</p>
 		<p class="notop"><em>IEEE Transactions on Parallel and Distributed Systems</em> (TPDS)</p>
 		<p class="notop"><em>IEEE Transactions on Services Computing</em> (TSC)</p>
+		<p class="notop"><em>Information Science</em> (INS)</p>
 		<p class="notop"><em>Machine Learning</em> (Mach. Learn.)</p>
 		<p class="notop"><em>PLOS ONE</em></p>
 		<p class="notop"><em>PeerJ</em></p>
