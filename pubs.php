@@ -26,7 +26,15 @@
 			<div id="pubs">
 				<h3>Journal Articles</h3>
 				<ol id="journals">
-					<li>C. Cousins and M. Riondato <a href="papers/CousinsRiondato-CaDET-MachLearn.pdf">CaDET: Interpretable Parametric Conditional Density Estimation with Decision Trees and Forests</a>, <em>Machine Learning</em>, Special Issue for ECML PKDD'19, to appear</li>
+					<li>S. Servan-Schreiber, M. Riondato, and E. Zgraggen. <a
+						href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo:
+						Progressive Sequence Mining with Convergence Guarantees</a>,
+						<em>Knowledge and Information Systems</em>, to appear</li>
+					<li>C. Cousins and M. Riondato <a
+						href="papers/CousinsRiondato-CaDET-MachLearn.pdf">CaDET:
+						Interpretable Parametric Conditional Density Estimation with
+						Decision Trees and Forests</a>, <em>Machine Learning</em>,
+						108:1631–1634, 2019</li>
 					<li>M. Riondato and E. Upfal <a
 						href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA:
 						Approximating Betweenness Centrality in Static and Dynamic Graphs
