@@ -41,10 +41,19 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
-						<li><strong>SIAM SDM'20:</strong> We'll present our <a href="statdmtut/">tutorial on
-Statistical Hypothesis Testing and Pattern Mining</a> at<a
-href="https://www.siam.org/conferences/cm/conference/sdm20">SIAM SDM'20</a>, a
-great event bringing together computer scientists and statisticians.</li>
+						<li><strong>MDS'20:</strong> My talk on <em>Algorithms for Scalable
+						Hypothesis Testing</em> has been accepted for presentation at the
+						new <a
+						href="https://www.siam.org/conferences/cm/conference/mds20">SIAM
+						Conference on Mathematics of Data Science</a>, which has a super
+						strong <a
+						href="https://meetings.siam.org/program.cfm?CONFCODE=MD20">program</a>.</li>
+						<li><strong>SDM'20:</strong> We'll present our <a
+						href="statdmtut/">tutorial on
+						Statistical Hypothesis Testing and Pattern Mining</a> at<a
+						href="https://www.siam.org/conferences/cm/conference/sdm20">SIAM
+						SDM'20</a>, a great event bringing together computer scientists and
+						statisticians.</li>
 						<li><strong>DMKD:</strong> Very honored to become a member of the
 						<a href="https://link.springer.com/journal/10618">Data Mining and
 						Knowledge Discovery</a> journal, one of the top venues in my area
