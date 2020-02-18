@@ -50,7 +50,7 @@
 						href="https://meetings.siam.org/program.cfm?CONFCODE=MD20">program</a>.</li>
 						<li><strong>SDM'20:</strong> We'll present our <a
 						href="statdmtut/">tutorial on
-						Statistical Hypothesis Testing and Pattern Mining</a> at<a
+						Statistical Hypothesis Testing and Pattern Mining</a> at <a
 						href="https://www.siam.org/conferences/cm/conference/sdm20">SIAM
 						SDM'20</a>, a great event bringing together computer scientists and
 						statisticians.</li>
