@@ -55,7 +55,8 @@
 						SDM'20</a>, a great event bringing together computer scientists and
 						statisticians.</li>
 						<li><strong>DMKD:</strong> Very honored to become a member of the
-						<a href="https://link.springer.com/journal/10618">Data Mining and
+						editorial board of <a
+						href="https://link.springer.com/journal/10618">Data Mining and
 						Knowledge Discovery</a> journal, one of the top venues in my area
 						of research.</li>
 						<li><a href="oldnews.php">News archive</a></li>
