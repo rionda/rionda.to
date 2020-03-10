@@ -41,13 +41,13 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
-						<li><strong>TKDD:></strong> The extended version of <a
+						<li><strong>TKDD:</strong> The extended version of <a
 						href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP</a>, our
 						algorithm for mining interesting subgroups through sampling with
 						pseudodimension has been accepted to the <a
 						href="http://tkdd.acm.org">TKDD</a> special issue for the best
 						papers of KDD'18. Joint work with great colleague <a
-						href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>.</p>
+						href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>.</li>
 						<li><strong>MDS'20:</strong> My talk on <em>Algorithms for Scalable
 						Hypothesis Testing</em> has been accepted for presentation at the
 						new <a
