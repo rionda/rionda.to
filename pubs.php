@@ -26,10 +26,17 @@
 			<div id="pubs">
 				<h3>Journal Articles</h3>
 				<ol id="journals">
+					<li>M. Riondato and F. Vandin. <a
+						href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP:
+						Mining Interesting Subgroups with Sampling and
+						Pseudodimension</a>, <em>ACM Transactions on Knowledge Discovery
+						from Data</em>, to appear (S. I. for the best papers of
+						KDD'18)</li>
 					<li>S. Servan-Schreiber, M. Riondato, and E. Zgraggen. <a
 						href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo:
 						Progressive Sequence Mining with Convergence Guarantees</a>,
-						<em>Knowledge and Information Systems</em>, to appear</li>
+						<em>Knowledge and Information Systems</em>, to appear (S. I. for
+						the best papers of ICDM'18)</li>
 					<li>C. Cousins and M. Riondato <a
 						href="papers/CousinsRiondato-CaDET-MachLearn.pdf">CaDET:
 						Interpretable Parametric Conditional Density Estimation with
@@ -44,7 +51,8 @@
 						<a href="papers/DeStefaniEtAl-TRIEST-TKDD.pdf">TRI&Egrave;ST:
 						Counting Local and Global Triangles in Fully-dynamic Streams with
 						Fixed Memory Size</a>, <em>ACM Transactions on Knowledge Discovery
-						from Data</em>, 11(2):43, 2017</li>
+						from Data</em>, 11(2):43 (S. I. for the best papers of KDD'16),
+						2017</li>
 					<li>M. Riondato, D. Garc&iacute;a-Soriano, and F. Bonchi. <a
 						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">Graph
 						Summarization with Quality Guarantees</a>, <em>Data Mining and
@@ -61,7 +69,8 @@
 					<li>A. Pietracaprina, M. Riondato, E. Upfal, and F. Vandin. <a
 						href="papers/PietracaprinaEtAl-TopKItemsetsProgressiveSampling-DMKD.pdf">Mining
 						Top-k Frequent Itemsets through Progressive Sampling</a>, <em>Data
-						Mining and Knowledge Discovery</em>, 21(2):310&mdash;326, 2010</li>
+						Mining and Knowledge Discovery</em>, 21(2):310&mdash;326 (S. I. for
+						the best papers of ECML PKDD'10), 2010</li>
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
