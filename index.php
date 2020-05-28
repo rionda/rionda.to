@@ -46,7 +46,7 @@
 						approximate pattern mining has been accepted as a full paper in the
 						research track. Join work with the statistics-datamining gang: <a
 						href="http://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>,
-						<a href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a> and <a
+						<a href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>, and <a
 						href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>.</li>
 						<li><strong>TKDD:</strong> The extended version of <a
 						href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP</a>, our
