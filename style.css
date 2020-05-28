@@ -164,23 +164,23 @@ strong {
 }
 
 #unpublished {
-	counter-reset: pubs 21;
+	counter-reset: pubs 22;
 }
 
 #techreps {
-	counter-reset: pubs 27;
-}
-
-#tutorials {
 	counter-reset: pubs 28;
 }
 
+#tutorials {
+	counter-reset: pubs 29;
+}
+
 #dissertation {
-	counter-reset: pubs 31;
+	counter-reset: pubs 32;
 }
 
 #otherpubs {
-	counter-reset: pubs 32;
+	counter-reset: pubs 33;
 }
 
 #pubs {
