@@ -41,6 +41,11 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>SDM'21:</strong> I will be the Tutorial Chair and a
+						member of the Senior PC for <a
+						href="https://www.siam.org/conferences/cm/conference/sdm21">SIAM
+						SDM'21</a>. Always glad to be of service to the knowledge
+						discovery, data mining, and statistics communities.</li>
 						<li><strong>KDD'20:</strong> MCRapper, our work on computing the
 						Monte Carlo Empirical Rademacher Average on poset families for
 						approximate pattern mining has been accepted as a full paper in the
