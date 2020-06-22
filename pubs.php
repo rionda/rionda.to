@@ -30,13 +30,13 @@
 						href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP:
 						Mining Interesting Subgroups with Sampling and
 						Pseudodimension</a>, <em>ACM Transactions on Knowledge Discovery
-						from Data</em>, to appear (S. I. for the best papers of
+						from Data</em>, 14(5):56, 2020 (S. I. for the best papers of
 						KDD'18)</li>
 					<li>S. Servan-Schreiber, M. Riondato, and E. Zgraggen. <a
 						href="papers/ServanSchreiberEtAl-ProSecCo-KAIS.pdf">ProSecCo:
 						Progressive Sequence Mining with Convergence Guarantees</a>,
-						<em>Knowledge and Information Systems</em>, to appear (S. I. for
-						the best papers of ICDM'18)</li>
+						<em>Knowledge and Information Systems</em>, 62(4):1313–1340 (S. I.
+						for the best papers of ICDM'18)</li>
 					<li>C. Cousins and M. Riondato <a
 						href="papers/CousinsRiondato-CaDET-MachLearn.pdf">CaDET:
 						Interpretable Parametric Conditional Density Estimation with
