@@ -19,7 +19,9 @@
 					possible and in a statistically sound way. The problems I study
 					include pattern extraction, graph mining, and time series analysis.
 					My algorithms often use concepts from statistical learning theory and
-					sampling.</p>
+					sampling. My research is supported, in part, by <a href="Scalable and
+					Iterative Statistical Testing of Multiple Hypotheses on Massive
+					Datasets">NSF Award #2006765</a>.</p>
 					<p>My <a
 					href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erd&#337;s
 					number</a> is 3 (<a
