@@ -41,7 +41,12 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
-						<li><strong>SDM'21:</strong> I will be the Tutorial Chair and a
+						<li><strong>NSF Grant:</strong> My project on <a
+						href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765">Scalable
+						and Iterative Statistical Testing of Multiple Hypotheses on Massive
+						Datasets</a> has been funded! Thanks NSF! I really look forward to
+						the work ahead.</li>
+						 <li><strong>SDM'21:</strong> I will be the Tutorial Chair and a
 						member of the Senior PC for <a
 						href="https://www.siam.org/conferences/cm/conference/sdm21">SIAM
 						SDM'21</a>. Always glad to be of service to the knowledge
