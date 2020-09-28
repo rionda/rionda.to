@@ -43,6 +43,11 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>NeurIPS'20:</strong> our paper (w/
+						soon-to-be-PhD-extraordinaire <a
+						href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>) "Sharp
+						uniform convergence bounds through empirical centralization" was
+						accepted. This work is theoretical and fun!</li>
 						<li><strong>NSF Grant:</strong> My project on <a
 						href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765">Scalable
 						and Iterative Statistical Testing of Multiple Hypotheses on Massive
@@ -60,18 +65,6 @@
 						href="http://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>,
 						<a href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>, and <a
 						href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>.</li>
-						<li><strong>TKDD:</strong> The extended version of <a
-						href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP</a>, our
-						algorithm for mining interesting subgroups through sampling with
-						pseudodimension has been accepted to the <a
-						href="http://tkdd.acm.org">TKDD</a> special issue for the best
-						papers of KDD'18. Joint work with great colleague <a
-						href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>.</li>
-						<li><strong>DMKD:</strong> Very honored to become a member of the
-						editorial board of <a
-						href="https://link.springer.com/journal/10618">Data Mining and
-						Knowledge Discovery</a> journal, one of the top venues in my area
-						of research.</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>

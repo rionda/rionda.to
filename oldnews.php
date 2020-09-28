@@ -5,6 +5,17 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>TKDD:</strong> The extended version of <a
+			href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP</a>, our
+			algorithm for mining interesting subgroups through sampling with
+			pseudodimension has been accepted to the <a
+			href="http://tkdd.acm.org">TKDD</a> special issue for the best papers of
+			KDD'18. Joint work with great colleague <a
+			href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>.</li>
+			<li><strong>DMKD:</strong> Very honored to become a member of the
+			editorial board of <a href="https://link.springer.com/journal/10618">Data
+			Mining and Knowledge Discovery</a> journal, one of the top venues in my
+			area of research.</li>
 			<li><strong>MDS'20:</strong> My talk on <em>Algorithms for Scalable
 			Hypothesis Testing</em> has been accepted for presentation at the new <a
 			href="https://www.siam.org/conferences/cm/conference/mds20">SIAM
