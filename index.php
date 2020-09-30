@@ -43,6 +43,11 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>Umass talk (10/6): </strong> I'll be giving a talk on
+						<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
+						the Theory seminar. Thanks <a
+						href="https://people.cs.umass.edu/~cmusco/">Cameron</a> for
+						inviting me!</li>
 						<li><strong>NeurIPS'20:</strong> our paper (w/
 						soon-to-be-PhD-extraordinaire <a
 						href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>) "Sharp
@@ -58,10 +63,12 @@
 						href="https://www.siam.org/conferences/cm/conference/sdm21">SIAM
 						SDM'21</a>. Always glad to be of service to the knowledge
 						discovery, data mining, and statistics communities.</li>
-						<li><strong>KDD'20:</strong> MCRapper, our work on computing the
-						Monte Carlo Empirical Rademacher Average on poset families for
-						approximate pattern mining has been accepted as a full paper in the
-						research track. Join work with the statistics-datamining gang: <a
+						<li><strong>KDD'20:</strong> <a
+						href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a>, our
+						work on computing the Monte Carlo Empirical Rademacher Average on
+						poset families for approximate pattern mining has been accepted as
+						a full paper in the research track. Join work with the
+						statistics-datamining gang: <a
 						href="http://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>,
 						<a href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>, and <a
 						href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>.</li>

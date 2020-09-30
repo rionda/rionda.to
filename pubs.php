@@ -74,9 +74,9 @@
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
-					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. McRapper:
+					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">McRapper:
 					Monte-Carlo Rademacher Averages for Poset Families and Approximate
-					Pattern Mining, <em>ACM KDD'20</em>, 2020.</li>
+					Pattern Mining</a>, <em>ACM KDD'20</em>, 2020.</li>
 					<li>L. Pellegrina, M. Riondato, and F. Vandin, <a
 						href="papers/PellegrinaEtAl-SPuManTE-KDD.pdf">SPuManTE: Significant
 						Pattern Mining with Unconditional Testing</a>, <em>ACM KDD'19</em>,
