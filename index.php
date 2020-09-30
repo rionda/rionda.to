@@ -45,7 +45,9 @@
 					<ul>
 						<li><strong>Umass talk (10/6): </strong> I'll be giving a talk on
 						<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
-						the Theory seminar. Thanks <a
+						the <a
+						href="https://groups.cs.umass.edu/theory/theory-seminar/">Theory
+						seminar</a>. Thanks <a
 						href="https://people.cs.umass.edu/~cmusco/">Cameron</a> for
 						inviting me!</li>
 						<li><strong>NeurIPS'20:</strong> our paper (w/
