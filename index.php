@@ -43,7 +43,16 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
-						<li><strong>Umass talk (10/6): </strong> I'll be giving a talk on
+						<li><strong>WSDM'21:</strong> "RepBubLik: Reducing the Polarized
+						Bubble Radius with Link Insertions" was accepted to <a
+						href="http://www.wsdm-conference.org/2021/">WSDM'21</a>, a venue
+						dear to me. Joint work with the Brown crew: <a
+						href="https://sites.google.com/view/shahrzadhaddadan">Shahrzad
+						Haddadan</a>, <a
+						href="https://sites.google.com/diag.uniroma1.it/cristinamenghini-patk">Cristina
+						Menghini</a>, and <a href="https://cs.brown.edu/people/eupfal">Eli
+						Upfal</a>.</li>
+						<li><strong>UMass talk (10/6): </strong> I'll be giving a talk on
 						<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
 						the <a
 						href="https://groups.cs.umass.edu/theory/theory-seminar/">Theory

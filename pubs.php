@@ -74,7 +74,13 @@
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
-					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">McRapper:
+					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. RepBubLik:
+					Reducing the Polarized Bubble Radius with Link Insertions, <em>ACM
+					WSDM'21</em>, 2021.</li>
+					<li>C. Cousins and M. Riondato. Sharp uniform convengence bounds
+					through empirical centralization, <em>NeurIPS'20</em>, 2020.</li>
+					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a
+					href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">McRapper:
 					Monte-Carlo Rademacher Averages for Poset Families and Approximate
 					Pattern Mining</a>, <em>ACM KDD'20</em>, 2020.</li>
 					<li>L. Pellegrina, M. Riondato, and F. Vandin, <a
