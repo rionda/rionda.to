@@ -43,6 +43,11 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>Fidelity (10/28):</strong> giving a talk on
+						<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
+						Fidelity, thank you <a
+						href="https://sites.google.com/site/serdrk/">Serdar</a> for
+						inviting me.</li>
 						<li><strong>WSDM'21:</strong> "RepBubLik: Reducing the Polarized
 						Bubble Radius with Link Insertions" was accepted to <a
 						href="http://www.wsdm-conference.org/2021/">WSDM'21</a>, a venue
