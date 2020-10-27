@@ -77,8 +77,10 @@
 					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. RepBubLik:
 					Reducing the Polarized Bubble Radius with Link Insertions, <em>ACM
 					WSDM'21</em>, 2021.</li>
-					<li>C. Cousins and M. Riondato. Sharp uniform convengence bounds
-					through empirical centralization, <em>NeurIPS'20</em>, 2020.</li>
+					<li>C. Cousins and M. Riondato. <a
+						href="papers/CousinsRiondato-UniformConvergenceEmpiricalCentralization-NeurIPS.pdf">Sharp
+					uniform convengence bounds through empirical centralization</a>,
+					<em>NeurIPS'20</em>, 2020.</li>
 					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a
 					href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">McRapper:
 					Monte-Carlo Rademacher Averages for Poset Families and Approximate

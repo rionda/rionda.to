@@ -66,9 +66,10 @@
 						inviting me!</li>
 						<li><strong>NeurIPS'20:</strong> our paper (w/
 						soon-to-be-PhD-extraordinaire <a
-						href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>) "Sharp
-						uniform convergence bounds through empirical centralization" was
-						accepted. This work is theoretical and fun!</li>
+						href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>) <a
+						href="papers/CousinsRiondato-UniformConvergenceEmpiricalCentralization-NeurIPS.pdf">"Sharp
+						uniform convergence bounds through empirical centralization"</a>
+						was accepted. This work is theoretical and fun!</li>
 						<li><strong>NSF Grant:</strong> My project on <a
 						href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765">Scalable
 						and Iterative Statistical Testing of Multiple Hypotheses on Massive
