@@ -217,13 +217,18 @@
 			href="https://www.cs.brown.edu/~rfonseca/">Rodrigo Fonseca</a>, <a
 			href="https://www.epasto.org/">Alessandro Epasto</a>, <a
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
-			Soriano</a>, <a href="https://kornaropoulos.webflow.io/">Evgenios M.
+			Soriano</a>, <a
+			href="https://sites.google.com/view/shahrzadhaddadan/">Shahrzad
+			Haddadan</a>, <a href="https://kornaropoulos.webflow.io/">Evgenios M.
 			Kornaropoulos</a>, <a href="https://www.cs.brown.edu/people/am104/">Ahmad
 			Mahmoody</a>, <a href="http://hpc.isti.cnr.it/~idamele/">Ida
-			Mele</a>,  <a href="https://www.dei.unipd.it/~pellegri/">Leonardo
-			Pellegrina</a>, <a href="https://www.dei.unipd.it/~capri/">Andrea
-			Pietracaprina</a>, <a href="https://www.dei.unipd.it/~geppo/">Geppino
-			Pucci</a>, <a href="http://sachaservanschreiber.com/index.html">Sacha
+			Mele</a>,  <a
+			href="https://sites.google.com/diag.uniroma1.it/cristinamenghini-patk">Cristina
+			Menghini</a>, <a
+			href="https://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>, <a
+			href="https://www.dei.unipd.it/~capri/">Andrea Pietracaprina</a>, <a
+			href="https://www.dei.unipd.it/~geppo/">Geppino Pucci</a>, <a
+			href="http://sachaservanschreiber.com/index.html">Sacha
 			Servan-Schreiber</a>, <a
 			href="https://www.dei.unipd.it/~silvestri">Francesco Silvestri</a>, <a
 			href="https://www.cs.brown.edu/~eli/">Eli Upfal</a>, <a
