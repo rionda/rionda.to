@@ -1,0 +1,199 @@
+\documentclass[format=acmsmall,authorversion]{acmart}
+
+\pdfpagewidth=8.5in
+\pdfpageheight=11in
+
+\setcopyright{acmlicensed}
+\acmJournal{TKDD}
+\acmYear{2020} \acmVolume{1} \acmNumber{1} \acmArticle{1} \acmMonth{1} \acmPrice{15.00} \acmDOI{10.1145/3442590}
+
+% MR 20190205: Why do we need these?
+%\fancyhead{}
+%\settopmatter{printacmref=true, printfolios=false}
+
+% Packages
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{amsmath,epsfig}
+\usepackage{amsthm,bbm}
+%\usepackage[ruled, vlined, linesnumbered]{algorithm2e}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+\usepackage{epstopdf}
+\usepackage{multirow}     % multi rows for tables
+\usepackage[font={bf}, tableposition=bottom]{caption}     % captions on top for tables
+%\usepackage[square,numbers]{natbib}     % better references
+\usepackage{microtype}    % compress text
+\usepackage{units}     % nicer slanted fractions
+\usepackage{xspace}     % fix space in macros
+\usepackage{booktabs}     % nicer tables
+\usepackage{siunitx}          % \num for decimal grouping}
+\usepackage{xcolor}
+\usepackage{tablefootnote}
+\usepackage{float}
+\usepackage{xfrac}
+\usepackage{afterpage}
+\usepackage{subcaption}
+\usepackage{pifont}%
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+
+% Temporary package. Remove before submission. To see the paper without the
+% notes, use `hide' instead of 'show'.
+%\usepackage[show]{chato-notes}
+
+\input{sections/macros}
+
+\DeclareGraphicsExtensions{.pdf,.png,.jpg,.eps}
+\graphicspath{{./img/}}
+
+\begin{document}
+
+% ****************** TITLE ****************************************
+\title[\titlefirstpart\ \titlesecondpart]{\titlefirstpart\ \titlesecondpart}
+\titlenote{A preliminary version of this work appeared in the proceedings of ACM
+  CIKM'18 as~\citep{AslayNMG18}.}
+
+
+\author{Muhammad Anis Uddin Nasir}
+\authornote{Part of the work done while at KTH Royal Institute of Technology.}
+\affiliation{\institution{King Digital Entertainment Ltd}}
+\email{anis.nasir@king.se}
+
+\author{Cigdem Aslay}
+\authornote{Part of the work done while at Aalto University.}
+\affiliation{%
+  \department{Department of Computer Science}
+  \institution{Aarhus University}
+   \city{Aarhus}
+  \country{Denmark}
+}
+\email{cigdem@cs.au.dk}
+
+\author{Gianmarco De Francisci Morales}
+\affiliation{%
+  \institution{ISI Foundation}
+  \streetaddress{Via Chisola 5}
+  \city{Turin}
+  \postcode{10126}
+  \country{Italy}
+}
+\email{gdfm@acm.org}
+
+\author{Matteo Riondato}
+\orcid{0000-0003-2523-4420}
+\affiliation{%
+  \position{Assistant Professor}
+  \department{Department of Computer Science}
+  \institution{Amherst College}
+  \streetaddress{Box \#2232, Amherst College}
+  \city{Amherst}
+  \state{MA}
+  \postcode{01002}
+  \country{USA}
+}
+\email{mriondato@amherst.edu}
+
+\begin{abstract}
+  Given a labeled graph, the collection of $k$-vertex induced connected subgraph
+  patterns that appear in the graph more frequently than a user-specified
+  minimum threshold provides a compact summary of the characteristics of the
+  graph, and finds applications ranging from biology to network
+  science. However, finding these patterns is challenging, even more so for
+  dynamic graphs that evolve over time, due to the streaming nature of the input
+  and the exponential time complexity of the problem.
+
+  We study this task in both incremental and fully-dynamic streaming settings,
+  where arbitrary edges can be added or removed from the graph. We present
+  \algo, a suite of algorithms to compute high-quality approximations of the
+  frequent $k$-vertex subgraphs w.r.t.~a given threshold, at any time (i.e.,
+  point of the stream), with high probability. In contrast to existing
+  state-of-the-art solutions that require iterating over the entire set of
+  subgraphs in the vicinity of the updated edge, \algo operates by efficiently
+  maintaining a uniform sample of connected $k$-vertex subgraphs, thanks to an
+  optimized neighborhood-exploration procedure. We provide a theoretical
+  analysis of the proposed algorithms in terms of their unbiasedness and of the
+  sample size needed to obtain a desired approximation quality. Our analysis
+  relies on sample-complexity bounds that use VC-dimension, a key concept from
+  statistical learning theory, which allows us to derive a sufficient sample
+  size that is independent from the size of the graph. The results of our
+  empirical evaluation demonstrates that \algo returns high-quality results more
+  efficiently and accurately than existing baselines.
+\end{abstract}
+
+% Generated from https://dl.acm.org/ccs/ccs_flat.cfm
+\begin{CCSXML}
+<ccs2012>
+<concept>
+<concept_id>10002950.10003624.10003633.10003641</concept_id>
+<concept_desc>Mathematics of computing~Graph enumeration</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+<concept>
+<concept_id>10002950.10003648.10003671</concept_id>
+<concept_desc>Mathematics of computing~Probabilistic algorithms</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+<concept>
+<concept_id>10002951.10003227.10003351.10003446</concept_id>
+<concept_desc>Information systems~Data stream mining</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+<concept>
+<concept_id>10003752.10003809.10010055.10010057</concept_id>
+<concept_desc>Theory of computation~Sketching and sampling</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+</ccs2012>
+\end{CCSXML}
+
+\ccsdesc[500]{Mathematics of computing~Graph enumeration}
+\ccsdesc[500]{Mathematics of computing~Probabilistic algorithms}
+\ccsdesc[500]{Information systems~Data stream mining}
+\ccsdesc[500]{Theory of computation~Sketching and sampling}
+
+\keywords{edge streams, graph streams, reservoir sampling, random pairing,
+VC-dimension}
+
+\begin{teaserfigure}
+  \begin{quote}
+    {\small ``Perhaps he could dance first and think afterwards, if it isn't too
+      much to ask him.''
+    }
+  \end{quote}
+  {\small \hspace*{\fill}--S.~Beckett, \emph{Waiting for Godot}}
+\end{teaserfigure}
+
+\maketitle
+\input{sections/intro}
+\input{sections/related}
+\input{sections/pitch}
+\input{sections/solution}
+\input{sections/experiments}
+\input{sections/conclusion}
+%\input{sections/discussion}
+
+\begin{acks}
+  The authors are grateful to Aristides Gionis for the guidance and support
+  during the preliminary phase of this work. We are also thankful to the
+  anonymous reviewers for their valuable feedback.
+
+  Cigdem Aslay is supported by \grantsponsor{AoF}{Academy of
+  Finland}{http://www.aka.fi/} projects \grantnum{Aof}{286211},
+  \grantnum{Aof}{313927}, and \grantnum{Aof}{317085}, and the
+  \grantsponsor{EC}{EC H2020}{https://ec.europa.eu/programmes/horizon2020/en}
+  RIA project ``SoBigData''
+  \grantnum[https://cordis.europa.eu/project/rcn/197882/en]{EC}{654024}.
+
+  Gianmarco De Francisci Morales acknowledges the support from Intesa Sanpaolo Innovation Center.
+  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+  Matteo Riondato is supported in part by the \grantsponsor{NSF}{National Science
+  Foundation}{http://www.nsf.gov} project
+  \grantnum[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765]{NSF}{2006765}.
+\end{acks}
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{biblio}
+
+\end{document}

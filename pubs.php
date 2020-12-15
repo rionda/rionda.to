@@ -26,6 +26,11 @@
 			<div id="pubs">
 				<h3>Journal Articles</h3>
 				<ol id="journals">
+					<li>M. A. U. Nasir, C. Aslay, G. De Francisci Morales, and M.
+						Riondato. <a href="papers/NasirEtAl-TipTap-TKDD.pdf">TipTap:
+						Approximate Mining of Frequent 𝑘-Subgraph Patterns in Evolving
+						Graphs</a>, <em>ACM Transactions on Knowledge Discovery from
+						Data</em>, to appear.</li>
 					<li>M. Riondato and F. Vandin. <a
 						href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP:
 						Mining Interesting Subgroups with Sampling and
@@ -209,7 +214,8 @@
 
 		<h3>Coauthors</h3>
 		<p class="notop"><a href="https://www.cs.brown.edu/~makdere/">Mert
-			Akdere</a>, <a href="http://www.aris.me/">Aris Anagnostopoulos</a>, <a
+			Akdere</a>, <a href="http://www.aris.me/">Aris Anagnostopoulos</a>,
+			Cigdem Aslay, <a
 			href="https://www.dis.uniroma1.it/~becchett/">Luca Becchetti</a>, <a
 			href="http://www.francescobonchi.com/">Francesco Bonchi</a>, <a
 			href="https://sites.google.com/a/brown.edu/ugur-cetintemel/">U&#287;ur
@@ -226,7 +232,7 @@
 			Mahmoody</a>, <a href="http://hpc.isti.cnr.it/~idamele/">Ida
 			Mele</a>,  <a
 			href="https://sites.google.com/diag.uniroma1.it/cristinamenghini-patk">Cristina
-			Menghini</a>, <a
+			Menghini</a>, Muhammad Anis Udin Nasir, <a
 			href="https://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>, <a
 			href="https://www.dei.unipd.it/~capri/">Andrea Pietracaprina</a>, <a
 			href="https://www.dei.unipd.it/~geppo/">Geppino Pucci</a>, <a

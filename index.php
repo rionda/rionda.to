@@ -43,6 +43,14 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>TKDD:</strong> <a
+						href="papers/NasirEtAl-TipTap-TKDD.pdf">TipTap</a>, our work on
+						maintaining frequent subgraphs in fully-dynamic edge graph streams
+						has been accepted to <a href="http://tkdd.acm.org">ACM TKDD</a>.
+						Nice work using reservoir sampling and random pairing, with <a
+						href="http://gdfm.me">Gianmarco</a>, <a
+						href="https://pure.au.dk/portal/en/persons/cigdem-aslay(921b00ac-c233-4813-be49-89852a83f6bc).html">Cigdem</a>,
+						and Anis.</li>
 						<li><strong>Fidelity (10/28):</strong> giving a talk on
 						<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
 						Fidelity, thank you <a
