@@ -43,6 +43,11 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>KTH talk (2/18):</strong> Giving a talk about <a
+						href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik</a> at KTH.
+						Thank you <a href="https://www.kth.se/profile/argioni">Aris</a> and
+						<a href="https://www.kth.se/profile/neum?l=en">Stefan</a> for
+						inviting me!</li>
 						<li><strong>TKDD:</strong> <a
 						href="papers/NasirEtAl-TipTap-TKDD.pdf">TipTap</a>, our work on
 						maintaining frequent subgraphs in fully-dynamic edge graph streams
@@ -56,16 +61,17 @@
 						Fidelity, thank you <a
 						href="https://sites.google.com/site/serdrk/">Serdar</a> for
 						inviting me.</li>
-						<li><strong>WSDM'21:</strong> "RepBubLik: Reducing the Polarized
-						Bubble Radius with Link Insertions" was accepted to <a
-						href="http://www.wsdm-conference.org/2021/">WSDM'21</a>, a venue
-						dear to me. Joint work with the Brown crew: <a
+						<li><strong>WSDM'21:</strong> <a
+						href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik: Reducing
+						the Polarized Bubble Radius with Link Insertions</a> was accepted
+						to <a href="http://www.wsdm-conference.org/2021/">WSDM'21</a>, a
+						venue dear to me. Joint work with the Brown crew: <a
 						href="https://sites.google.com/view/shahrzadhaddadan">Shahrzad
 						Haddadan</a>, <a
 						href="https://sites.google.com/diag.uniroma1.it/cristinamenghini-patk">Cristina
 						Menghini</a>, and <a href="https://cs.brown.edu/people/eupfal">Eli
 						Upfal</a>.</li>
-						<li><strong>UMass talk (10/6): </strong> I'll be giving a talk on
+						<li><strong>UMass talk (10/6):</strong> I'll be giving a talk on
 						<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
 						the <a
 						href="https://groups.cs.umass.edu/theory/theory-seminar/">Theory
