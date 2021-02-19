@@ -80,7 +80,7 @@
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
 					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. <a
-					href="papers/HaddadanEtAl-RepBubLiK-WSDM.pdf">RePBubLik: Reducing the
+					href="papers/HaddadanEtAl-RepBubLik-WSDM.pdf">RePBubLik: Reducing the
 					Polarized Bubble Radius with Link Insertions</a>, <em>ACM
 					WSDM'21</em>, 2021.</li>
 					<li>C. Cousins and M. Riondato. <a
