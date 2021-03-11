@@ -45,6 +45,9 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>WSDM'21:</strong> <a
+						href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik</a> wins a
+						Best Paper Award Honorable Mention! Yay!</li>
 						<li><strong>KTH talk (2/18):</strong> Giving a talk about <a
 						href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik</a> at KTH.
 						Thank you <a href="https://www.kth.se/profile/argioni">Aris</a> and
