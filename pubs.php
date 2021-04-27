@@ -30,7 +30,7 @@
 						Riondato. <a href="papers/NasirEtAl-TipTap-TKDD.pdf">TipTap:
 						Approximate Mining of Frequent 𝑘-Subgraph Patterns in Evolving
 						Graphs</a>, <em>ACM Transactions on Knowledge Discovery from
-						Data</em>, to appear.</li>
+						Data</em>, 15(3):48, 2021.</li>
 					<li>M. Riondato and F. Vandin. <a
 						href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP:
 						Mining Interesting Subgroups with Sampling and
