@@ -45,6 +45,10 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>KDD'21:</strong> Two papers accepted in the research
+						track: Bavarian, on betweenness centrality approximation, and
+						MaNIACS, on approximating the frequent subgraphs in a large graph
+						through sampling.</li>
 						<li><strong>WSDM'21:</strong> <a
 						href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik</a> wins a
 						Best Paper Award Honorable Mention! Yay!</li>
