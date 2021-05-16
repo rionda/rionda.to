@@ -5,6 +5,51 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>Fidelity (10/28):</strong> giving a talk on
+			<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
+			Fidelity, thank you <a
+			href="https://sites.google.com/site/serdrk/">Serdar</a> for inviting
+			me.</li>
+			<li><strong>WSDM'21:</strong> <a
+			href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik: Reducing
+			the Polarized Bubble Radius with Link Insertions</a> was accepted
+			to <a href="http://www.wsdm-conference.org/2021/">WSDM'21</a>, a venue
+			dear to me. Joint work with the Brown crew: <a
+			href="https://sites.google.com/view/shahrzadhaddadan">Shahrzad
+			Haddadan</a>, <a
+			href="https://sites.google.com/diag.uniroma1.it/cristinamenghini-patk">Cristina
+			Menghini</a>, and <a href="https://cs.brown.edu/people/eupfal">Eli
+			Upfal</a>.</li>
+			<li><strong>UMass talk (10/6):</strong> I'll be giving a talk on
+			<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
+			the <a href="https://groups.cs.umass.edu/theory/theory-seminar/">Theory
+			seminar</a>. Thanks <a
+			href="https://people.cs.umass.edu/~cmusco/">Cameron</a> for
+			inviting me!</li>
+			<li><strong>NeurIPS'20:</strong> our paper (w/
+			soon-to-be-PhD-extraordinaire <a
+			href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>) <a
+			href="papers/CousinsRiondato-UniformConvergenceEmpiricalCentralization-NeurIPS.pdf">"Sharp
+			uniform convergence bounds through empirical centralization"</a>
+			was accepted. This work is theoretical and fun!</li>
+			<li><strong>NSF Grant:</strong> My project on <a
+			href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765">Scalable
+			and Iterative Statistical Testing of Multiple Hypotheses on Massive
+			Datasets</a> has been funded! Thanks NSF! I really look forward to the
+			work ahead.</li>
+			<li><strong>SDM'21:</strong> I will be the Tutorial Chair and a member of
+			the Senior PC for <a
+			href="https://www.siam.org/conferences/cm/conference/sdm21">SIAM
+			SDM'21</a>. Always glad to be of service to the knowledge discovery, data
+			mining, and statistics communities.</li>
+			<li><strong>KDD'20:</strong> <a
+			href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a>, our work
+			on computing the Monte Carlo Empirical Rademacher Average on poset
+			families for approximate pattern mining has been accepted as a full paper
+			in the research track. Join work with the statistics-datamining gang: <a
+			href="http://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>,
+			<a href="http://cs.brown.edu/~ccousins">Cyrus Cousins</a>, and <a
+			href="http://dei.unipd.it/~vandinfa">Fabio Vandin</a>.</li>
 			<li><strong>TKDD:</strong> The extended version of <a
 			href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP</a>, our
 			algorithm for mining interesting subgroups through sampling with
