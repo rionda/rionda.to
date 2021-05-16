@@ -242,6 +242,7 @@
 			Menghini</a>, Muhammad Anis Udin Nasir, <a
 			href="https://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>, <a
 			href="https://www.dei.unipd.it/~capri/">Andrea Pietracaprina</a>, <a
+			href="https://www.isi.it/en/people/giulia-preti">Giulia Preti</a>, <a
 			href="https://www.dei.unipd.it/~geppo/">Geppino Pucci</a>, <a
 			href="http://sachaservanschreiber.com/index.html">Sacha
 			Servan-Schreiber</a>, <a
