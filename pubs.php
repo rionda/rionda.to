@@ -16,8 +16,8 @@
 			style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />ORCID</a></span>,
 			<a href="https://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>,
 			<a href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>.</p>
-			<p>Here are the <a href="files/bibtexs/riondapubs.bib">BibTeX entries for my
-			papers</a>.</p>
+			<p>Here are the <a href="files/bibtexs/riondapubs.bib">BibTeX entries for
+				my papers</a>.</p>
 			<p>Many of the linked PDFs are extended versions of the original
 				publications.</p>
 
