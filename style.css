@@ -160,7 +160,7 @@ strong {
 }
 
 #conferences {
-	counter-reset: pubs 10;
+	counter-reset: pubs 11;
 }
 
 #unpublished {
@@ -168,19 +168,19 @@ strong {
 }
 
 #techreps {
-	counter-reset: pubs 31;
+	counter-reset: pubs 34;
 }
 
 #tutorials {
-	counter-reset: pubs 32;
-}
-
-#dissertation {
 	counter-reset: pubs 35;
 }
 
+#dissertation {
+	counter-reset: pubs 38;
+}
+
 #otherpubs {
-	counter-reset: pubs 36;
+	counter-reset: pubs 39;
 }
 
 #pubs {
