@@ -79,9 +79,10 @@
 				</ol>
 				<h3>Conference Papers</h3>
 				<ol id="conferences">
-					<li>G. Preti, G. De Francisci Morales, and M. Riondato. MaNIACS:
-					Approximate Mining of Frequent Subgraph Patterns through Sampling,
-					<em>ACM KDD'21</em>, 2021.</li>
+					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
+					href="papers/PretiEtAl-MaNIACS-KDD.pdf">MaNIACS: Approximate Mining
+					of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
+					KDD'21</em>, 2021.</li>
 					<li>C. Cousins, C. Wohlgemuth, and M. Riondato. <a
 					href="papers/CousinsEtAl-Bavarian-KDDext.pdf">Bavarian: Betweenness
 					Centrality Approximation with Variance-Aware Rademacher Averages</a>,
