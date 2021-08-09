@@ -88,7 +88,7 @@
 					Centrality Approximation with Variance-Aware Rademacher Averages</a>,
 					<em>ACM KDD'21</em>, 2021.</li>
 					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. <a
-					href="papers/HaddadanEtAl-RepBubLik-WSDM.pdf">RePBubLik: Reducing the
+					href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik: Reducing the
 					Polarized Bubble Radius with Link Insertions</a>, <em>ACM
 					WSDM'21</em>, 2021.</li>
 					<li>C. Cousins and M. Riondato. <a
