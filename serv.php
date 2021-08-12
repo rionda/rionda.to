@@ -5,14 +5,17 @@
 		<p class="notop">Data Mining and Knowledge Discovery (guest editorial board
 		for ECML PKDD'19, ECML PKDD'20)</p>
 		<h3>Organizing Committees</h3>
-		<p class="notop">2020: SIAM SDM'21 (Tutorial Chair)</p>
+		<p class="notop">2022: SIAM SDM'21 (PC Chair)</p>
+		<p class="notop">2021: SIAM SDM'21 (Tutorial Chair)</p>
 		<p class="notop">2020: SIAM SDM'20 (Doctoral Forum Co-chair)</p>
 		<p class="notop">2019: SIAM SDM'19 (Doctoral Forum Co-chair)</p>
 		<p class="notop">2018: SIAM SDM'18 (Sponsorship Co-chair), <a
 		href="foulard18/">Foundations on Learning from Data Workshop</a>
 		(Organizer)</p>
 		<h3>Program Committees</h3>
-		<p class="notop">2021: SIAM SDM'21 (Senior PC), WWW'21 (Senior PC)</p>
+		<p class="notop">2021: ACM CIKM'21, ACM KDD'21 (Senior PC), ECML PKDD'21
+		ICDM'21 (Area Chair), NeurIPS'21, SIAM SDM'21 (Senior PC), WWW'21 (Senior
+		PC), WWW'21</p>
 		<p class="notop">2020: AAAI'20, ACM CIKM'20, ACM KDD'20, ECML PKDD'20,
 		ICDM'20, NeurIPS'20, SIAM SDM'20, ACM WSDM'20, WWW'20</p>
 		<p class="notop">2019: AAAI'19, ACM CIKM'19, ACM WSDM'19, ACM KDD'19, ECML
