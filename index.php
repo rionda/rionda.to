@@ -48,7 +48,7 @@
 						<li><strong>SDM'21:</strong> I'm excited and honored to be PC-chair
 						of <a
 						href="https://www.siam.org/conferences/cm/conference/sdm22">SIAM
-						SDM'22</a>, together with the great<a
+						SDM'22</a>, together with the great <a
 						href="http://www.cs.ucr.edu/~epapalex/">Vagelis Papalexakis</a>,
 						and a wonderful OC. Looking forward to receiving interesting
 						submissions on data mining, knowledge discovery, and its
