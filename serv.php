@@ -2,8 +2,9 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Service</h2>
 		<h3>Editorial Boards</h3>
-		<p class="notop">Data Mining and Knowledge Discovery (guest editorial board
-		for ECML PKDD'19, ECML PKDD'20)</p>
+		<p class="notop">Data Mining and Knowledge Discovery </p>
+		<p class="notop">Machine Learning ((guest editorial board
+		for ECML PKDD'19&mdash;22)</p>
 		<h3>Organizing Committees</h3>
 		<p class="notop">2022: SIAM SDM'21 (PC Chair)</p>
 		<p class="notop">2021: SIAM SDM'21 (Tutorial Chair)</p>
@@ -13,9 +14,10 @@
 		href="foulard18/">Foundations on Learning from Data Workshop</a>
 		(Organizer)</p>
 		<h3>Program Committees</h3>
-		<p class="notop">2021: ACM CIKM'21, ACM KDD'21 (Senior PC), ECML PKDD'21
-		ICDM'21 (Area Chair), NeurIPS'21, SIAM SDM'21 (Senior PC), WWW'21 (Senior
-		PC), WWW'21</p>
+		< class="notop">2022: ACM WSDM'22 (Senior PC), WWW'22 (Senior PC)</p>
+		<p class="notop">2021: ACM CIKM'21, ACM KDD'21 (Senior PC), ACM WSDM'21, 
+			ECML PKDD'21 ICDM'21 (Area Chair), NeurIPS'21, SIAM SDM'21 (Senior PC),
+			WWW'21 (Senior PC), WWW'21 (Senior PC)</p>
 		<p class="notop">2020: AAAI'20, ACM CIKM'20, ACM KDD'20, ECML PKDD'20,
 		ICDM'20, NeurIPS'20, SIAM SDM'20, ACM WSDM'20, WWW'20</p>
 		<p class="notop">2019: AAAI'19, ACM CIKM'19, ACM WSDM'19, ACM KDD'19, ECML
@@ -59,6 +61,12 @@
 		<p class="notop">2012: IEEE IPDPS'12, ACM ICS'12</p>
 		<p class="notop">2011: APPROX-RANDOM'11</p>
 		<h3>Conference Session Chairing</h3>
+		<p class="notop">KDD'21: Theory &mdash; Learning and Generalization</p>
+		<p class="notop">SDM'21: Foundations II</p>
+		<p class="notop">ICDM'20: Graph Mining II</p>
+		<p class="notop">KDD'20: Data Mining Methods</p>
+		<p class="notop">WWW'20: Social Network Analysis III</p>
+		<p class="notop">SDM'19: Patterns</p>
 		<p class="notop">KDD'18: Unsupervised Learning II</p>
 		<p class="notop">KDD'17: Graphs 1</p>
 		<p class="notop">KDD'16: Graphs 1</p>
