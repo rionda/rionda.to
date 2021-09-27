@@ -6,7 +6,7 @@
 		<p class="notop">Machine Learning ((guest editorial board
 		for ECML PKDD'19&mdash;22)</p>
 		<h3>Organizing Committees</h3>
-		<p class="notop">2022: SIAM SDM'21 (PC Chair)</p>
+		<p class="notop">2022: SIAM SDM'22 (PC Chair)</p>
 		<p class="notop">2021: SIAM SDM'21 (Tutorial Chair)</p>
 		<p class="notop">2020: SIAM SDM'20 (Doctoral Forum Co-chair)</p>
 		<p class="notop">2019: SIAM SDM'19 (Doctoral Forum Co-chair)</p>
