@@ -14,7 +14,7 @@
 		href="foulard18/">Foundations on Learning from Data Workshop</a>
 		(Organizer)</p>
 		<h3>Program Committees</h3>
-		< class="notop">2022: ACM WSDM'22 (Senior PC), WWW'22 (Senior PC)</p>
+		<p class="notop">2022: ACM WSDM'22 (Senior PC), WWW'22 (Senior PC)</p>
 		<p class="notop">2021: ACM CIKM'21, ACM KDD'21 (Senior PC), ACM WSDM'21, 
 			ECML PKDD'21 ICDM'21 (Area Chair), NeurIPS'21, SIAM SDM'21 (Senior PC),
 			WWW'21 (Senior PC), WWW'21 (Senior PC)</p>
