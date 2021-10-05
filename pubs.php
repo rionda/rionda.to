@@ -1,6 +1,15 @@
 <?php include("header.html"); ?>
 <!-- vim: set ts=2 sw=2 tw=79: -->
 			<h2>Publications</h2>
+
+			<p><a href="#journals">Journal articles</a>, <a href="#conferences">Conference papers</a>, <a href="#techrep">Technical report</a>, <a href="#tutorials">Tutorials</a></p>
+
+			<p>Many of the linked PDFs are extended versions of the original
+				publications.</p>
+
+			<p>Here are the <a href="files/bibtexs/riondapubs.bib">BibTeX entries for
+				my papers</a>.</p>
+
 			<p>My publications and citations on: <a
 				href="https://dblp.uni-trier.de/db/indices/a-tree/r/Riondato:Matteo.html">DBLP</a>,
 			<a
@@ -16,12 +25,6 @@
 			style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />ORCID</a></span>,
 			<a href="https://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>,
 			<a href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>.</p>
-			<p>Here are the <a href="files/bibtexs/riondapubs.bib">BibTeX entries for
-				my papers</a>.</p>
-			<p>Many of the linked PDFs are extended versions of the original
-				publications.</p>
-
-			<p><a href="#journals">Journal articles</a>, <a href="#conferences">Conference papers</a>, <a href="#techrep">Technical report</a>, <a href="#tutorials">Tutorials</a></p>
 
 			<div id="pubs">
 				<h3>Journal Articles</h3>
