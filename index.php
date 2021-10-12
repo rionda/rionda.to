@@ -8,8 +8,9 @@
 					href="https://www.amherst.edu/academiclife/departments/computer_science">computer
 					science</a> at <a href="https://www.amherst.edu">Amherst
 					College</a>, where I lead the <a
-					href="https://acdmammoths.github.io">Data* Mammoths</a>. I also have
-					an appointment as visiting faculty in <a
+					href="https://acdmammoths.github.io">Data* Mammoths</a>, a
+					research&amp;learning group of brilliant undergraduate students. I
+					also have an appointment as visiting faculty in <a
 					href="https://cs.brown.edu">Computer Science at Brown
 					University</a>. Previously, I spent some fantastic years as a
 					research scientist in the Labs group at <a
