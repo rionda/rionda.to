@@ -15,8 +15,8 @@
 		(Organizer)</p>
 		<h3>Program Committees</h3>
 		<p class="notop">2022: ACM WSDM'22 (Senior PC), WWW'22 (Senior PC)</p>
-		<p class="notop">2021: ACM CIKM'21, ACM KDD'21 (Senior PC), ACM WSDM'21, 
-			ECML PKDD'21 ICDM'21 (Area Chair), NeurIPS'21, SIAM SDM'21 (Senior PC),
+		<p class="notop">2021: ACM CIKM'21, ACM KDD'21 (Senior PC), ACM WSDM'21,
+			ECML PKDD'21, ICDM'21 (Area Chair), NeurIPS'21, SIAM SDM'21 (Senior PC),
 			WWW'21 (Senior PC), WWW'21 (Senior PC)</p>
 		<p class="notop">2020: AAAI'20, ACM CIKM'20, ACM KDD'20, ECML PKDD'20,
 		ICDM'20, NeurIPS'20, SIAM SDM'20, ACM WSDM'20, WWW'20</p>
