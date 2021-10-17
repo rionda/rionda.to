@@ -5,15 +5,28 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
-			<li><strong>Fidelity (10/28):</strong> giving a talk on
-			<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
+			<li><strong>KTH talk (2/18):</strong> Giving a talk about <a
+			href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik</a> at KTH. Thank
+			you <a href="https://www.kth.se/profile/argioni">Aris</a> and <a
+			href="https://www.kth.se/profile/neum?l=en">Stefan</a> for inviting
+			me!</li>
+			<li><strong>TKDD:</strong> <a
+			href="papers/NasirEtAl-TipTap-TKDD.pdf">TipTap</a>, our work on
+			maintaining frequent subgraphs in fully-dynamic edge graph streams has
+			been accepted to <a href="http://tkdd.acm.org">ACM TKDD</a>. Nice work
+			using reservoir sampling and random pairing, with <a
+			href="http://gdfm.me">Gianmarco</a>, <a
+			href="https://pure.au.dk/portal/en/persons/cigdem-aslay(921b00ac-c233-4813-be49-89852a83f6bc).html">Cigdem</a>,
+			and Anis.</li>
+			<li><strong>Fidelity (10/28):</strong> giving a talk on <a
+			href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
 			Fidelity, thank you <a
 			href="https://sites.google.com/site/serdrk/">Serdar</a> for inviting
 			me.</li>
 			<li><strong>WSDM'21:</strong> <a
-			href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik: Reducing
-			the Polarized Bubble Radius with Link Insertions</a> was accepted
-			to <a href="http://www.wsdm-conference.org/2021/">WSDM'21</a>, a venue
+			href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik: Reducing the
+			Polarized Bubble Radius with Link Insertions</a> was accepted to <a
+			href="http://www.wsdm-conference.org/2021/">WSDM'21</a>, a venue
 			dear to me. Joint work with the Brown crew: <a
 			href="https://sites.google.com/view/shahrzadhaddadan">Shahrzad
 			Haddadan</a>, <a
