@@ -10,8 +10,8 @@
 	Spring'21)</li>
 </ul>
 
-<p>I also often supervise <em>independent study</em> courses on machine
-learning, data mining, or other topics of interet, for example:</p>
+<p>I often supervise <em>independent study</em> courses on machine learning,
+data mining, or other topics of interest, e.g.:</p>
 <ul>
 	<li>Topics in Data Science</li>
 	<li>Database Implementation</li>
