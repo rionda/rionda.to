@@ -46,7 +46,7 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
-						<li><strong>SDM'21:</strong> I'm excited and honored to be PC-chair
+						<li><strong>SDM'22:</strong> I'm excited and honored to be PC-chair
 						of <a
 						href="https://www.siam.org/conferences/cm/conference/sdm22">SIAM
 						SDM'22</a>, together with the great <a
