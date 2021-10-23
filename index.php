@@ -63,7 +63,8 @@
 						sampling.</li>
 						<li><strong>WSDM'21:</strong> <a
 						href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik</a> wins a
-						Best Paper Award Honorable Mention! Yay!</li>
+						<a href="https://www.wsdm-conference.org/2021/">Best Paper Award
+						Honorable Mention</a>! Yay!</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>
