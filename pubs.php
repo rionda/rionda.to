@@ -178,8 +178,11 @@
 					<em>CIDR'11</em>, 2011</li>
 				</ol>
 
-				<h3>Technical Reports</h3>
+				<h3>Technical Reports, Abstracts, and Posters</h3>
 				<ol id="techrep">
+					<li>A. Lee, S. Walzer-Goldfeld, S. Zablah, and M. Riondato. A
+					Scalable Parallel Algorithm for Balanced Sampling. <em>AAAI'22</em>,
+					2022</li>
 					<li>M. Riondato. <a
 					href="papers/Riondato-SharpeRatioEstimationConfidenceIntervalsHypothesisTesting-TSTR.pdf">Sharpe
 					Ratio: Estimation, Confidence Intervals, and Hypothesis Testing</a>.

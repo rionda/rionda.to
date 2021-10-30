@@ -46,6 +46,12 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>AAAI'22:</strong> the <a
+						href="https://acdmammoths.github.io">Data* Mammoths</a>'s work on
+						parallel algorithms for cube sampling was accepted for publication
+						as a <a href="">`student abstract/poster to AAAI'22</a>. Fun work
+						by brilliant undergraduate researchers: it started with Shukry's
+						honors thesis, and Alex and Stefan brought it to completion.</li>
 						<li><strong>SDM'22:</strong> I'm excited and honored to be PC-chair
 						of <a
 						href="https://www.siam.org/conferences/cm/conference/sdm22">SIAM
