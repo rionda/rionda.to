@@ -2,9 +2,9 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 			<h2>Publications</h2>
 
-			<p><a href="#journals">Journal articles</a>, <a
-				href="#conferences">Conference papers</a>, <a href="#techrep">Technical
-				reports/Abstracts/Posters</a>, <a href="#tutorials">Tutorials</a></p>
+			<p><a href="#joursect">Journal articles</a>, <a
+				href="#confsect">Conference papers</a>, <a href="#techsect">Technical
+				reports/Abstracts/Posters</a>, <a href="#tutosect">Tutorials</a></p>
 
 			<p>Many of the linked PDFs are extended versions of the original
 				publications.</p>
@@ -29,7 +29,7 @@
 			<a href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>.</p>
 
 			<div id="pubs">
-				<h3>Journal Articles</h3>
+				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
 					<li>M. A. U. Nasir, C. Aslay, G. De Francisci Morales, and M.
 						Riondato. <a href="papers/NasirEtAl-TipTap-TKDD.pdf">TipTap:
@@ -82,7 +82,7 @@
 						Mining and Knowledge Discovery</em>, 21(2):310&mdash;326 (S. I. for
 						the best papers of ECML PKDD'10), 2010</li>
 				</ol>
-				<h3>Conference Papers</h3>
+				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
 					href="papers/PretiEtAl-MaNIACS-KDD.pdf">MaNIACS: Approximate Mining
@@ -180,7 +180,7 @@
 					<em>CIDR'11</em>, 2011</li>
 				</ol>
 
-				<h3>Technical Reports, Abstracts, and Posters</h3>
+				<h3 id="techsect">Technical Reports, Abstracts, and Posters</h3>
 				<ol id="techrep">
 					<li>A. Lee, S. Walzer-Goldfeld, S. Zablah, and M. Riondato. A
 					Scalable Parallel Algorithm for Balanced Sampling. <em>AAAI'22</em>,
@@ -191,7 +191,7 @@
 					Two Sigma Technical Report Series, 2018-001.</li>
 				</ol>
 
-				<h3>Tutorials</h3>
+				<h3 id="tutosect">Tutorials</h3>
 				<ol id="tutorials">
 					<li>L. Pellegrina, M. Riondato, and F. Vandin, <a
 					href="statdmtut/">Hypothesis Testing and Statistically-sound Pattern
@@ -213,7 +213,7 @@
 						(Part 2)</a></li>
 				</ol>
 
-				<h3>PhD Dissertation</h3>
+				<h3 id="disssect">PhD Dissertation</h3>
 				<ol id="dissertation">
 					<li>M. Riondato. <a
 						href="papers/Riondato-SamplingBasedRandomizedAlgorithms-PhDDissertation.pdf">Sampling-based
@@ -221,7 +221,7 @@
 						University Department of Computer Science</em>, 2014</li>
 				</ol>
 
-				<h3>Other technical writings</h3>
+				<h3 id="othesect">Other technical writings</h3>
 				<ol id="otherpubs">
 					<li>M. Riondato, <a
 						href="https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/jails.html">Jails</a>,
