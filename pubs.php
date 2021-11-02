@@ -2,7 +2,9 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 			<h2>Publications</h2>
 
-			<p><a href="#journals">Journal articles</a>, <a href="#conferences">Conference papers</a>, <a href="#techrep">Technical report</a>, <a href="#tutorials">Tutorials</a></p>
+			<p><a href="#journals">Journal articles</a>, <a
+				href="#conferences">Conference papers</a>, <a href="#techrep">Technical
+				reports/Abstracts/Posters</a>, <a href="#tutorials">Tutorials</a></p>
 
 			<p>Many of the linked PDFs are extended versions of the original
 				publications.</p>
@@ -14,7 +16,7 @@
 				href="https://dblp.uni-trier.de/db/indices/a-tree/r/Riondato:Matteo.html">DBLP</a>,
 			<a
 				href="https://scholar.google.com/citations?user=5okzSN0AAAAJ&amp;hl=en">Google
-				Scholar</a>, <a href="https://arnetminer.org/person/matteo-riondato-1572079.html">AMiner</a>,
+				Scholar</a>, <a href="https://www.aminer.org/profile/matteo-riondato/53f4a877dabfaedce5637fe8">AMiner</a>,
 			<a
 				href="https://www.researchgate.net/profile/Matteo_Riondato">ResearchGate</a>,
 			<span itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs"
