@@ -24,7 +24,7 @@
 			href="https://orcid.org/0000-0003-2523-4420" target="orcid.widget"
 			rel="noopener noreferrer"><img
 			src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-			style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />ORCID</a></span>,
+			style="width:1em;margin-right:.1em;display:inline;" alt="ORCID iD icon" />ORCID</a></span>,
 			<a href="https://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>,
 			<a href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>.</p>
 
