@@ -48,8 +48,10 @@
 					<ul>
 						<li><strong>AAAI'22:</strong> the <a
 						href="https://acdmammoths.github.io">Data* Mammoths</a>'s work on
-						parallel algorithms for cube sampling was accepted for publication
-						as a <a
+						<a
+						href="papers/LeeEtAl-AScalableParallelAlgorithmForBalancedSampling-AAAI.pdf">parallel
+						algorithms for cube sampling</a> was accepted for publication as a
+						<a
 						href="https://aaai.org/Conferences/AAAI-22/student-abstract-and-poster-program/">student
 						abstract/poster to AAAI'22</a>. Fun work by brilliant undergraduate
 						researchers: it started with Shukry's honors thesis, and Alex and
