@@ -47,7 +47,7 @@
 					<h2>News</h2>
 					<ul>
 						<li><strong>AAAI'22:</strong> the <a
-						href="https://acdmammoths.github.io">Data* Mammoths</a>'s work on
+						href="https://acdmammoths.github.io">Data* Mammoths</a>' work on
 						<a
 						href="papers/LeeEtAl-AScalableParallelAlgorithmForBalancedSampling-AAAI.pdf">parallel
 						algorithms for cube sampling</a> was accepted for publication as a
