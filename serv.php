@@ -2,9 +2,9 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Service</h2>
 		<h3>Editorial Boards</h3>
-		<p class="notop">Data Mining and Knowledge Discovery </p>
-		<p class="notop">Machine Learning ((guest editorial board
-		for ECML PKDD'19&mdash;22)</p>
+		<p class="notop">Data Mining and Knowledge Discovery (Action Editor)</p>
+		<p class="notop">Machine Learning (guest editorial board for ECML
+		PKDD'19&mdash;22)</p>
 		<h3>Organizing Committees</h3>
 		<p class="notop">2022: SIAM SDM'22 (PC Chair)</p>
 		<p class="notop">2021: SIAM SDM'21 (Tutorial Chair)</p>
