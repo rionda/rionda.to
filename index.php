@@ -64,17 +64,6 @@
 						and a wonderful OC. Looking forward to receiving interesting
 						submissions on data mining, knowledge discovery, and its
 						statistical aspects.</li>
-						<li><strong>KDD'21:</strong> Two papers accepted in the research
-						track: <a
-						href="papers/CousinsEtAl-Bavarian-KDDext.pdf">Bavarian</a>, on
-						betweenness centrality approximation, and <a
-						href="papers/PretiEtAl-MaNIACS-KDD.pdf">MaNIACS</a>, on
-						approximating the frequent subgraphs in a large graph through
-						sampling.</li>
-						<li><strong>WSDM'21:</strong> <a
-						href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik</a> wins a
-						<a href="https://www.wsdm-conference.org/2021/">Best Paper Award
-						Honorable Mention</a>! Yay!</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>
