@@ -28,7 +28,7 @@
 			href="https://pure.au.dk/portal/en/persons/cigdem-aslay(921b00ac-c233-4813-be49-89852a83f6bc).html">Cigdem</a>,
 			and Anis.</li>
 			<li><strong>Fidelity (10/28):</strong> giving a talk on <a
-			href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
+			href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">MCRapper</a> at
 			Fidelity, thank you <a
 			href="https://sites.google.com/site/serdrk/">Serdar</a> for inviting
 			me.</li>
@@ -43,7 +43,7 @@
 			Menghini</a>, and <a href="https://cs.brown.edu/people/eupfal">Eli
 			Upfal</a>.</li>
 			<li><strong>UMass talk (10/6):</strong> I'll be giving a talk on
-			<a href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a> at
+			<a href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">MCRapper</a> at
 			the <a href="https://groups.cs.umass.edu/theory/theory-seminar/">Theory
 			seminar</a>. Thanks <a
 			href="https://people.cs.umass.edu/~cmusco/">Cameron</a> for
@@ -65,7 +65,7 @@
 			SDM'21</a>. Always glad to be of service to the knowledge discovery, data
 			mining, and statistics communities.</li>
 			<li><strong>KDD'20:</strong> <a
-			href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">MCRapper</a>, our work
+			href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">MCRapper</a>, our work
 			on computing the Monte Carlo Empirical Rademacher Average on poset
 			families for approximate pattern mining has been accepted as a full paper
 			in the research track. Join work with the statistics-datamining gang: <a

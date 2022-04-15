@@ -46,6 +46,15 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>TKDD:</strong> the extended version of <a
+						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">MCRapper</a> was
+						accepted to <a href="https://tkdd.acm.org">ACM TKDD</a>. An elegant
+						algorithm to compute Rademacher averages for families of function
+						with a natural poset structure, which are omnipresent in pattern
+						mining. Nice collab with <a
+						href="http://dei.unipd.it/~pellegri">Leonardo</a>, <a
+						href="https://cs.brown.edu/~ccousins/">Cyrus</a>, and <a
+						href="https://dei.unipd.it/~vandinfa/">Fabio</a>.</li>
 						<li><strong>AAAI'22:</strong> the <a
 						href="https://acdmammoths.github.io">Data* Mammoths</a>' work on
 						<a

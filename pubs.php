@@ -31,6 +31,11 @@
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
+					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a
+						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">McRapper:
+						Monte-Carlo Rademacher Averages for Poset Families and Approximate
+						Pattern Mining</a>, <em>ACM Transactions on Knowledge Discovery
+						from Data</em>, to appear.</li>
 					<li>M. A. U. Nasir, C. Aslay, G. De Francisci Morales, and M.
 						Riondato. <a href="papers/NasirEtAl-TipTap-TKDD.pdf">TipTap:
 						Approximate Mining of Frequent 𝑘-Subgraph Patterns in Evolving
@@ -101,7 +106,7 @@
 					uniform convengence bounds through empirical centralization</a>,
 					<em>NeurIPS'20</em>, 2020.</li>
 					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a
-					href="papers/PellegrinaEtAl-MCRapper-KDDext.pdf">McRapper:
+					href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">McRapper:
 					Monte-Carlo Rademacher Averages for Poset Families and Approximate
 					Pattern Mining</a>, <em>ACM KDD'20</em>, 2020.</li>
 					<li>L. Pellegrina, M. Riondato, and F. Vandin, <a
