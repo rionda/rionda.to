@@ -35,7 +35,7 @@
 						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">McRapper:
 						Monte-Carlo Rademacher Averages for Poset Families and Approximate
 						Pattern Mining</a>, <em>ACM Transactions on Knowledge Discovery
-						from Data</em>, to appear.</li>
+						from Data</em>, 16(6):124, 2022.</li>
 					<li>M. A. U. Nasir, C. Aslay, G. De Francisci Morales, and M.
 						Riondato. <a href="papers/NasirEtAl-TipTap-TKDD.pdf">TipTap:
 						Approximate Mining of Frequent 𝑘-Subgraph Patterns in Evolving
