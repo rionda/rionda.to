@@ -52,7 +52,7 @@
 						href="https://www.siam.org/conferences/cm/conference/mds22">SIAM
 						Conference on Mathematics of Data Science</a>, which has a super
 						strong <a
-						href="https://meetings.siam.org/program.cfm?CONFCODE=MD22">program</a>.</li>
+						href="https://meetings.siam.org/program.cfm?CONFCODE=MDS22">program</a>.</li>
 						<li><strong>TKDD:</strong> the extended version of <a
 						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">MCRapper</a> was
 						accepted to <a href="https://tkdd.acm.org">ACM TKDD</a>. An elegant
