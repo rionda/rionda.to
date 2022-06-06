@@ -46,6 +46,13 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>MDS'22:</strong> My talk on <em>Scalable Algorithms for
+						Hypothesis Testing</em> has been accepted for presentation at the
+						"new" (as the 2020 edition was canceled) <a
+						href="https://www.siam.org/conferences/cm/conference/mds22">SIAM
+						Conference on Mathematics of Data Science</a>, which has a super
+						strong <a
+						href="https://meetings.siam.org/program.cfm?CONFCODE=MD22">program</a>.</li>
 						<li><strong>TKDD:</strong> the extended version of <a
 						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">MCRapper</a> was
 						accepted to <a href="https://tkdd.acm.org">ACM TKDD</a>. An elegant
@@ -55,24 +62,6 @@
 						href="http://dei.unipd.it/~pellegri">Leonardo</a>, <a
 						href="https://cs.brown.edu/~ccousins/">Cyrus</a>, and <a
 						href="https://dei.unipd.it/~vandinfa/">Fabio</a>.</li>
-						<li><strong>AAAI'22:</strong> the <a
-						href="https://acdmammoths.github.io">Data* Mammoths</a>' work on
-						<a
-						href="papers/LeeEtAl-AScalableParallelAlgorithmForBalancedSampling-AAAI.pdf">parallel
-						algorithms for cube sampling</a> was accepted for publication as a
-						<a
-						href="https://aaai.org/Conferences/AAAI-22/student-abstract-and-poster-program/">student
-						abstract/poster to AAAI'22</a>. Fun work by brilliant undergraduate
-						researchers: it started with Shukry's honors thesis, and Alex and
-						Stefan brought it to completion.</li>
-						<li><strong>SDM'22:</strong> I'm excited and honored to be PC-chair
-						of <a
-						href="https://www.siam.org/conferences/cm/conference/sdm22">SIAM
-						SDM'22</a>, together with the great <a
-						href="http://www.cs.ucr.edu/~epapalex/">Vagelis Papalexakis</a>,
-						and a wonderful OC. Looking forward to receiving interesting
-						submissions on data mining, knowledge discovery, and its
-						statistical aspects.</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>

@@ -5,6 +5,21 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>AAAI'22:</strong> the <a
+			href="https://acdmammoths.github.io">Data* Mammoths</a>' work on <a
+			href="papers/LeeEtAl-AScalableParallelAlgorithmForBalancedSampling-AAAI.pdf">parallel
+			algorithms for cube sampling</a> was accepted for publication as a
+			<a
+			href="https://aaai.org/Conferences/AAAI-22/student-abstract-and-poster-program/">student
+			abstract/poster to AAAI'22</a>. Fun work by brilliant undergraduate
+			researchers: it started with Shukry's honors thesis, and Alex and Stefan
+			brought it to completion.</li>
+			<li><strong>SDM'22:</strong> I'm excited and honored to be PC-chair
+			of <a href="https://www.siam.org/conferences/cm/conference/sdm22">SIAM
+			SDM'22</a>, together with the great <a
+			href="http://www.cs.ucr.edu/~epapalex/">Vagelis Papalexakis</a>, and a
+			wonderful OC. Looking forward to receiving interesting submissions on
+			data mining, knowledge discovery, and its statistical aspects.</li>
 			<li><strong>KDD'21:</strong> Two papers accepted in the research track:
 			<a href="papers/CousinsEtAl-Bavarian-KDDext.pdf">Bavarian</a>, on
 			betweenness centrality approximation, and <a
