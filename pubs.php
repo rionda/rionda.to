@@ -31,6 +31,10 @@
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
+					<li>S. Jenkins, S. Walzer-Goldfeld, and M. Riondato. SPEck: Mining
+						Statistically-significant Sequential Patterns Efficiently with
+						Exact Sampling, <em>Data Mining and Knowledge Discovery</em>, to
+						appear</li>
 					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a
 						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">McRapper:
 						Monte-Carlo Rademacher Averages for Poset Families and Approximate
