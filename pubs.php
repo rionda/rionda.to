@@ -31,10 +31,11 @@
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
-					<li>S. Jenkins, S. Walzer-Goldfeld, and M. Riondato. SPEck: Mining
+					<li>S. Jenkins, S. Walzer-Goldfeld, and M. Riondato. <a
+						href="papers/JenkinsEtAl-SPEck-DMKD22.pdf">SPEck: Mining
 						Statistically-significant Sequential Patterns Efficiently with
-						Exact Sampling, <em>Data Mining and Knowledge Discovery</em>, to
-						appear</li>
+						Exact Sampling</a>, <em>Data Mining and Knowledge Discovery</em>,
+						36, 2022.</li>
 					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a
 						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">McRapper:
 						Monte-Carlo Rademacher Averages for Poset Families and Approximate

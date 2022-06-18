@@ -48,10 +48,12 @@
 					<ul>
 						<li><strong>DMKD/DAMI (ECML PKDD'22):</strong> Another work by the
 						<a href="https://acdmammoths.github.io">Data* Mammoths</a> has been
-						accepted: Steedman and Stefan developed <em>SPEck</em>, a set of
+						accepted: Steedman and Stefan developed <a
+						href="papers/JenkinsEtAl-SPEck-DMKD22.pdf">SPEck</a>, a set of
 						Monte-Carlo procedures for efficiently mining
-						statistically-significant sequential patterns using <em>exact</em>
-						sampling, rather than approximate sampling. It will appear in the
+						statistically-significant sequential patterns according to
+						different null models, using <em>exact</em> sampling, rather than
+						approximate sampling. It appears in the
 						<a href="https://www.springer.com/journal/10618">DMKD/DAMI</a>
 						special issue for <a href="https://2022.ecmlpkdd.org">ECML
 						PKDD'22</a>.</li>
