@@ -2,7 +2,9 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Software</h2>
 		<p>My current projects are hosted on <a
-			href="https://github.com/rionda?tab=repositories">GitHub</a>.<br />
+			href="https://github.com/rionda?tab=repositories">my personal GitHub</a>,
+		or on the <a href="https://github.com/acdmammoths">Data* Mammoths
+		GitHub</a>.<br />
 		I am also a committer for <a
 		href="https://networkit.github.io/">NetworKit</a>, a toolkit for
 		high-performance network analysis.</p>
