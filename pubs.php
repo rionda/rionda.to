@@ -258,9 +258,10 @@
 			href="https://sites.google.com/view/shahrzadhaddadan/">Shahrzad
 			Haddadan</a>, Steedman Jenkins, <a
 			href="https://kornaropoulos.webflow.io/">Evgenios M.
-			Kornaropoulos</a>, <a href="https://www.cs.brown.edu/people/am104/">Ahmad
-			Mahmoody</a>, <a href="http://hpc.isti.cnr.it/~idamele/">Ida
-			Mele</a>,  <a
+			Kornaropoulos</a>, <a href="https://www.alexanderwlee.com/">Alexander
+			Lee</a>, <a href="https://www.cs.brown.edu/people/am104/">Ahmad
+			Mahmoody</a>, <a href="http://hpc.isti.cnr.it/~idamele/">Ida Mele</a>,
+			<a
 			href="https://sites.google.com/diag.uniroma1.it/cristinamenghini-patk">Cristina
 			Menghini</a>, Muhammad Anis Udin Nasir, <a
 			href="https://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>, <a
@@ -272,7 +273,7 @@
 			href="https://www.dei.unipd.it/~silvestri">Francesco Silvestri</a>, <a
 			href="https://www.cs.brown.edu/~eli/">Eli Upfal</a>, <a
 			href="https://dei.unipd.it/~vandinfa/">Fabio Vandin</a>, Stefan
-			Walzer-Goldfeld, <a href="https://www.cs.brown.edu/~sbz/">Stan B.
-			Zdonik</a>, <a href="http://emanuelzgraggen.com/">Emanuel
-			Zgraggen</a></p>
+			Walzer-Goldfeld, <a href="https://www.shukryzablah.com/">Shukry
+			Zablah</a>, <a href="https://www.cs.brown.edu/~sbz/">Stan B. Zdonik</a>,
+			<a href="http://emanuelzgraggen.com/">Emanuel Zgraggen</a></p>
 <?php include("footer.html"); ?>
