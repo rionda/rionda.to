@@ -14,11 +14,12 @@
 		href="foulard18/">Foundations on Learning from Data Workshop</a>
 		(Organizer)</p>
 		<h3>Program Committees</h3>
+		<p class="notop">2023: ACM WSDM'23 (Senior PC)</p>
 		<p class="notop">2022: ACM KDD'22 (Senior PC), ACM WSDM'22 (Senior PC),
-			WWW'22 (Senior PC)</p>
+			WWW'22 (Senior PC), ICDM'21, ECML PKDD'22, NeurIPS'22</p>
 		<p class="notop">2021: ACM CIKM'21, ACM KDD'21 (Senior PC), ACM WSDM'21,
 			ECML PKDD'21, ICDM'21 (Area Chair), NeurIPS'21, SIAM SDM'21 (Senior PC),
-			WWW'21 (Senior PC), WWW'21 (Senior PC)</p>
+			WWW'21 (Senior PC)</p>
 		<p class="notop">2020: AAAI'20, ACM CIKM'20, ACM KDD'20, ECML PKDD'20,
 		ICDM'20, NeurIPS'20, SIAM SDM'20, ACM WSDM'20, WWW'20</p>
 		<p class="notop">2019: AAAI'19, ACM CIKM'19, ACM WSDM'19, ACM KDD'19, ECML
@@ -36,6 +37,7 @@
 		<p class="notop"><em>ACM Transactions on Database Systems</em> (TODS)</p>
 		<p class="notop"><em>ACM Transactions on Information Systems</em> (TOIS)</p>
 		<p class="notop"><em>ACM Transactions on Knowledge Discovery from Data</em> (TKDD)</p>
+		<p class="notop"><em>Algorithmica</em></p>
 		<p class="notop"><em>Discrete Applied Mathematics</em> (DAM)</p>
 		<p class="notop"><em>Data Mining and Knowledge Discovery</em> (DMKD/DAMI)</p>
 		<p class="notop"><em>Engineering Applications of Artificial Intelligence</em> (EAAI)</p>
