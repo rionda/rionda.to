@@ -38,8 +38,8 @@
 		<p class="notop"><em>ACM Transactions on Information Systems</em> (TOIS)</p>
 		<p class="notop"><em>ACM Transactions on Knowledge Discovery from Data</em> (TKDD)</p>
 		<p class="notop"><em>Algorithmica</em></p>
-		<p class="notop"><em>Discrete Applied Mathematics</em> (DAM)</p>
 		<p class="notop"><em>Data Mining and Knowledge Discovery</em> (DMKD/DAMI)</p>
+		<p class="notop"><em>Discrete Applied Mathematics</em> (DAM)</p>
 		<p class="notop"><em>Engineering Applications of Artificial Intelligence</em> (EAAI)</p>
 		<p class="notop"><em>Expert Systems with Applications</em> (ESWA)</p>
 		<p class="notop"><em>Journal of Parallel and Distributed Computing</em> (JDPC)</p>
