@@ -35,7 +35,7 @@
 						href="papers/JenkinsEtAl-SPEck-DMKD22.pdf">SPEck: Mining
 						Statistically-significant Sequential Patterns Efficiently with
 						Exact Sampling</a>, <em>Data Mining and Knowledge Discovery</em>,
-						36:1575–1599, 2022.</li>
+						36(4):1575–1599, 2022.</li>
 					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a
 						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">McRapper:
 						Monte-Carlo Rademacher Averages for Poset Families and Approximate
