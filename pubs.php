@@ -31,6 +31,11 @@
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
+					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. Reducing
+						Polarization and Increasing Diverse Navigability in Graph by
+						Inserting Edges and Swapping Edge Weights. <em>Data Mining and
+						Knowledge Discovery</em>, Special Issue on Fairness and Bias in AI,
+						to appear.
 					<li>S. Jenkins, S. Walzer-Goldfeld, and M. Riondato. <a
 						href="papers/JenkinsEtAl-SPEck-DMKD22.pdf">SPEck: Mining
 						Statistically-significant Sequential Patterns Efficiently with
