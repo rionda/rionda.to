@@ -52,7 +52,7 @@
 						href="https://centai.eu">CentAI</a> has been accepted. We present a
 						more representative null model for testing the significance of data
 						mining results from transactional datasets. See you in
-						Orlando!</li>
+						Orlando for <a href="https://icdm22.cse.usf.edu/">ICDM'22</a>!</li>
 						<li><strong>DMKD/DAMI (ECML PKDD'22):</strong> Another work by the
 						<a href="https://acdmammoths.github.io">Data* Mammoths</a> has been
 						accepted: Steedman and Stefan developed <a
