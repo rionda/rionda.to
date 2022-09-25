@@ -101,6 +101,11 @@
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
+					href="papers/PretiEtAl-ALICE-ICDM.pdf"><span
+					style="font-variant:small-caps">ALICE</span> and the Caterpillar: A
+					More Descriptive Null Model for Assessing Data Mining Results</a>,
+					<em>IEEE ICDM'22</em>, 2022.</li>
+					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
 					href="papers/PretiEtAl-MaNIACS-KDD.pdf">MaNIACS: Approximate Mining
 					of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
 					KDD'21</em>, 2021.</li>

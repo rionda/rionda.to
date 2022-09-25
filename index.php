@@ -57,10 +57,13 @@
 						<li><strong>ICDM'22:</strong> Another collaboration with <a
 						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and <a
 						href="https://gdfm.me">Gianmarco</a> from <a
-						href="https://centai.eu">CentAI</a> has been accepted. We present a
+						href="https://centai.eu">CentAI</a> has been accepted. We present
+						<a href="papers/PretiEtAl-ALICE-ICDM.pdf">a
 						more representative null model for testing the significance of data
-						mining results from transactional datasets. See you in
-						Orlando for <a href="https://icdm22.cse.usf.edu/">ICDM'22</a>!</li>
+						mining results</a> from transactional datasets, and <span
+						style="font-variant:small-caps">Alice</span>, an algorithm to
+						sample from this null model. See you in Orlando for <a
+						href="https://icdm22.cse.usf.edu/">ICDM'22</a>!</li>
 						<li><strong>DMKD/DAMI (ECML PKDD'22):</strong> Another work by the
 						<a href="https://acdmammoths.github.io">Data* Mammoths</a> has been
 						accepted: Steedman and Stefan developed <a
