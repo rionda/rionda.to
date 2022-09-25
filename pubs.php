@@ -48,10 +48,11 @@
 						Pattern Mining</a>, <em>ACM Transactions on Knowledge Discovery
 						from Data</em>, 16(6):124, 2022.</li>
 					<li>M. A. U. Nasir, C. Aslay, G. De Francisci Morales, and M.
-						Riondato. <a href="papers/NasirEtAl-TipTap-TKDD.pdf">TipTap:
-						Approximate Mining of Frequent 𝑘-Subgraph Patterns in Evolving
-						Graphs</a>, <em>ACM Transactions on Knowledge Discovery from
-						Data</em>, 15(3):48, 2021.</li>
+						Riondato. <a href="papers/NasirEtAl-TipTap-TKDD.pdf"><span
+						style="font-variant:small-caps">TipTap</span> Approximate Mining of
+						Frequent 𝑘-Subgraph Patterns in Evolving Graphs</a>, <em>ACM
+						Transactions on Knowledge Discovery from Data</em>, 15(3):48,
+						2021.</li>
 					<li>M. Riondato and F. Vandin. <a
 						href="papers/RiondatoVandin-MiSoSouP-TKDD.pdf">MiSoSouP:
 						Mining Interesting Subgroups with Sampling and
@@ -90,8 +91,8 @@
 					<li>M. Riondato and E. Upfal. <a
 						href="papers/RiondatoUpfal-FrequentItemsetsSampling-TKDD.pdf">Efficient
 						Discovery of Association Rules and Frequent Itemsets through Sampling
-						with Tight Performance Guarantees</a>, <em>ACM Transactions on Knowledge
-					Discovery from Data</em>, 8(4):20, 2014</li>
+						with Tight Performance Guarantees</a>, <em>ACM Transactions on
+						Knowledge Discovery from Data</em>, 8(4):20, 2014</li>
 					<li>A. Pietracaprina, M. Riondato, E. Upfal, and F. Vandin. <a
 						href="papers/PietracaprinaEtAl-TopKItemsetsProgressiveSampling-DMKD.pdf">Mining
 						Top-k Frequent Itemsets through Progressive Sampling</a>, <em>Data
@@ -101,32 +102,35 @@
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
-					href="papers/PretiEtAl-ALICE-ICDM.pdf"><span
-					style="font-variant:small-caps">ALICE</span> and the Caterpillar: A
-					More Descriptive Null Model for Assessing Data Mining Results</a>,
-					<em>IEEE ICDM'22</em>, 2022.</li>
+						href="papers/PretiEtAl-ALICE-ICDM.pdf"><span
+						style="font-variant:small-caps">Alice</span> and the Caterpillar: A
+						More Descriptive Null Model for Assessing Data Mining Results</a>,
+						<em>IEEE ICDM'22</em>, 2022.</li>
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
-					href="papers/PretiEtAl-MaNIACS-KDD.pdf">MaNIACS: Approximate Mining
-					of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
-					KDD'21</em>, 2021.</li>
+						href="papers/PretiEtAl-MaNIACS-KDD.pdf"><span
+						style="font-variant:small-caps"> MaNIACS</span>: Approximate Mining
+						of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
+						KDD'21</em>, 2021.</li>
 					<li>C. Cousins, C. Wohlgemuth, and M. Riondato. <a
-					href="papers/CousinsEtAl-Bavarian-KDDext.pdf">Bavarian: Betweenness
-					Centrality Approximation with Variance-Aware Rademacher Averages</a>,
-					<em>ACM KDD'21</em>, 2021.</li>
+						href="papers/CousinsEtAl-Bavarian-KDDext.pdf">Bavarian: Betweenness
+						Centrality Approximation with Variance-Aware Rademacher
+						Averages</a>, <em>ACM KDD'21</em>, 2021.</li>
 					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. <a
-					href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf">RePBubLik: Reducing the
-					Polarized Bubble Radius with Link Insertions</a>, <em>ACM
-					WSDM'21</em>, 2021.</li>
+						href="papers/HaddadanEtAl-RePBubLik-WSDM.pdf"><span
+						style="font-variant:small-caps">RePBubLik</span>: Reducing the
+						Polarized Bubble Radius with Link Insertions</a>, <em>ACM
+						WSDM'21</em>, 2021.</li>
 					<li>C. Cousins and M. Riondato. <a
 						href="papers/CousinsRiondato-UniformConvergenceEmpiricalCentralization-NeurIPS.pdf">Sharp
-					uniform convengence bounds through empirical centralization</a>,
-					<em>NeurIPS'20</em>, 2020.</li>
+						uniform convengence bounds through empirical centralization</a>,
+						<em>NeurIPS'20</em>, 2020.</li>
 					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a
-					href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">McRapper:
-					Monte-Carlo Rademacher Averages for Poset Families and Approximate
-					Pattern Mining</a>, <em>ACM KDD'20</em>, 2020.</li>
+						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">McRapper:
+						Monte-Carlo Rademacher Averages for Poset Families and Approximate
+						Pattern Mining</a>, <em>ACM KDD'20</em>, 2020.</li>
 					<li>L. Pellegrina, M. Riondato, and F. Vandin, <a
-						href="papers/PellegrinaEtAl-SPuManTE-KDD.pdf">SPuManTE: Significant
+						href="papers/PellegrinaEtAl-SPuManTE-KDD.pdf"><span
+						style="font-variant:small-caps">SPuManTE</span>: Significant
 						Pattern Mining with Unconditional Testing</a>, <em>ACM KDD'19</em>,
 						2019.</li>
 					<li>S. Servan-Schreiber, M. Riondato, and E. Zgraggen. <a
@@ -153,16 +157,17 @@
 						href="papers/RiondatoUpfal-FrequentItemsetsSamplingRademacher-KDD.pdf">Mining
 						Frequent Itemsets through Progressive Sampling with Rademacher
 						Averages</a>, <em>ACM KDD'15</em>, 2015, <a
-						href="https://www.youtube.com/watch?v=E5k51VQVWg8">Presentation Video</a></li>
+						href="https://www.youtube.com/watch?v=E5k51VQVWg8">Presentation
+						Video</a></li>
 					<li>A. Anagnastopoulos, L. Becchetti, A. Fazzone, I. Mele, and M.
-					Riondato. <a
+						Riondato. <a
 						href="papers/AnagnostopoulosEtAl-ExpertsMaxFindingCrowdsourcing.pdf">The
-						Importance of Being Experts: Efficient Max-Finding in Crowdsourcing</a>,
-					<em>ACM SIGMOD'15</em>, 2015</li>
+						Importance of Being Experts: Efficient Max-Finding in
+						Crowdsourcing</a>, <em>ACM SIGMOD'15</em>, 2015</li>
 					<li>M. Riondato, D. Garc&iacute;a-Soriano, and F. Bonchi. <a
 						href="papers/RiondatoEtAl-GraphSummarization-DMKD.pdf">Graph
 						Summarization with Quality Guarantees</a>, <em>IEEE ICDM'14</em>,
-					2014</li>
+						2014</li>
 					<li>M. Riondato. <a
 						href="papers/Riondato-SamplingDataMining-ECMLPKDD.pdf">Sampling-based
 						Data Mining Algorithms: Modern Techniques and Case Studies</a>,
@@ -171,33 +176,37 @@
 						href="papers/RiondatoVandin-TrueFrequentItemsets-SDM.pdf">Finding
 						the True Frequent Itemsets</a>, <em>SIAM SDM'14</em>, 2014</li>
 					<li>M. Riondato and E. M. Kornaropoulos. <a
-					href="papers/RiondatoKornaropoulos-BetweennessSampling-DMKD.pdf">Fast
-					Approximation of Betweenness Centrality through Sampling</a>, <em>ACM
-					WSDM'14</em>, 2014</li>
+						href="papers/RiondatoKornaropoulos-BetweennessSampling-DMKD.pdf">Fast
+						Approximation of Betweenness Centrality through Sampling</a>,
+						<em>ACM WSDM'14</em>, 2014</li>
 					<li>M. Riondato, J. A. DeBrabant, R. Fonseca, and E. Upfal. <a
 					href="papers/RiondatoEtAl-PARMA-CIKM.pdf">PARMA: A Parallel Randomized
 					Algorithm for Association Rules Mining in MapReduce</a>, <em>ACM
 					CIKM'12</em>, 2012</li>
 					<li>M. Riondato and E. Upfal. <a
 						href="papers/RiondatoUpfal-FrequentItemsetsSampling-TKDD.pdf">Efficient
-						Discovery of Association Rules and Frequent Itemsets through Sampling
-						with Tight Performance Guarantees</a>, <em>ECML PKDD'12</em>, 2012</li>
+						Discovery of Association Rules and Frequent Itemsets through
+						Sampling with Tight Performance Guarantees</a>, <em>ECML
+						PKDD'12</em>, 2012</li>
 					<li>A. Pietracaprina, G. Pucci, M. Riondato, F. Silvestri, and E. Upfal.
 					<a
 						href="papers/PietracaprinaEtAl-SpaceRoundMapReduce-ICS.pdf">Space-round
-						Tradeoffs for MapReduce Computations</a>, <em>ACM ICS'12</em>, 2012</li>
-					<li>M. Akdere, U. &Ccedil;etintemel, M. Riondato, E. Upfal, and S. B. Zdonik.
-					<a
+						Tradeoffs for MapReduce Computations</a>, <em>ACM ICS'12</em>,
+						2012</li>
+					<li>M. Akdere, U. &Ccedil;etintemel, M. Riondato, E. Upfal, and S. B.
+						Zdonik. <a
 						href="papers/AkdereEtAl-LearningQueryPerformance-ICDE.pdf">Learning-based
 						Query Performance Modeling and Prediction</a>, <em>IEEE
 					ICDE'12</em>, 2012</li>
-					<li>M. Riondato, M. Akdere, U. &Ccedil;etintemel, S. B. Zdonik, and E. Upfal. <a
+					<li>M. Riondato, M. Akdere, U. &Ccedil;etintemel, S. B. Zdonik, and
+						E. Upfal. <a
 						href="papers/RiondatoEtAl-VCDimensionSQLQueries-ECMLPKDD.pdf">The
 						VC-dimension of SQL Queries and Selectivity Estimation through
-					Sampling</a>, <em>ECML PKDD'11</em>, 2011</li>
-					<li>M. Akdere, U. &Ccedil;etintemel, M. Riondato, E. Upfal, and S. B. Zdonik.
-					<a href="papers/AkdereEtAl-CasePredictiveDatabase-CIDR.pdf">The Case for
-					Predictive Database Systems: Opportunities and Challenges</a>,
+						Sampling</a>, <em>ECML PKDD'11</em>, 2011</li>
+					<li>M. Akdere, U. &Ccedil;etintemel, M. Riondato, E. Upfal, and S. B.
+						Zdonik. <a
+						href="papers/AkdereEtAl-CasePredictiveDatabase-CIDR.pdf">The Case
+						for Predictive Database Systems: Opportunities and Challenges</a>,
 					<em>CIDR'11</em>, 2011</li>
 				</ol>
 
