@@ -46,6 +46,14 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>DMKD/DAMI:</strong> The <a
+						href="papers/HaddadanEtAl-RePBubLik-DMKD.pdf">journal version</a>
+						of our WSDM'21 paper on adding edges to reduce polarization in
+						graphs will be included in the <a
+						href="https://www.springer.com/journal/10618">DMKD/DAMI</a> special
+						issue on Fairness and Bias in AI. In this version, we show a new
+						algorithm that <em>modifies edge weights</em>, thus being less
+						intrusive.</li>
 						<li><strong>ICDM'22:</strong> Another collaboration with <a
 						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and <a
 						href="https://gdfm.me">Gianmarco</a> from <a
