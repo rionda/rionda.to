@@ -282,8 +282,8 @@
 			Lee</a>, <a href="https://www.cs.brown.edu/people/am104/">Ahmad
 			Mahmoody</a>, <a href="http://hpc.isti.cnr.it/~idamele/">Ida Mele</a>,
 			<a
-			href="https://sites.google.com/diag.uniroma1.it/cristinamenghini-patk">Cristina
-			Menghini</a>, Muhammad Anis Udin Nasir, <a
+			href="https://crimenghini.github.io/">Cristina Menghini</a>, Muhammad
+			Anis Udin Nasir, <a
 			href="https://www.dei.unipd.it/~pellegri/">Leonardo Pellegrina</a>, <a
 			href="https://www.dei.unipd.it/~capri/">Andrea Pietracaprina</a>, <a
 			href="https://giuliapreti.wixsite.com/gpreti">Giulia Preti</a>, <a
