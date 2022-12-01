@@ -65,10 +65,10 @@
 						<em>Knowledge and Information Systems</em>, 62(4):1313–1340 (S. I.
 						for the best papers of ICDM'18)</li>
 					<li>C. Cousins and M. Riondato <a
-						href="papers/CousinsRiondato-CaDET-MachLearn.pdf">CaDET:
-						Interpretable Parametric Conditional Density Estimation with
-						Decision Trees and Forests</a>, <em>Machine Learning</em>,
-						108:1631–1634, 2019</li>
+						href="papers/CousinsRiondato-CaDET-MachLearn.pdf"><span
+						style="font-variant:small-caps">CaDET</span>: Interpretable
+						Parametric Conditional Density Estimation with Decision Trees and
+						Forests</a>, <em>Machine Learning</em>, 108:1631–1634, 2019</li>
 					<li>M. Riondato and E. Upfal <a
 						href="papers/RiondatoUpfal-BetweennessRademacherAverages-TKDD.pdf">ABRA:
 						Approximating Betweenness Centrality in Static and Dynamic Graphs
