@@ -163,7 +163,7 @@ strong {
 }
 
 #conferences {
-	counter-reset: pubs 15;
+	counter-reset: pubs 14;
 }
 
 #unpublished {
@@ -175,15 +175,15 @@ strong {
 }
 
 #tutorials {
-	counter-reset: pubs 41;
+	counter-reset: pubs 40;
 }
 
 #dissertation {
-	counter-reset: pubs 44;
+	counter-reset: pubs 43;
 }
 
 #otherpubs {
-	counter-reset: pubs 45;
+	counter-reset: pubs 44;
 }
 
 #pubs {
