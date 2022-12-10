@@ -41,7 +41,7 @@
 						href="papers/HaddadanEtAl-RePBubLik-DMKD.pdf">Reducing
 						Polarization and Increasing Diverse Navigability in Graph by
 						Inserting Edges and Swapping Edge Weights</a>, <em>Data Mining and
-						Knowledge Discovery</em> (S. I. on Fairness and Bias),
+						Knowledge Discovery</em> (S. I. on Bias and Fairness),
 						36(6):2334–2378, 2022.</li>
 					<li>S. Jenkins, S. Walzer-Goldfeld, and M. Riondato. <a
 						href="papers/JenkinsEtAl-SPEck-DMKD22.pdf">SPEck: Mining
