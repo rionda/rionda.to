@@ -108,11 +108,12 @@
 						<em>IEEE ICDM'22</em>, 2022.</li>
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
 						href="papers/PretiEtAl-MaNIACS-KDD.pdf"><span
-						style="font-variant:small-caps"> MaNIACS</span>: Approximate Mining
+						style="font-variant:small-caps">MaNIACS</span>: Approximate Mining
 						of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
 						KDD'21</em>, 2021.</li>
 					<li>C. Cousins, C. Wohlgemuth, and M. Riondato. <a
-						href="papers/CousinsEtAl-Bavarian-KDDext.pdf">Bavarian: Betweenness
+						href="papers/CousinsEtAl-Bavarian-KDDext.pdf"><span
+						style="font-variant:small-caps">Bavarian</span>: Betweenness
 						Centrality Approximation with Variance-Aware Rademacher
 						Averages</a>, <em>ACM KDD'21</em>, 2021.</li>
 					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. <a
