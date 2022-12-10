@@ -31,6 +31,12 @@
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
+					<li>C. Cousins, C. Wohlgemuth, and M. Riondato. <a
+						href="papers/CousinsEtAl-Bavarian-KDDext.pdf"><span
+						style="font-variant:small-caps">Bavarian</span>: Betweenness
+						Centrality Approximation with Variance-Aware Rademacher
+						Averages</a>, <em>ACM Transactions on Knowledge Discovery
+						from Data</em>, to appear.</li>
 					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. <a
 						href="papers/HaddadanEtAl-RePBubLik-DMKD.pdf">Reducing
 						Polarization and Increasing Diverse Navigability in Graph by
