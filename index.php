@@ -50,8 +50,9 @@
 						href="papers/HaddadanEtAl-RePBubLik-DMKD.pdf">journal version</a>
 						of our WSDM'21 paper on adding edges to reduce polarization in
 						graphs will be included in the <a
-						href="https://www.springer.com/journal/10618">DMKD/DAMI</a> special
-						issue on Fairness and Bias in AI. In this version, we show a new
+						href="https://www.springer.com/journal/10618">DMKD/DAMI</a> <a
+						href="https://link.springer.com/journal/10618/topicalCollection/AC_a1fcffade3e6523787edc3a6f15017ae/page/1">special
+						issue on Fairness and Bias</a>. In this version, we show a new
 						algorithm that <em>modifies edge weights</em>, thus being less
 						intrusive.</li>
 						<li><strong>ICDM'22:</strong> Another collaboration with <a
