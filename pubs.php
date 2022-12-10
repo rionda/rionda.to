@@ -40,7 +40,7 @@
 					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. <a
 						href="papers/HaddadanEtAl-RePBubLik-DMKD.pdf">Reducing
 						Polarization and Increasing Diverse Navigability in Graph by
-						Inserting Edges and Swapping Edge Weights</a>. <em>Data Mining and
+						Inserting Edges and Swapping Edge Weights</a>, <em>Data Mining and
 						Knowledge Discovery</em> (S. I. on Fairness and Bias),
 						36(6):2334–2378, 2022.</li>
 					<li>S. Jenkins, S. Walzer-Goldfeld, and M. Riondato. <a
