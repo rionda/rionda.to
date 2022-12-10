@@ -219,9 +219,11 @@
 
 				<h3 id="techsect">Technical Reports, Abstracts, and Posters</h3>
 				<ol id="techrep">
+					<li>M. Riondato. Scalable Algorithms for Hypothesis Testing. <em>SIAM
+					MDS'22</em>, 2022.</li>
 					<li>A. Lee, S. Walzer-Goldfeld, S. Zablah, and M. Riondato. <a
 					href="papers/LeeEtAl-AScalableParallelAlgorithmForBalancedSampling-AAAI.pdf">A
-					Scalable Parallel Algorithm for Balanced Sampling</a>.
+					Scalable Parallel Algorithm for Balanced Sampling (Student Abstract)</a>.
 					<em>AAAI'22</em>, 2022 (<a
 					href="papers/LeeEtAl-AScalableParallelAlgorithmForBalancedSampling-Supplement.pdf">supplement</a>)</li>
 					<li>M. Riondato. <a
