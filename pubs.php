@@ -32,7 +32,7 @@
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
 					<li>C. Cousins, C. Wohlgemuth, and M. Riondato. <a
-						href="papers/CousinsEtAl-Bavarian-KDDext.pdf"><span
+						href="papers/CousinsEtAl-Bavarian-TKDD23.pdf"><span
 						style="font-variant:small-caps">Bavarian</span>: Betweenness
 						Centrality Approximation with Variance-Aware Rademacher
 						Averages</a>, <em>ACM Transactions on Knowledge Discovery
@@ -118,7 +118,7 @@
 						of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
 						KDD'21</em>, 2021.</li>
 					<li>C. Cousins, C. Wohlgemuth, and M. Riondato. <a
-						href="papers/CousinsEtAl-Bavarian-KDDext.pdf"><span
+						href="papers/CousinsEtAl-Bavarian-TKDD23.pdf"><span
 						style="font-variant:small-caps">Bavarian</span>: Betweenness
 						Centrality Approximation with Variance-Aware Rademacher
 						Averages</a>, <em>ACM KDD'21</em>, 2021.</li>

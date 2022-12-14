@@ -46,6 +46,13 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>ACM TKDD:</strong> The <a
+						href="papers/CousinsEtAl-Bavarian-TKDD23.pdf">journal version of
+						Bavarian</a>, our algorithm for betweennes centrality approximation
+						with variance-aware Rademacher averages will appear in <a
+						href="https://tkdd.acm.org">ACM TKDD</a>. We show a novel analysis
+						of the variance of the estimators, a discussion about using matrix
+						multiplication, and much more.</li>
 						<li><strong>DMKD/DAMI:</strong> The <a
 						href="papers/HaddadanEtAl-RePBubLik-DMKD.pdf">journal version</a>
 						of our WSDM'21 paper on adding edges to reduce polarization in
