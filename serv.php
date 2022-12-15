@@ -4,7 +4,7 @@
 		<h3>Editorial Boards</h3>
 		<p class="notop">Data Mining and Knowledge Discovery (Action Editor)</p>
 		<p class="notop">Machine Learning (guest editorial board for ECML
-		PKDD'19&mdash;22)</p>
+		PKDD'19&mdash;23)</p>
 		<h3>Organizing Committees</h3>
 		<p class="notop">2023: ECML PKDD'23 (Doctoral Forum Co-Chair)</p>
 		<p class="notop">2022: SIAM SDM'22 (PC Co-Chair)</p>
