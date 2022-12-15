@@ -6,7 +6,8 @@
 		<p class="notop">Machine Learning (guest editorial board for ECML
 		PKDD'19&mdash;22)</p>
 		<h3>Organizing Committees</h3>
-		<p class="notop">2022: SIAM SDM'22 (PC Chair)</p>
+		<p class="notop">2023: ECML PKDD'23 (Doctoral Forum Co-Chair)</p>
+		<p class="notop">2022: SIAM SDM'22 (PC Co-Chair)</p>
 		<p class="notop">2021: SIAM SDM'21 (Tutorial Chair)</p>
 		<p class="notop">2020: SIAM SDM'20 (Doctoral Forum Co-chair)</p>
 		<p class="notop">2019: SIAM SDM'19 (Doctoral Forum Co-chair)</p>
@@ -14,8 +15,8 @@
 		href="foulard18/">Foundations on Learning from Data Workshop</a>
 		(Organizer)</p>
 		<h3>Program Committees</h3>
-		<p class="notop">2023: AAAI'23 (Senior PC), ACM WSDM'23 (Senior PC),
-			SIAM SDM'23 (Senior PC</p>
+		<p class="notop">2023: ACM KDD'23 (Senior PC), WWW'23 (Senior PC), AAAI'23
+			(Senior PC), ACM WSDM'23 (Senior PC), SIAM SDM'23 (Senior PC)</p>
 		<p class="notop">2022: ACM KDD'22 (Senior PC), ACM WSDM'22 (Senior PC),
 			WWW'22 (Senior PC), ICDM'21, ECML PKDD'22, NeurIPS'22</p>
 		<p class="notop">2021: ACM CIKM'21, ACM KDD'21 (Senior PC), ACM WSDM'21,
