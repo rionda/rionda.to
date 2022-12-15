@@ -36,7 +36,8 @@
 						style="font-variant:small-caps">Bavarian</span>: Betweenness
 						Centrality Approximation with Variance-Aware Rademacher
 						Averages</a>, <em>ACM Transactions on Knowledge Discovery
-						from Data</em>, to appear.</li>
+						from Data</em>, DOI: <a
+						href="https://doi.org/10.1145/3577021">10.1145/3577021</a>.</li>
 					<li>S. Haddadan, C. Menghini, M. Riondato, and E. Upfal. <a
 						href="papers/HaddadanEtAl-RePBubLik-DMKD.pdf">Reducing
 						Polarization and Increasing Diverse Navigability in Graph by
