@@ -56,8 +56,8 @@
 						from Data</em>, 16(6):124, 2022.</li>
 					<li>M. A. U. Nasir, C. Aslay, G. De Francisci Morales, and M.
 						Riondato. <a href="papers/NasirEtAl-TipTap-TKDD.pdf"><span
-						style="font-variant:small-caps">TipTap</span> Approximate Mining of
-						Frequent 𝑘-Subgraph Patterns in Evolving Graphs</a>, <em>ACM
+						style="font-variant:small-caps">TipTap</span>: Approximate Mining
+						of Frequent 𝑘-Subgraph Patterns in Evolving Graphs</a>, <em>ACM
 						Transactions on Knowledge Discovery from Data</em>, 15(3):48,
 						2021.</li>
 					<li>M. Riondato and F. Vandin. <a
