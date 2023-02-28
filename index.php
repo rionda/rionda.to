@@ -46,6 +46,11 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>ECML PKDD'23:</strong> I'm the <a
+						href="https://2023.ecmlpkdd.org/submissions/phd-forum/">PhD
+						Forum</a> Chair, together with Illka Velaj. If you are a PhD
+						student, please consider submitting a poster (when submission open
+						in May).</li>
 						<li><strong>ACM TKDD:</strong> The <a
 						href="papers/CousinsEtAl-Bavarian-TKDD23.pdf">journal version of
 						Bavarian</a>, our algorithm for betweennes centrality approximation
