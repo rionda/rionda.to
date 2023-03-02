@@ -12,5 +12,5 @@ jobs:
         username: ${{ secrets.SCPUSERNAME }}
         port: ${{ secrets.SCPPORT }}
         key: ${{ secrets.SCPKEY }}
-        source: "*php,cv/*,papers/*,files/*,"
+        source: "*html,*php,*css,*pdf,LICENSE,README.md,cv/*pdf,cv/*txt,papers/*,files/*,software/*"
         target: "rionda.to/"
