@@ -1,0 +1,16 @@
+name: scp files
+on: [push]
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: copy file via ssh key
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.SCPHOST }}
+        username: ${{ secrets.SCPUSERNAME }}
+        port: ${{ secrets.SCPPORT }}
+        key: ${{ secrets.SCPKEY }}
+        source: "*php,cv/*,papers/*,files/*,"
+        target: "rionda.to/"
