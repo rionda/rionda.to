@@ -31,6 +31,12 @@
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
+					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
+						href="papers/PretiEtAl-MaNIACS-TIST.pdf"><span
+						style="font-variant:small-caps">MaNIACS</span>: Approximate Mining
+						of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
+						Transactions on Intelligent Systems and Technology</em>, to
+						appear</li>
 					<li>C. Cousins, C. Wohlgemuth, and M. Riondato. <a
 						href="papers/CousinsEtAl-Bavarian-TKDD23.pdf"><span
 						style="font-variant:small-caps">Bavarian</span>: Betweenness
@@ -114,7 +120,7 @@
 						More Descriptive Null Model for Assessing Data Mining Results</a>,
 						<em>IEEE ICDM'22</em>, 2022.</li>
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
-						href="papers/PretiEtAl-MaNIACS-KDD.pdf"><span
+						href="papers/PretiEtAl-MaNIACS-TIST.pdf"><span
 						style="font-variant:small-caps">MaNIACS</span>: Approximate Mining
 						of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
 						KDD'21</em>, 2021.</li>

@@ -46,6 +46,12 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>ACM TIST:</strong> with <a
+						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and <a
+						href="https://gdfm.me">Gianmarco</a> from <a
+						href="https://centai.eu">CentAI</a>, we published the <a
+						href="papers/PretiEtAl-MaNIACS-TIST.pdf">journal version</a> of our
+						KDD'21 paper on approximately counting subgraphs.</li>
 						<li><strong>ECML PKDD'23:</strong> I'm the <a
 						href="https://2023.ecmlpkdd.org/submissions/phd-forum/">PhD
 						Forum</a> Chair, together with Illka Velaj. If you are a PhD
