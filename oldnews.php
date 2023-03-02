@@ -5,6 +5,23 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>DMKD/DAMI (ECML PKDD'22):</strong> Another work by the <a
+			href="https://acdmammoths.github.io">Data* Mammoths</a> has been
+			accepted: Steedman and Stefan developed <a
+			href="papers/JenkinsEtAl-SPEck-DMKD22.pdf">SPEck</a>, a set of Monte-Carlo
+			procedures for efficiently mining statistically-significant sequential
+			patterns according to different null models, using <em>exact</em>
+			sampling, rather than approximate sampling. It appears in the
+			<a href="https://www.springer.com/journal/10618">DMKD/DAMI</a>
+			special issue for <a href="https://2022.ecmlpkdd.org">ECML
+			PKDD'22</a>.</li>
+			<li><strong>MDS'22:</strong> My talk on <em>Scalable Algorithms for
+			Hypothesis Testing</em> has been accepted for presentation at the
+			"new" (as the 2020 edition was canceled) <a
+			href="https://www.siam.org/conferences/cm/conference/mds22">SIAM
+			Conference on Mathematics of Data Science</a>, which has a super
+			strong <a
+			href="https://meetings.siam.org/program.cfm?CONFCODE=MDS22">program</a>.</li>
 			<li><strong>TKDD:</strong> the extended version of <a
 			href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">MCRapper</a> was accepted
 			to <a href="https://tkdd.acm.org">ACM TKDD</a>. An elegant algorithm to
