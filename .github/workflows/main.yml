@@ -16,5 +16,5 @@ jobs:
           username: ${{ secrets.SCPUSERNAME }}
           port: ${{ secrets.SCPPORT }}
           key: ${{ secrets.SCPKEY }}
-          source: "*,!.git*,!cv/.git*"
+          source: "*,!.git*,!cv/.git*,!files/bibtexs/.git*"
           target: "rionda.to/"
