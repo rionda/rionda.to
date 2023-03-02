@@ -5,12 +5,13 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - name: copy file via ssh key
-      uses: appleboy/scp-action@master
-      with:
-        host: ${{ secrets.SCPHOST }}
-        username: ${{ secrets.SCPUSERNAME }}
-        port: ${{ secrets.SCPPORT }}
-        key: ${{ secrets.SCPKEY }}
-        source: "*html,*php,*css,*pdf,LICENSE,README.md,cv/*pdf,cv/*txt,papers/*,files/*,software/*"
-        target: "rionda.to/"
+      - uses: actions/checkout@v3
+      - name: copy file via ssh key
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.SCPHOST }}
+          username: ${{ secrets.SCPUSERNAME }}
+          port: ${{ secrets.SCPPORT }}
+          key: ${{ secrets.SCPKEY }}
+          source: "*html,*php,*css,*pdf,LICENSE,README.md,cv/*pdf,cv/*txt,papers/*,files/*,software/*"
+          target: "rionda.to/"
