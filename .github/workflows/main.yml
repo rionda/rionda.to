@@ -5,7 +5,10 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: "true"
       - name: copy file via ssh key
         uses: appleboy/scp-action@master
         with:
@@ -13,5 +16,5 @@ jobs:
           username: ${{ secrets.SCPUSERNAME }}
           port: ${{ secrets.SCPPORT }}
           key: ${{ secrets.SCPKEY }}
-          source: "!.git,!cv/.git"
+          source: "*,!.git*,!cv/.git*"
           target: "rionda.to/"
