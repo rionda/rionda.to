@@ -114,6 +114,9 @@
 				</ol>
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
+					<li>M. Riondato. <a
+						href="papers/Riondato-StatisticallySoundKDD-SDM23.pdf">Statistically-sound
+						Knowledge Discovery from Data</a>, <em>SIAM SDM'23</em>, 2023.</li>
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
 						href="papers/PretiEtAl-ALICE-ICDM.pdf"><span
 						style="font-variant:small-caps">Alice</span> and the Caterpillar: A

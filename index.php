@@ -46,6 +46,12 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>SDM'23:</strong> my idea on <a
+						href="papers/Riondato-StatisticallySoundKDD-SDM23.pdf">>Statistically-sound
+						Knowledge Discovery from Data</em> is accepted for the new <em>Blue
+						Sky</em> track at <a
+						href="https://www.siam.org/conferences/cm/conference/sdm23">SIAM
+						SDM'23</a>. See you in Minneapolis!</li>
 						<li><strong>ACM TIST:</strong> with <a
 						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and <a
 						href="https://gdfm.me">Gianmarco</a> from <a
