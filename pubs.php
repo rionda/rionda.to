@@ -35,8 +35,8 @@
 						href="papers/PretiEtAl-MaNIACS-TIST.pdf"><span
 						style="font-variant:small-caps">MaNIACS</span>: Approximate Mining
 						of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
-						Transactions on Intelligent Systems and Technology</em>, to
-						appear</li>
+						Transactions on Intelligent Systems and Technology</em>,
+						DOI:10.1145/3587254, to appear.</li>
 					<li>C. Cousins, C. Wohlgemuth, and M. Riondato. <a
 						href="papers/CousinsEtAl-Bavarian-TKDD23.pdf"><span
 						style="font-variant:small-caps">Bavarian</span>: Betweenness
