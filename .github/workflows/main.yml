@@ -1,15 +1,18 @@
-name: scp files
-on: [push]
+name: Deploy
+on:
+  push:
+  workflow_dispatch:
 jobs:
   build:
-    name: Build
+    name: Deploy via scp
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: Checkout
         uses: actions/checkout@v3
         with:
           submodules: "true"
-      - name: copy file via ssh key
+      - name: Upload to server via scp
+        if: ${{ github.ref == 'refs/heads/main' }}
         uses: appleboy/scp-action@master
         with:
           host: ${{ secrets.SCPHOST }}
