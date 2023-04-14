@@ -12,7 +12,6 @@ jobs:
         with:
           submodules: "true"
       - name: Upload to server via scp
-        if: ${{ github.ref == 'refs/heads/main' }}
         uses: appleboy/scp-action@master
         with:
           host: ${{ secrets.SCPHOST }}
