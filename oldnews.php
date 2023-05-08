@@ -5,6 +5,31 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>ACM TKDD:</strong> The <a
+			href="papers/CousinsEtAl-Bavarian-TKDD23.pdf">journal version of
+			Bavarian</a>, our algorithm for betweennes centrality approximation with
+			variance-aware Rademacher averages will appear in <a
+			href="https://tkdd.acm.org">ACM TKDD</a>. We show a novel analysis of the
+			variance of the estimators, a discussion about using matrix
+			multiplication, and much more.</li>
+			<li><strong>DMKD/DAMI:</strong> The <a
+			href="papers/HaddadanEtAl-RePBubLik-DMKD.pdf">journal version</a> of our
+			WSDM'21 paper on adding edges to reduce polarization in graphs will be
+			included in the <a
+			href="https://www.springer.com/journal/10618">DMKD/DAMI</a> <a
+			href="https://link.springer.com/journal/10618/topicalCollection/AC_a1fcffade3e6523787edc3a6f15017ae/page/1">special
+			issue on Bias and Fairness</a>. In this version, we show a new algorithm
+			that <em>modifies edge weights</em>, thus being less intrusive.</li>
+			<li><strong>ICDM'22:</strong> Another collaboration with <a
+			href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and <a
+			href="https://gdfm.me">Gianmarco</a> from <a
+			href="https://centai.eu">CentAI</a> has been accepted. We present <a
+			href="papers/PretiEtAl-ALICE-ICDM.pdf">a more representative null model
+			for testing the significance of data mining results</a> from
+			transactional datasets, and <span
+			style="font-variant:small-caps">Alice</span>, an algorithm to sample from
+			this null model. See you in Orlando for <a
+			href="https://icdm22.cse.usf.edu/">ICDM'22</a>!</li>
 			<li><strong>DMKD/DAMI (ECML PKDD'22):</strong> Another work by the <a
 			href="https://acdmammoths.github.io">Data* Mammoths</a> has been
 			accepted: Steedman and Stefan developed <a
