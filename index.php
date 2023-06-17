@@ -22,7 +22,8 @@
 					possible and in a statistically sound way. The problems I study
 					include pattern extraction, graph mining, and time series analysis.
 					My algorithms often use concepts from statistical learning theory and
-					sampling. My research is supported, in part, by <a
+					sampling. My research is supported, in part, by <a href="">NSF CAREER
+					Award # 2238693</a> and by <a
 					href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765">NSF
 					Award #2006765</a>.</p>
 					<p>My <a
@@ -46,6 +47,18 @@
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>Tenure+Promotion:</strong> Starting July 1, I will be a
+						tenured associate professor of computer science! I'm over the moon
+						about this!</li>
+						<li><strong>NSF CAREER:</strong> I received a $600k <a
+						href="https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career">NSF
+						CAREER</a> award to work on <a
+						href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=false">Statistically-sound
+						Knowledge Discovery from Data</a> (my <a
+						href="papers/Riondato-StatisticallySoundKDD-SDM23.pdf">SDM'23
+						blue-sky-idea paper</a> has more details about what I plan to do).
+						I am extremely thankful for the trust from the community and NSF,
+						and excited for 5 years of work ahead!</li>
 						<li><strong>DMKD/DAMI (ECML PKDD'23):</strong> the <a
 							href="https://acdmammoths.github.io">Data* Mammoths</a> published
 							another paper: Maryam and
@@ -58,17 +71,6 @@
 						Sky</em> track at <a
 						href="https://www.siam.org/conferences/cm/conference/sdm23">SIAM
 						SDM'23</a>. See you in Minneapolis!</li>
-						<li><strong>ACM TIST:</strong> with <a
-						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and <a
-						href="https://gdfm.me">Gianmarco</a> from <a
-						href="https://centai.eu">CentAI</a>, we published the <a
-						href="papers/PretiEtAl-MaNIACS-TIST.pdf">journal version</a> of our
-						KDD'21 paper on approximately counting subgraphs.</li>
-						<li><strong>ECML PKDD'23:</strong> I'm the <a
-						href="https://2023.ecmlpkdd.org/submissions/phd-forum/">PhD
-						Forum</a> Chair, together with Illka Velaj. If you are a PhD
-						student, please consider submitting a poster (when submission open
-						in May).</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>
