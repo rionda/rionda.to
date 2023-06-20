@@ -22,8 +22,9 @@
 					possible and in a statistically sound way. The problems I study
 					include pattern extraction, graph mining, and time series analysis.
 					My algorithms often use concepts from statistical learning theory and
-					sampling. My research is supported, in part, by <a href="">NSF CAREER
-					Award # 2238693</a> and by <a
+					sampling. My research is supported, in part, by <a
+href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=false">NSF
+					CAREER Award #2238693</a> and by <a
 					href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006765">NSF
 					Award #2006765</a>.</p>
 					<p>My <a
