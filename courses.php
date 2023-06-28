@@ -4,11 +4,10 @@
 <p>At Amherst College, I regularly teach:</p>
 <ul>
 	<li>COSC-254 Data Mining (Spring'19, Spring'21)</li>
-	<li>COSC-257 Databases (Fall'19)</li>
+	<li>COSC-257 Databases (Fall'19, Fall'23)</li>
 	<li>COSC-351 Information Theory (Spring'23)</li>
 	<li>COSC-355 Network Science (Spring'20, Fall'22)</li>
-	<li>COSC-111 Intro to CS 1 (Spring'19, Fall'19, Spring'20, Fall'20 (x2),
-	Spring'21, Fall'22)</li>
+	<li>COSC-111 Intro to CS 1 (essentially every semester)</li>
 </ul>
 
 <p>I often supervise <em>independent study</em> courses on machine learning,
@@ -20,7 +19,7 @@ data mining, or other topics of interest, e.g.:</p>
 	<li>Regression and Time Series Analysis</li>
 </ul>
 
-<p>In Fall'19, '20, and '22, I also taught "COLQ-390H Learning by Doing:
+<p>Every Fall, unless I'm on leave, I also teach "COLQ-390H Learning by Doing:
 Internship and Fieldwork Reflection", the half-credit course to satisfy the
 CPT requirement for international students who did an internship.</p>
 
