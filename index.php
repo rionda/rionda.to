@@ -4,7 +4,7 @@
 					<img src="/files/matteo_riondato.jpg" alt="Head shot of Matteo
 					Riondato by Andrea Podest&agrave;" title="Matteo Riondato"
 					style="float:left;padding:0 0.5em 0.5em 0;" />
-					<p>I am an <strong>assistant professor</strong> of <a
+					<p>I am an <strong>associate professor</strong> of <a
 					href="https://www.amherst.edu/academiclife/departments/computer_science">computer
 					science</a> at <a href="https://www.amherst.edu">Amherst
 					College</a>, where I lead the <a
