@@ -41,7 +41,7 @@
 						style="font-variant:small-caps">MaNIACS</span>: Approximate Mining
 						of Frequent Subgraph Patterns through Sampling</a>, <em>ACM
 						Transactions on Intelligent Systems and Technology</em>,
-						14(3):54:1</li>
+						14(3):54, 2023.</li>
 					<li>C. Cousins, C. Wohlgemuth, and M. Riondato. <a
 						href="papers/CousinsEtAl-Bavarian-TKDD23.pdf"><span
 						style="font-variant:small-caps">Bavarian</span>: Betweenness
