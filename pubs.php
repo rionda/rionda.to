@@ -35,7 +35,8 @@
 						href="papers/AbuissaEtAl-ROhAN-DMKD23.pdf"><span
 						style="font-variant:small-caps">ROhAN</span>: Row-order Agnostic
 						Null Models for Statistically-sound Knowledge Discovery</a>,
-						<em>Data Mining and Knowledge Discovery</em>, to appear.</li>
+						<em>Data Mining and Knowledge Discovery</em>, 37(4):1692–1718,
+						2023</li>
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
 						href="papers/PretiEtAl-MaNIACS-TIST.pdf"><span
 						style="font-variant:small-caps">MaNIACS</span>: Approximate Mining
