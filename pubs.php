@@ -233,7 +233,7 @@
 				</ol>
 
 				<h3 id="techsect">Technical Reports, Abstracts, and Posters</h3>
-				<ol id="techrep">
+				<ol id="techreps">
 					<li>M. Riondato. Scalable Algorithms for Hypothesis Testing. <em>SIAM
 					MDS'22</em>, 2022.</li>
 					<li>A. Lee, S. Walzer-Goldfeld, S. Zablah, and M. Riondato. <a
