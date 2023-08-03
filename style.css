@@ -158,29 +158,31 @@ strong {
 	text-align: justify;
 }
 
+/*
 #journals {
-	counter-reset: pubs;
+	counter-reset: pubs;*
 }
 
 #conferences {
-	#counter-reset: pubs 16;
+	counter-reset: pubs 16;
 }
 
 #techreps {
-	#counter-reset: pubs 41;
+	counter-reset: pubs 41;
 }
 
 #tutorials {
-	#counter-reset: pubs 44;
+	counter-reset: pubs 44;
 }
 
 #dissertation {
-	#counter-reset: pubs 47;
+	counter-reset: pubs 47;
 }
 
 #otherpubs {
-	#counter-reset:pubs 48;
+	counter-reset:pubs 48;
 }
+*/
 
 #pubs {
 	margin:0px;
