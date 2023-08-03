@@ -163,23 +163,23 @@ strong {
 }
 
 #conferences {
-	counter-reset: pubs 15;
+	#counter-reset: pubs 16;
 }
 
 #techreps {
-	counter-reset: pubs 40;
+	#counter-reset: pubs 41;
 }
 
 #tutorials {
-	counter-reset: pubs 43;
+	#counter-reset: pubs 44;
 }
 
 #dissertation {
-	counter-reset: pubs 46;
+	#counter-reset: pubs 47;
 }
 
 #otherpubs {
-	counter-reset:opubs 47;
+	#counter-reset:pubs 48;
 }
 
 #pubs {
