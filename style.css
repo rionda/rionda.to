@@ -158,9 +158,8 @@ strong {
 	text-align: justify;
 }
 
-/*
 #journals {
-	counter-reset: pubs;*
+	counter-reset: pubs;
 }
 
 #conferences {
@@ -182,7 +181,6 @@ strong {
 #otherpubs {
 	counter-reset:pubs 48;
 }
-*/
 
 #pubs {
 	margin:0px;
