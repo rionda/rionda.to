@@ -48,7 +48,7 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
-						<li><strong>Tenure+Promotion:</strong> Starting July 1, I will be a
+						<li><strong>Tenure+Promotion:</strong> Since July 1, I am a
 						tenured associate professor of computer science! I'm over the moon
 						about this!</li>
 						<li><strong>NSF CAREER:</strong> I received a $600k <a
