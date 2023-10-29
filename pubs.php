@@ -31,6 +31,11 @@
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
+					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
+						href="papers/PretiEtAl-ALICE-KAISE.pdf"><span
+						style="font-variant:small-caps">Alice</span> and the Caterpillar: A
+						More Descriptive Null Model for Assessing Data Mining Results</a>,
+						<em>KAIS</em>, to appear</li>
 					<li>M. Abuissa, A. Lee, and M. Riondato. <a
 						href="papers/AbuissaEtAl-ROhAN-DMKD23.pdf"><span
 						style="font-variant:small-caps">ROhAN</span>: Row-order Agnostic
@@ -119,6 +124,10 @@
 				</ol>
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
+					<li>M. Riondato. <a
+						href="papers/Riondato-StatisticallySoundKDD-CogMI23.pdf">Statistically-sound
+						Knowledge Discovery from Data: Challenges and Directions</a>,
+						<em>IEEE CogMI'23</em>, 2023.</li>
 					<li>M. Riondato. <a
 						href="papers/Riondato-StatisticallySoundKDD-SDM23.pdf">Statistically-sound
 						Knowledge Discovery from Data</a>, <em>SIAM SDM'23</em>, 2023.</li>

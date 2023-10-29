@@ -48,6 +48,15 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>CogMI:</strong> I am giving an invited talk on <a
+						href="papers/Riondato-StatisticallySoundKDD-CogMI23.pdf">Statistically-sound
+						KDD</a> at this interesting conference bringing together
+						researchers from different areas</li>
+						<li><strong>KAIS:</strong> the journal version of <a
+						href="papers/PretiEtAl-ALICE-KAIS.pdf"><span
+						style="font-variant:small-caps">Alice</span></a> was accepted to
+						the <a href="https://www.springer.com/journal/10115">KAIS</a>
+						special issue for the best papers of IEEE ICDM'22.</li>
 						<li><strong>Tenure+Promotion:</strong> Since July 1, I am a
 						tenured associate professor of computer science! I'm over the moon
 						about this!</li>
