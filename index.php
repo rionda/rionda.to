@@ -48,10 +48,12 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>KDD'24:</strong> Happy to help out the organization as
+							a Co-chair of the PhD Consortium.</li>
 						<li><strong>CogMI:</strong> I am giving an invited talk on <a
 						href="papers/Riondato-StatisticallySoundKDD-CogMI23.pdf">Statistically-sound
 						KDD</a> at this interesting conference bringing together
-						researchers from different areas</li>
+						researchers from different areas.</li>
 						<li><strong>KAIS:</strong> the journal version of <a
 						href="papers/PretiEtAl-ALICE-KAIS.pdf"><span
 						style="font-variant:small-caps">Alice</span></a> was accepted to
@@ -75,12 +77,6 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 							<a href="https://alexanderwlee.com">Alex</a> introduce <a
 							href="papers/AbuissaEtAl-ROhAN-DMKD23.pdf">ROhAN</a>, a new set
 							of null models for Statistically-sound KDD.</li>
-						<li><strong>SDM'23:</strong> my idea on <a
-						href="papers/Riondato-StatisticallySoundKDD-SDM23.pdf">Statistically-sound
-						Knowledge Discovery from Data</a> is accepted for the new <em>Blue
-						Sky</em> track at <a
-						href="https://www.siam.org/conferences/cm/conference/sdm23">SIAM
-						SDM'23</a>. See you in Minneapolis!</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>

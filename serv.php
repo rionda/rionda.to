@@ -6,10 +6,11 @@
 		<p class="notop">Machine Learning (guest editorial board for ECML
 		PKDD'19&mdash;23)</p>
 		<h3>Organizing Committees</h3>
-		<p class="notop">2024: SIAM SDM'24 (Blue-sky-idea Track)</p>
-		<p class="notop">2023: ACM MAGICC (Keynote and Panel), ECML PKDD'23
-			(Doctoral Forum Co-Chair)</p>
-		<p class="notop">2022: SIAM SDM'22 (PC Co-Chair)</p>
+		<p class="notop">2024: SIAM SDM'24 (Blue-sky-idea Track PC Chair), ACM
+			KDD'24 (PhD consortium Co-chair)</p>
+		<p class="notop">2023: ACM MAGICC (Keynote and Panel Chair), ECML PKDD'23
+			(Doctoral Forum Co-chair)</p>
+		<p class="notop">2022: SIAM SDM'22 (PC Co-chair)</p>
 		<p class="notop">2021: SIAM SDM'21 (Tutorial Chair)</p>
 		<p class="notop">2020: SIAM SDM'20 (Doctoral Forum Co-chair)</p>
 		<p class="notop">2019: SIAM SDM'19 (Doctoral Forum Co-chair)</p>
