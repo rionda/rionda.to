@@ -48,6 +48,14 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>Dagstuhl:</strong> With <a
+							href="https://cs.brown.edu/~eli">Eli</a> and <a
+							href="https://www.kth.se/profile/argioni">Aris</a>, I'm
+							organizing a 5-day workshop on <a
+							href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24391">Statistical
+							and Probabilistic Methods in Algorithmic Data Analysis</a> in <a
+							href="https://www.dagstuhl.de">Dagstuhl</a>. So glad to go back to the
+							beautiful Schl&ouml;ss!</li>
 						<li><strong>KDD'24:</strong> Happy to help out the organization as
 							a Co-chair of the PhD Consortium.</li>
 						<li><strong>CogMI:</strong> I am giving an invited talk on <a
