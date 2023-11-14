@@ -49,13 +49,13 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 					<h2>News</h2>
 					<ul>
 						<li><strong>Dagstuhl:</strong> With <a
-							href="https://cs.brown.edu/~eli">Eli</a> and <a
-							href="https://www.kth.se/profile/argioni">Aris</a>, I'm
-							organizing a 5-day workshop on <a
-							href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/24391">Statistical
-							and Probabilistic Methods in Algorithmic Data Analysis</a> in <a
-							href="https://www.dagstuhl.de">Dagstuhl</a>. So glad to go back to the
-							beautiful Schl&ouml;ss!</li>
+						href="https://cs.brown.edu/~eli">Eli</a> and <a
+						href="https://www.kth.se/profile/argioni">Aris</a>, I'm
+						organizing a 5-day workshop on <a
+						href="https://www.dagstuhl.de/24391">Statistical and
+						Probabilistic Methods in Algorithmic Data Analysis</a> in <a
+						href="https://www.dagstuhl.de">Dagstuhl</a>. So glad to go back to
+						the beautiful Schl&ouml;ss!</li>
 						<li><strong>KDD'24:</strong> Happy to help out the organization as
 							a Co-chair of the PhD Consortium.</li>
 						<li><strong>CogMI:</strong> I am giving an invited talk on <a
@@ -80,11 +80,11 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						I am extremely thankful for the trust from the community and NSF,
 						and excited for 5 years of work ahead!</li>
 						<li><strong>DMKD/DAMI (ECML PKDD'23):</strong> the <a
-							href="https://acdmammoths.github.io">Data* Mammoths</a> published
-							another paper: Maryam and
-							<a href="https://alexanderwlee.com">Alex</a> introduce <a
-							href="papers/AbuissaEtAl-ROhAN-DMKD23.pdf">ROhAN</a>, a new set
-							of null models for Statistically-sound KDD.</li>
+						href="https://acdmammoths.github.io">Data* Mammoths</a> published
+						another paper: Maryam and
+						<a href="https://alexanderwlee.com">Alex</a> introduce <a
+						href="papers/AbuissaEtAl-ROhAN-DMKD23.pdf">ROhAN</a>, a new set of
+						null models for Statistically-sound KDD.</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>
