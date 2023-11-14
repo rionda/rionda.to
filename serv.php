@@ -8,9 +8,8 @@
 		<h3>Organizing Committees</h3>
 		<p class="notop">2024: SIAM SDM'24 (Blue-sky-idea Track PC Chair), ACM
 			KDD'24 (PhD consortium Co-chair), <a
-			href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24391">Dagstuhl
-			workshop on Statistical and Probabilistic Methods in Algorithmic Data
-			Analysis</a> (Organizer)</p>
+			href="https://www.dagstuhl.de/24391">Dagstuhl workshop on Statistical and
+			Probabilistic Methods in Algorithmic Data Analysis</a> (Organizer)</p>
 		<p class="notop">2023: ACM MAGICC (Keynote and Panel Chair), ECML PKDD'23
 			(Doctoral Forum Co-chair)</p>
 		<p class="notop">2022: SIAM SDM'22 (PC Co-chair)</p>
