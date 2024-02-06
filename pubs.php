@@ -35,7 +35,8 @@
 						href="papers/PretiEtAl-ALICE-KAISE.pdf"><span
 						style="font-variant:small-caps">Alice</span> and the Caterpillar: A
 						More Descriptive Null Model for Assessing Data Mining Results</a>,
-						<em>Knowledge and Information Systems</em>, 66(3):1917-1954</li>
+						<em>Knowledge and Information Systems</em>, 66(3):1917-1954,
+						2024.</li>
 					<li>M. Abuissa, A. Lee, and M. Riondato. <a
 						href="papers/AbuissaEtAl-ROhAN-DMKD23.pdf"><span
 						style="font-variant:small-caps">ROhAN</span>: Row-order Agnostic
