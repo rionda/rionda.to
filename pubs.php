@@ -32,7 +32,7 @@
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
-						href="papers/PretiEtAl-ALICE-KAISE.pdf"><span
+						href="papers/PretiEtAl-ALICE-KAIS.pdf"><span
 						style="font-variant:small-caps">Alice</span> and the Caterpillar: A
 						More Descriptive Null Model for Assessing Data Mining Results</a>,
 						<em>Knowledge and Information Systems</em>, 66(3):1917-1954,
