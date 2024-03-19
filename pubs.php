@@ -154,7 +154,7 @@
 						WSDM'21</em>, 2021.</li>
 					<li>C. Cousins and M. Riondato. <a
 						href="papers/CousinsRiondato-UniformConvergenceEmpiricalCentralization-NeurIPS.pdf">Sharp
-						uniform convengence bounds through empirical centralization</a>,
+						uniform convergence bounds through empirical centralization</a>,
 						<em>NeurIPS'20</em>, 2020.</li>
 					<li>L. Pellegrina, C. Cousins, F. Vandin, and M. Riondato. <a
 						href="papers/PellegrinaEtAl-MCRapper-TKDD.pdf">McRapper:
