@@ -9,9 +9,11 @@
 					science</a> at <a href="https://www.amherst.edu">Amherst
 					College</a>, where I lead the <a
 					href="https://acdmammoths.github.io">Data* Mammoths</a>, a
-					research&amp;learning group of brilliant undergraduate students. I
-					also have an appointment as visiting faculty in <a
-					href="https://cs.brown.edu">Computer Science at Brown
+					research&amp;learning group of brilliant undergraduate students, and
+					I serve as the inaugural director of the <a
+					href="https://www.amherst.edu/about/science_at_amherst/data-science-initiative">Data
+					Science Initiative</a>. I also have an appointment as visiting
+					faculty in <a href="https://cs.brown.edu">Computer Science at Brown
 					University</a>. Previously, I spent some fantastic years as a
 					research scientist in the Labs group at <a
 					href="https://www.twosigma.com/">Two Sigma</a>.</p>
@@ -48,6 +50,11 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>DSI:</strong> I was appointed the inaugural director of
+						the <a
+						href="https://www.amherst.edu/about/science_at_amherst/data-science-initiative">Data
+						Science Initiative</a>. I'm excited, and looking forward to the
+						(large) amount of work ahead.</li>
 						<li><strong>Dagstuhl:</strong> With <a
 						href="https://cs.brown.edu/~eli">Eli</a> and <a
 						href="https://www.kth.se/profile/argioni">Aris</a>, I'm
