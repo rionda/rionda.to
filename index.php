@@ -52,7 +52,7 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 					<ul>
 						<li><strong>PRE:</strong> A new <a
 						href="papers/PretiEtAl-ImpossibilityResultButterflies-PRE.pdf">impossiblity
-						result about sampling from bipartite graph ensembles</em> will
+						result about sampling from bipartite graph ensembles</a> will
 						appear in <a href="https://journals.aps.org/pre/">Physical Review
 						E</a>. It's joint work with <a
 						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and <a
