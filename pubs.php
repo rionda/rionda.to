@@ -31,6 +31,12 @@
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
+					<li> G. Preti, G. De Francisci Morales, and M. Riondato.
+						<a
+						href="papers/PretiEtAl-ImpossibilityResultButterflies-PRE.pdf">Impossibility
+						result for Markov chain Monte Carlo sampling from microcanonical
+						bipartite graph ensembles</a>. <em>Physical Review
+						E</em>, to appear.</li>
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
 						href="papers/PretiEtAl-ALICE-KAIS.pdf"><span
 						style="font-variant:small-caps">Alice</span> and the Caterpillar: A

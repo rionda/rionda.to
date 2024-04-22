@@ -50,6 +50,13 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>PRE:</strong> A new <a
+						href="papers/PretiEtAl-ImpossibilityResultButterflies.pdf">impossiblity
+						result about sampling from bipartite graph ensembles</em> will
+						appear in <a href="">Physical Review E</a>. It's joint work with
+						<a href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and <a
+						href="https://gdfm.me">Gianmarco</a>, and my first time publishing
+						in a non-strictly-CS venue! Also, the result is pretty cool!</li>
 						<li><strong>DSI:</strong> I was appointed the inaugural director of
 						the <a
 						href="https://www.amherst.edu/about/science_at_amherst/data-science-initiative">Data
