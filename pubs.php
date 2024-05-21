@@ -36,7 +36,7 @@
 						href="papers/PretiEtAl-ImpossibilityResultButterflies-PRE.pdf">Impossibility
 						result for Markov chain Monte Carlo sampling from microcanonical
 						bipartite graph ensembles</a>. <em>Physical Review
-						E</em>, to appear.</li>
+						E</em>, 109(5):L053301, 2024.</li>
 					<li>G. Preti, G. De Francisci Morales, and M. Riondato. <a
 						href="papers/PretiEtAl-ALICE-KAIS.pdf"><span
 						style="font-variant:small-caps">Alice</span> and the Caterpillar: A
