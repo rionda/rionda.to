@@ -25,8 +25,9 @@
 			rel="noopener noreferrer"><img
 			src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
 			style="width:1em;margin-right:.1em;display:inline;" alt="ORCID iD icon" />ORCID</a></span>,
-			<a href="https://www.researcherid.com/rid/L-1764-2016">ResearcherID</a>,
-			<a href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>.</p>
+			<a href="https://www.scopus.com/authid/detail.uri?authorId=36174276300">Scopus</a>,
+			<a
+			href="https://www.semanticscholar.org/author/Matteo-Riondato/3019872?sort=pub-date">SemanticScholar</a>.</p>
 
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
