@@ -5,6 +5,33 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>CogMI:</strong> I am giving an invited talk on <a
+			href="papers/Riondato-StatisticallySoundKDD-CogMI23.pdf">Statistically-sound
+			KDD</a> at this interesting conference bringing together researchers from
+			different areas.</li>
+			<li><strong>KAIS:</strong> the journal version of <a
+			href="papers/PretiEtAl-ALICE-KAIS.pdf"><span
+			style="font-variant:small-caps">Alice</span></a> was accepted to
+			the <a href="https://www.springer.com/journal/10115">KAIS</a>
+			special issue for the best papers of IEEE ICDM'22.</li>
+			<li><strong>Tenure+Promotion:</strong> Since July 1, I am a tenured
+			associate professor of computer science! I'm over the moon about
+			this!</li>
+			<li><strong>NSF CAREER:</strong> I received a $600k <a
+			href="https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career">NSF
+			CAREER</a> award to work on <a
+			href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=false">Statistically-sound
+			Knowledge Discovery from Data</a> (my <a
+			href="papers/Riondato-StatisticallySoundKDD-SDM23.pdf">SDM'23
+			blue-sky-idea paper</a> has more details about what I plan to do). I am
+			extremely thankful for the trust from the community and NSF, and excited
+			for 5 years of work ahead!</li>
+			<li><strong>DMKD/DAMI (ECML PKDD'23):</strong> the <a
+			href="https://acdmammoths.github.io">Data* Mammoths</a> published
+			another paper: Maryam and
+			<a href="https://alexanderwlee.com">Alex</a> introduce <a
+			href="papers/AbuissaEtAl-ROhAN-DMKD23.pdf">ROhAN</a>, a new set of null
+			models for Statistically-sound KDD.</li>
 			<li><strong>SDM'23:</strong> my idea on <a
 			href="papers/Riondato-StatisticallySoundKDD-SDM23.pdf">Statistically-sound
 			Knowledge Discovery from Data</a> is accepted for the new <em>Blue

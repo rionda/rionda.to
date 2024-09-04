@@ -50,6 +50,10 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>SDM'25:</strong> I'm the general chair of the <a
+						href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">2025
+						SIAM International Conference on Data Mining</a>, together
+						with <a href="https://www.cs.ucr.edu/~epapalex/">Vagelis</a></li>
 						<li><strong>PRE:</strong> A new <a
 						href="papers/PretiEtAl-ImpossibilityResultButterflies-PRE.pdf">impossiblity
 						result about sampling from bipartite graph ensembles</a> will
@@ -73,33 +77,6 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						the beautiful Schl&ouml;ss!</li>
 						<li><strong>KDD'24:</strong> Happy to help out the organization as
 							a Co-chair of the PhD Consortium.</li>
-						<li><strong>CogMI:</strong> I am giving an invited talk on <a
-						href="papers/Riondato-StatisticallySoundKDD-CogMI23.pdf">Statistically-sound
-						KDD</a> at this interesting conference bringing together
-						researchers from different areas.</li>
-						<li><strong>KAIS:</strong> the journal version of <a
-						href="papers/PretiEtAl-ALICE-KAIS.pdf"><span
-						style="font-variant:small-caps">Alice</span></a> was accepted to
-						the <a href="https://www.springer.com/journal/10115">KAIS</a>
-						special issue for the best papers of IEEE ICDM'22.</li>
-						<li><strong>Tenure+Promotion:</strong> Since July 1, I am a
-						tenured associate professor of computer science! I'm over the moon
-						about this!</li>
-						<li><strong>NSF CAREER:</strong> I received a $600k <a
-						href="https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career">NSF
-						CAREER</a> award to work on <a
-						href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=false">Statistically-sound
-						Knowledge Discovery from Data</a> (my <a
-						href="papers/Riondato-StatisticallySoundKDD-SDM23.pdf">SDM'23
-						blue-sky-idea paper</a> has more details about what I plan to do).
-						I am extremely thankful for the trust from the community and NSF,
-						and excited for 5 years of work ahead!</li>
-						<li><strong>DMKD/DAMI (ECML PKDD'23):</strong> the <a
-						href="https://acdmammoths.github.io">Data* Mammoths</a> published
-						another paper: Maryam and
-						<a href="https://alexanderwlee.com">Alex</a> introduce <a
-						href="papers/AbuissaEtAl-ROhAN-DMKD23.pdf">ROhAN</a>, a new set of
-						null models for Statistically-sound KDD.</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>
