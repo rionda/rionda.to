@@ -6,6 +6,7 @@
 		<p class="notop">Machine Learning (guest editorial board for ECML
 		PKDD'19&mdash;23)</p>
 		<h3>Organizing Committees</h3>
+		<p class="notop">2025: SIAM SDM'25 (General Co-Chair)</p>
 		<p class="notop">2024: SIAM SDM'24 (Blue-sky-idea Track PC Chair), ACM
 			KDD'24 (PhD consortium Co-chair), <a
 			href="https://www.dagstuhl.de/24391">Dagstuhl workshop on Statistical and
