@@ -53,7 +53,7 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						<li><strong>SDM'25:</strong> I'm the general chair of the <a
 						href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">2025
 						SIAM International Conference on Data Mining</a>, together
-						with <a href="https://www.cs.ucr.edu/~epapalex/">Vagelis</a></li>
+						with <a href="https://www.cs.ucr.edu/~epapalex/">Vagelis</a>.</li>
 						<li><strong>PRE:</strong> A new <a
 						href="papers/PretiEtAl-ImpossibilityResultButterflies-PRE.pdf">impossiblity
 						result about sampling from bipartite graph ensembles</a> will
@@ -65,8 +65,8 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						<li><strong>DSI:</strong> I was appointed the inaugural director of
 						the <a
 						href="https://www.amherst.edu/about/science_at_amherst/data-science-initiative">Data
-						Science Initiative</a>. I'm excited, and looking forward to the
-						(large) amount of work ahead.</li>
+						Science Initiative</a> at Amherst College. I'm excited about, and
+						looking forward to, the (large amount of) work ahead.</li>
 						<li><strong>Dagstuhl:</strong> With <a
 						href="https://cs.brown.edu/~eli">Eli</a> and <a
 						href="https://www.kth.se/profile/argioni">Aris</a>, I'm
