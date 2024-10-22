@@ -279,6 +279,8 @@
 						href="https://bigdata.cs.brown.edu/vctutorial/">VC-Dimension and
 						Rademacher Averages: From Statistical Learning Theory to Sampling
 						Algorithms</a>, <em>ACM KDD'15, ECML PKDD'15, ACM CIKM'15</em>. <a
+						href="papers/RiondatoUpfal-VCDimensionRademacherSampling-KDD15.pdf">Outline</a>,
+						<a
 						href="papers/RiondatoUpfal-VCDimensionRademachersampling-TutorialPKDD.pdf">Slides</a>,
 						<a href="https://www.youtube.com/watch?v=dngQYAxXQ_8">Video at
 						KDD'15 (Part 1)</a>, <a
