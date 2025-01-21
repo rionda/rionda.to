@@ -132,6 +132,14 @@
 				</ol>
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
+					<li>G. Preti, M. Riondato, A. Gionis. G. De Francisci Morales. <a
+						href="papers/PretiEtAl-Polaris-WSDM/pdf"><span
+						style="font-variant:small-caps">Polaris</span>Polaris: Sampling
+						from the Multigraph Configuration Model with Prescribed Color
+						Assortativity</a>, <em>ACM WSDM'25</em>, 2025.</li>
+					<li>D. Flores-Garc&iacute;a, H. Flores-Garc&iacute;a, M. Riondato. <a
+						href="papers/FloresGarciaEtAl-ClaveNet-AudioMostly.pdf"</a>,
+						<em>ACM AudioMostly'24</em>, 2024.<li>
 					<li>M. Riondato. <a
 						href="papers/Riondato-StatisticallySoundKDD-CogMI23.pdf">Statistically-sound
 						Knowledge Discovery from Data: Challenges and Directions</a>,
@@ -305,7 +313,8 @@
 		</div>
 
 		<h3>Coauthors</h3>
-		<p class="notop">Maryam Abuissa,
+		<p class="notop"><a
+			href="https://cs.brown.edu/people/grad/mabuissa/">Maryam Abuissa</a>,
 			<a href="https://www.cs.brown.edu/~makdere/">Mert Akdere</a>,
 			<a href="http://www.aris.me/">Aris Anagnostopoulos</a>, Cigdem Aslay, <a
 			href="https://www.dis.uniroma1.it/~becchett/">Luca Becchetti</a>, <a
@@ -317,7 +326,8 @@
 			href="https://www.cs.brown.edu/~rfonseca/">Rodrigo Fonseca</a>, <a
 			href="https://www.epasto.org/">Alessandro Epasto</a>, <a
 			href="http://sites.google.com/site/elhipercubo/">David Garc&iacute;a
-			Soriano</a>, <a
+			Soriano</a>, <a href="https://www.kth.se/profile/argioni">Aris
+			Gionis</a>, <a
 			href="https://sites.google.com/view/shahrzadhaddadan/">Shahrzad
 			Haddadan</a>, Steedman Jenkins, <a
 			href="https://kornaropoulos.webflow.io/">Evgenios M.

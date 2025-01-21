@@ -5,6 +5,27 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>PRE:</strong> A new <a
+			href="papers/PretiEtAl-ImpossibilityResultButterflies-PRE.pdf">impossiblity
+			result about sampling from bipartite graph ensembles</a> will appear in
+			<a href="https://journals.aps.org/pre/">Physical Review E</a>. It's joint
+			work with <a href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and
+			<a href="https://gdfm.me">Gianmarco</a>, and my first time publishing in
+			a non-strictly-CS venue! Also, the result is pretty cool!</li>
+			<li><strong>DSI:</strong> I was appointed the inaugural director of the
+			<a
+			href="https://www.amherst.edu/about/science_at_amherst/data-science-initiative">Data
+			Science Initiative</a> at Amherst College. I'm excited about, and looking
+			forward to, the (large amount of) work ahead.</li>
+			<li><strong>Dagstuhl:</strong> With <a
+			href="https://cs.brown.edu/~eli">Eli</a> and <a
+			href="https://www.kth.se/profile/argioni">Aris</a>, I'm organizing a
+			5-day workshop on <a href="https://www.dagstuhl.de/24391">Statistical and
+			Probabilistic Methods in Algorithmic Data Analysis</a> in <a
+			href="https://www.dagstuhl.de">Dagstuhl</a>. So glad to go back to the
+			beautiful Schl&ouml;ss!</li>
+			<li><strong>KDD'24:</strong> Happy to help out the organization as a
+			Co-chair of the PhD Consortium.</li>
 			<li><strong>CogMI:</strong> I am giving an invited talk on <a
 			href="papers/Riondato-StatisticallySoundKDD-CogMI23.pdf">Statistically-sound
 			KDD</a> at this interesting conference bringing together researchers from
