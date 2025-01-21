@@ -14,7 +14,7 @@
 					href="https://www.amherst.edu/about/science_at_amherst/data-science-initiative">Data
 					Science Initiative</a>. I also have an appointment as visiting
 					faculty in <a href="https://cs.brown.edu">Computer Science at Brown
-					University</a>, where I advise PhD students.. Previously, I spent
+					University</a>, where I advise PhD students. Previously, I spent
 					some fantastic years as a research scientist in the Labs group at <a
 					href="https://www.twosigma.com/">Two Sigma</a>.</p>
 					<p>My research focuses on <strong>algorithms</strong> for

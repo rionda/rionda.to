@@ -134,12 +134,13 @@
 				<ol id="conferences">
 					<li>G. Preti, M. Riondato, A. Gionis. G. De Francisci Morales. <a
 						href="papers/PretiEtAl-Polaris-WSDM/pdf"><span
-						style="font-variant:small-caps">Polaris</span>Polaris: Sampling
+						style="font-variant:small-caps">Polaris</span>: Sampling
 						from the Multigraph Configuration Model with Prescribed Color
 						Assortativity</a>, <em>ACM WSDM'25</em>, 2025.</li>
 					<li>D. Flores-Garc&iacute;a, H. Flores-Garc&iacute;a, M. Riondato. <a
-						href="papers/FloresGarciaEtAl-ClaveNet-AudioMostly.pdf"</a>,
-						<em>ACM AudioMostly'24</em>, 2024.<li>
+						href="papers/FloresGarciaEtAl-ClaveNet-AudioMostly.pdf">ClaveNet:
+						Generating Afro-Cuban Drum Patterns through Data Augmentation</a>,
+						<em>ACM AudioMostly'24</em>, 2024.</li>
 					<li>M. Riondato. <a
 						href="papers/Riondato-StatisticallySoundKDD-CogMI23.pdf">Statistically-sound
 						Knowledge Discovery from Data: Challenges and Directions</a>,
