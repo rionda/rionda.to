@@ -2,11 +2,15 @@
 <!-- vim: set ts=2 sw=2 tw=79: -->
 		<h2>Service</h2>
 		<h3>Editorial Boards</h3>
-		<p class="notop">Data Mining and Knowledge Discovery (Action Editor)</p>
+		<p class="notop">Data Mining and Knowledge Discovery (Action Editor,
+		2020-23, guest editorial board for ECML PKDD'19&mdash;25)</p>
 		<p class="notop">Machine Learning (guest editorial board for ECML
-		PKDD'19&mdash;23)</p>
+		PKDD'19&mdash;25)</p>
+i		<p class="notop">VLDB Journal (editorial board, 2025-)</p>
 		<h3>Organizing Committees</h3>
-		<p class="notop">2025: SIAM SDM'25 (General Co-Chair)</p>
+		<p class="notop">2026: SIAM SDM'26 (General Co-Chair)</p>
+		<p class="notop">2025: ACM CIKM'25, (Tutorial Co-Chair), SIAM SDM'25
+			(General Co-Chair)</p>
 		<p class="notop">2024: SIAM SDM'24 (Blue-sky-idea Track PC Chair), ACM
 			KDD'24 (PhD consortium Co-chair), <a
 			href="https://www.dagstuhl.de/24391">Dagstuhl workshop on Statistical and
