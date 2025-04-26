@@ -65,15 +65,14 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						model for multigraphs with prescribed color assortativity. It was
 						selected for plenary oral presentation, but I'm mostly excited
 						about the fact that I finally published with Aris!</li>
+						<li>CRA:</li> the CRA has a great <a
+						href="https://cra.org/crn/2024/10/securing-machine-learning-with-sequestered-encryption-on-gpu-hardware/">
+						with Maryam, who is doing their CS PhD at Brown under Eli Upfal's
+						and mine supervision.</li>
 						<li><strong>SDM'25:</strong> I'm the general chair of the <a
 						href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">2025
 						SIAM International Conference on Data Mining</a>, together
 						with <a href="https://www.cs.ucr.edu/~epapalex/">Vagelis</a>.</li>
-						<li><strong>AudioMostly'24:</strong> my student Daniel published <a
-						href="papers/FloresGarciaEtAl-ClaveNet-AudioMostly.pdf">ClaveNet</a>,
-						part of his honors thesis on generating Afro-Cuban drum patterns
-						through data augmentation. Definitively something unusual for
-						me.</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>
