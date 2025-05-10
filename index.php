@@ -66,7 +66,7 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						model for multigraphs with prescribed color assortativity. It was
 						selected for plenary oral presentation, but I'm mostly excited
 						about the fact that I finally published with Aris!</li>
-						<li>CRA:</li> the CRA has a great <a
+						<li><strong>CRA:</strong> the CRA has a great <a
 						href="https://cra.org/crn/2024/10/securing-machine-learning-with-sequestered-encryption-on-gpu-hardware/">interview</a>
 						with Maryam, who is doing their CS PhD at Brown under
 						<a href="https://cs.brown.edu/people/eupfal/">Eli Upfal</a>'s and
