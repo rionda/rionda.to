@@ -133,7 +133,7 @@
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
 					<li>G. Preti, M. Riondato, A. Gionis. G. De Francisci Morales. <a
-						href="papers/PretiEtAl-Polaris-WSDM/pdf"><span
+						href="papers/PretiEtAl-Polaris-WSDM.pdf"><span
 						style="font-variant:small-caps">Polaris</span>: Sampling
 						from the Multigraph Configuration Model with Prescribed Color
 						Assortativity</a>, <em>ACM WSDM'25</em>, 2025.</li>
