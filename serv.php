@@ -8,7 +8,8 @@
 		PKDD'19&mdash;25)</p>
 		<p class="notop">VLDB Journal (editorial board, 2025-)</p>
 		<h3>Organizing Committees</h3>
-		<p class="notop">2026: SIAM SDM'26 (General Co-Chair)</p>
+		<p class="notop">2026: SIAM SDM'26 (General Co-Chair),ACM KDD'26 (PhD
+			consortium Chair)</p>
 		<p class="notop">2025: ACM CIKM'25, (Tutorial Co-Chair), SIAM SDM'25
 			(General Co-Chair)</p>
 		<p class="notop">2024: SIAM SDM'24 (Blue-sky-idea Track PC Chair), ACM
