@@ -132,6 +132,11 @@
 				</ol>
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
+					<li>M. Abuissa, M. Riondato, E. Upfal.  <a
+						href="papers/AbuissaEtAl-DiNgHy-ECMLPKDD.pdf"><span
+						style="font-variant:small-caps">DiNgHy</span>: Null Models for
+						Non-Degenerate Directed Hypergraphs</a>, <em>ECML PKDD'25</em>,
+						2025.</li>
 					<li>G. Preti, M. Riondato, A. Gionis. G. De Francisci Morales. <a
 						href="papers/PretiEtAl-Polaris-WSDM.pdf"><span
 						style="font-variant:small-caps">Polaris</span>: Sampling

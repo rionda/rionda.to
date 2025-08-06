@@ -167,19 +167,19 @@ strong {
 }
 
 #techreps {
-	counter-reset: pubs 46;
+	counter-reset: pubs 47;
 }
 
 #tutorials {
-	counter-reset: pubs 49;
+	counter-reset: pubs 50;
 }
 
 #dissertation {
-	counter-reset: pubs 52;
+	counter-reset: pubs 53;
 }
 
 #otherpubs {
-	counter-reset:pubs 53;
+	counter-reset:pubs 54;
 }
 
 #pubs {
