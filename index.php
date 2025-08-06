@@ -52,7 +52,7 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 					<ul>
 						<li><strong>ECML PKDD:</strong> with <a
 						href="https://cs.brown.edu/people/grad/mabuissa">Maryam</a> and <a
-						href="https://cs.brown.edu/~eli">Eli</a>, we developed <a
+						href="https://cs.brown.edu/people/eupfal">Eli</a>, we developed <a
 						href="papers/AbuissaEtAl-DiNgHy-ECMLPKDD.pdf"><span
 						style="font-variant:small-caps">DiNgHy</span></a>, a set of null
 						models and algorithms for non-degenerate directed hypergraphs.</li>
