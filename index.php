@@ -50,7 +50,7 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
-						<li><strong>ECML PKDD:</strong> with <a
+						<li><strong>ECML PKDD'25:</strong> with <a
 						href="https://cs.brown.edu/people/grad/mabuissa">Maryam</a> and <a
 						href="https://cs.brown.edu/people/eupfal">Eli</a>, we developed <a
 						href="papers/AbuissaEtAl-DiNgHy-ECMLPKDD.pdf"><span
