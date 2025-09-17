@@ -10,7 +10,7 @@
 					College</a>, where I lead the <a
 					href="https://acdmammoths.github.io">Data* Mammoths</a>, a
 					research&amp;learning group of brilliant undergraduate students, and
-					I serve as the inaugural director of the <a
+					I serve as the founding director of the <a
 					href="https://www.amherst.edu/about/science_at_amherst/data-science-initiative">Data
 					Science Initiative</a>. I also have an appointment as visiting
 					faculty in <a href="https://cs.brown.edu">Computer Science at Brown

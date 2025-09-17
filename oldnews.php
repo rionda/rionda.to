@@ -25,7 +25,7 @@
 			work with <a href="https://giuliapreti.wixsite.com/gpreti">Giulia</a> and
 			<a href="https://gdfm.me">Gianmarco</a>, and my first time publishing in
 			a non-strictly-CS venue! Also, the result is pretty cool!</li>
-			<li><strong>DSI:</strong> I was appointed the inaugural director of the
+			<li><strong>DSI:</strong> I was appointed the founding director of the
 			<a
 			href="https://www.amherst.edu/about/science_at_amherst/data-science-initiative">Data
 			Science Initiative</a> at Amherst College. I'm excited about, and looking
