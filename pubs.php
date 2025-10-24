@@ -132,6 +132,11 @@
 				</ol>
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
+					<li>G. Preti, M. Riondato, A. Gionis. G. De Francisci Morales. <a
+						href="papers/PretiEtAl-DSP-WSDM.pdf"><span
+						style="font-variant:small-caps">DSP</span>: A
+						Statistically-Principled Structural Polarization Measure</a>,
+						<em>ACM WSDM'26</em>, 2026.</li>
 					<li>M. Abuissa, M. Riondato, E. Upfal.  <a
 						href="papers/AbuissaEtAl-DiNgHy-ECMLPKDD.pdf"><span
 						style="font-variant:small-caps">DiNgHy</span>: Null Models for

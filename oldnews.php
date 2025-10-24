@@ -5,6 +5,15 @@
 		<p>A list of old news, moved here from the home page, mostly for my
 		personal records.</p>
 		<ul>
+			<li><strong>WSDM'25:</strong> with <a
+			href="https://giuliapreti.wixsite.com/gpreti">Giulia</a>, <a
+			href="https://gdfm.me">Gianmarco</a>, and <a
+			href="https://www.kth.se/profile/argioni">Aris</a>, we published <a
+			href="papers/PretiEtAl-Polaris-WSDM.pdf"><span
+			style="font-variant:small-caps">Polaris</span></a>, a new null model for
+			multigraphs with prescribed color assortativity. It was selected for
+			plenary oral presentation, but I'm mostly excited about the fact that I
+			finally published with Aris!</li>
 			<li><strong>CRA:</strong> the CRA has a great <a
 			href="https://cra.org/crn/2024/10/securing-machine-learning-with-sequestered-encryption-on-gpu-hardware/">interview</a>
 			with Maryam, who is doing their CS PhD at Brown under

@@ -50,6 +50,14 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>WSDM'26:</strong> with long-term collaborators <a
+						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a>, <a
+						href="https://gdfm.me">Gianmarco</a>, and <a
+						href="https://www.kth.se/profile/argioni">Aris</a>, we present <a
+						href="papers/PretiEtAl-DSP-WSDM.pdf"><span
+						style="font-variant:small-caps">DSP</span></a> a
+						statistically-grounded measure for polarization. Selected for
+						plenary oral presentation.</li>
 						<li><strong>ECML PKDD'25:</strong> with <a
 						href="https://cs.brown.edu/people/grad/mabuissa">Maryam</a> and <a
 						href="https://cs.brown.edu/people/eupfal">Eli</a>, we developed <a
@@ -63,15 +71,6 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						winners are individuals I admire as people and researchers. I must
 						thank all my mentors, collaborators, and students throughout the
 						years for their support!</li>
-						<li><strong>WSDM'25:</strong> with <a
-						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a>, <a
-						href="https://gdfm.me">Gianmarco</a>, and <a
-						href="https://www.kth.se/profile/argioni">Aris</a>, we published <a
-						href="papers/PretiEtAl-Polaris-WSDM.pdf"><span
-						style="font-variant:small-caps">Polaris</span></a>, a new null
-						model for multigraphs with prescribed color assortativity. It was
-						selected for plenary oral presentation, but I'm mostly excited
-						about the fact that I finally published with Aris!</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>
