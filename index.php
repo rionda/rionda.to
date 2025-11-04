@@ -55,7 +55,7 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						href="https://gdfm.me">Gianmarco</a>, and <a
 						href="https://www.kth.se/profile/argioni">Aris</a>, we present <a
 						href="papers/PretiEtAl-DSP-WSDM.pdf"><span
-						style="font-variant:small-caps">DSP</span></a> a
+						style="font-variant:small-caps">DSP</span></a>, a
 						statistically-grounded measure for polarization. Selected for
 						plenary oral presentation.</li>
 						<li><strong>ECML PKDD'25:</strong> with <a
