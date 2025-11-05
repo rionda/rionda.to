@@ -3,17 +3,18 @@
 		<h2>Misc</h2>
 		<p><a href="cv/MatteoRiondato-bio.txt">A short bio for events, in
 			plaintext</a></p>
+		<p>A <a href="files/matteo_riondato_big.jpg">large headshot</a></p>
 		<p><a href="files/matteo_riondato.mp3">How to pronounce my name</a>
 		(muh-TAY-oh REE-awn-DAH-toh)</p>
 		<p><a href="files/matteogpg.asc">My PGP/GPG key</a>, that nobody ever
-			uses.</p>
+			usesa, and is likely expired.</p>
 		<p><a href="http://www.riondato.com">Silvio Riondato</a>, my father</p>
 		<p><a href="http://www.ezioriondato.org">Ezio
 			Riondato</a>, my grandfather, also on Italian Wikipedia: <a
 			href="http://it.wikipedia.org/wiki/Ezio_Riondato">Ezio Riondato</a></p>
 		<p><a href="http://www.FreeBSD.org">FreeBSD</a>, a UNIX-like operating
 			system. In my salad days, I used to be a FreeBSD src committer, and the
-			maintainer of FreeSBIE, a FreeBSD LiveCD. I still run FreeBSD on my
+			maintainer of FreeSBIE, a FreeBSD LiveCD. I run FreeBSD on all my
 			research machines.</p>
 		<p><a href="https://en.wikipedia.org/wiki/Padua">Padua</a>, my hometown in
 		  Italy</p>
