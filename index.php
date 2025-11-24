@@ -51,6 +51,11 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>KDD'26:</strong> <span
+						style="font-variant:small-caps">VaLUH</span>, <a
+						href="https://cs.brown.edu/people/grad/mabuissa">Maryam</a>'s work
+						on algorithms for the configuration model of undirected hypergraphs
+						was accepted in the first cycle.</li>
 						<li><strong>WSDM'26:</strong> with long-term collaborators <a
 						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a>, <a
 						href="https://gdfm.me">Gianmarco</a>, and <a
