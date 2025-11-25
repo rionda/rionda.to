@@ -53,8 +53,8 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 					<ul>
 						<li><strong>KDD'26:</strong> <span
 						style="font-variant:small-caps">VaLUH</span>, <a
-						href="https://cs.brown.edu/people/grad/mabuissa">Maryam</a>'s work
-						on algorithms for the configuration model of undirected hypergraphs
+						href="https://mabuissa24.github.io/">Maryam</a>'s work on
+						algorithms for the configuration model of undirected hypergraphs
 						was accepted in the first cycle.</li>
 						<li><strong>WSDM'26:</strong> with long-term collaborators <a
 						href="https://giuliapreti.wixsite.com/gpreti">Giulia</a>, <a
@@ -65,7 +65,7 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						statistically-grounded measure for polarization. Selected for
 						plenary oral presentation.</li>
 						<li><strong>ECML PKDD'25:</strong> with <a
-						href="https://cs.brown.edu/people/grad/mabuissa">Maryam</a> and <a
+						href="https://mabuissa24.github.io/">Maryam</a> and <a
 						href="https://cs.brown.edu/people/eupfal">Eli</a>, we developed <a
 						href="papers/AbuissaEtAl-DiNgHy-ECMLPKDD.pdf"><span
 						style="font-variant:small-caps">DiNgHy</span></a>, a set of null

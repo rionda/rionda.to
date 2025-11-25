@@ -329,7 +329,7 @@
 
 		<h3>Coauthors</h3>
 		<p class="notop"><a
-			href="https://cs.brown.edu/people/grad/mabuissa/">Maryam Abuissa</a>,
+			href="https://mabuissa24.github.io/">Maryam Abuissa</a>,
 			<a href="https://www.cs.brown.edu/~makdere/">Mert Akdere</a>,
 			<a href="http://www.aris.me/">Aris Anagnostopoulos</a>, Cigdem Aslay, <a
 			href="https://www.dis.uniroma1.it/~becchett/">Luca Becchetti</a>, <a
