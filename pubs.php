@@ -132,10 +132,11 @@
 				</ol>
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
-					<li>M. Abuissa, M. Riondato. <span
+					<li>M. Abuissa, M. Riondato. <a
+						href="papers/AbuissaRiondato-VaLUH-KDD.pdf"><span
 						style="font-variant:small-caps">VaLUH</span>: Fast Algorithms for
-						the Configuration Model of Vertex-Labeled Undirected Hypergraphs,
-						<em>ACM KDD'26</em>, 2026.</li>
+						the Configuration Model of Vertex-Labeled Undirected
+						Hypergraphs</a>, <em>ACM KDD'26</em>, 2026.</li>
 					<li>G. Preti, M. Riondato, A. Gionis. G. De Francisci Morales. <a
 						href="papers/PretiEtAl-DSP-WSDM.pdf"><span
 						style="font-variant:small-caps">DSP</span>: A

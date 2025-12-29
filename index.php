@@ -51,8 +51,9 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
-						<li><strong>KDD'26:</strong> <span
-						style="font-variant:small-caps">VaLUH</span>, <a
+						<li><strong>KDD'26:</strong> <a
+						href="papers/AbuissaRiondato-VaLUH-KDD.pdf"><span
+						style="font-variant:small-caps">VaLUH</span></a>, <a
 						href="https://mabuissa24.github.io/">Maryam</a>'s work on
 						algorithms for the configuration model of undirected hypergraphs
 						was accepted in the first cycle.</li>
