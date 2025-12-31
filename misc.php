@@ -7,7 +7,7 @@
 		<p><a href="files/matteo_riondato.mp3">How to pronounce my name</a>
 		(muh-TAY-oh REE-awn-DAH-toh)</p>
 		<p><a href="files/matteogpg.asc">My PGP/GPG key</a>, that nobody ever
-			usesa, and is likely expired.</p>
+			uses, and is likely expired.</p>
 		<p><a href="http://www.riondato.com">Silvio Riondato</a>, my father</p>
 		<p><a href="http://www.ezioriondato.org">Ezio
 			Riondato</a>, my grandfather, also on Italian Wikipedia: <a
