@@ -11,8 +11,8 @@
 		<p><a href="http://www.riondato.com">Silvio Riondato</a>, my father</p>
 		<p><a href="http://www.ezioriondato.org">Ezio
 			Riondato</a>, my grandfather, also on Italian Wikipedia: <a
-			href="http://it.wikipedia.org/wiki/Ezio_Riondato">Ezio Riondato</a></p>
-		<p><a href="http://www.FreeBSD.org">FreeBSD</a>, a UNIX-like operating
+			href="https://it.wikipedia.org/wiki/Ezio_Riondato">Ezio Riondato</a></p>
+		<p><a href="https://www.FreeBSD.org">FreeBSD</a>, a UNIX-like operating
 			system. In my salad days, I used to be a FreeBSD src committer, and the
 			maintainer of FreeSBIE, a FreeBSD LiveCD. I run FreeBSD on all my
 			research machines.</p>
