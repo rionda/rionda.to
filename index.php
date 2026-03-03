@@ -53,9 +53,10 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 					<ul>
 						<li><strong>WWW'26:</strong> <span
 						style="font-variant:small-caps">HomeRun</span>, Michelle's
-						undergraduate honors thesis on an almost-streaming approach to
-						Curveball trades, was accepted to the Graph Algorithms and Modeling
-						for the Web Track.</li>
+						undergraduate honors thesis on
+						<a href="papers/ContrerasCatalanRiondato-HomeRun-WWW.pdf">an
+						almost-streaming approach to Curveball trades</a>, was accepted to
+						the Graph Algorithms and Modeling for the Web Track.</li>
 						<li><strong>KDD'26:</strong> <a
 						href="papers/AbuissaRiondato-VaLUH-KDD.pdf"><span
 						style="font-variant:small-caps">VaLUH</span></a>, <a

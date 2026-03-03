@@ -132,10 +132,11 @@
 				</ol>
 				<h3 id="confsect">Conference Papers</h3>
 				<ol id="conferences">
-					<li>M. Contreras-Catalan, M. Riondato. <span
+					<li>M. Contreras-Catalan, M. Riondato. <a
+						href="papers/ContrerasCatalanRiondato-HomeRun-WWW.pdf"><span
 						style="font-variant:small-caps">HomeRun</span>: Performing
 						Curveball Trades quasi in Streaming for Fast Null Modeling of
-						Graphs, Hypergraphs, and Binary Matrices, <em>WWW'26</em>,
+						Graphs, Hypergraphs, and Binary Matrices</a>, <em>WWW'26</em>,
 						2026.</li>
 					<li>M. Abuissa, M. Riondato. <a
 						href="papers/AbuissaRiondato-VaLUH-KDD.pdf"><span
