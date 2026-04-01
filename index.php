@@ -71,19 +71,6 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						style="font-variant:small-caps">DSP</span></a>, a
 						statistically-grounded measure for polarization. Selected for
 						plenary oral presentation.</li>
-						<li><strong>ECML PKDD'25:</strong> with <a
-						href="https://mabuissa24.github.io/">Maryam</a> and <a
-						href="https://cs.brown.edu/people/eupfal">Eli</a>, we developed <a
-						href="papers/AbuissaEtAl-DiNgHy-ECMLPKDD.pdf"><span
-						style="font-variant:small-caps">DiNgHy</span></a>, a set of null
-						models and algorithms for non-degenerate directed hypergraphs.</li>
-						<li><strong>SDM/IBM Early Career Award:</strong> I am extremely
-						humbled to receive the <a
-						href="https://www.siam.org/conferences-events/siam-conferences/sdm25/program/special-events/">2025
-						SDM/IBM Early Career Data Mining Research Award</a>, as previous
-						winners are individuals I admire as people and researchers. I must
-						thank all my mentors, collaborators, and students throughout the
-						years for their support!</li>
 						<li><a href="oldnews.php">News archive</a></li>
 					</ul>
 				</div>
