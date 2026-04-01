@@ -51,6 +51,13 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>DMKD:</strong> The journal version of <a
+						href="papers/AbuissaEtAl-DiNgHy-DMKD.pdf"><span
+						style="font-variant:small-caps">DiNgHy</span></a>, a set of null
+						models and algorithms for non-degenerate directed and annotated
+						hypergraphs, was accepted. Joint work with<a
+						href="https://mabuissa24.github.io/">Maryam</a> and <a
+						href="https://cs.brown.edu/people/eupfal">Eli</a>.</li>
 						<li><strong>WWW'26:</strong> <a
 						 href="papers/ContrerasCatalanRiondato-HomeRun-WWW.pdf"><span
 						style="font-variant:small-caps">HomeRun</span></a>, Michelle's

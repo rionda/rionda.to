@@ -32,6 +32,11 @@
 			<div id="pubs">
 				<h3 id="joursect">Journal Articles</h3>
 				<ol id="journals">
+					<li>M. Abuissa, M. Riondato, E. Upfal.  <a
+						href="papers/AbuissaEtAl-DiNgHy-DMKD.pdf"><span
+						style="font-variant:small-caps">DiNgHy</span>: Null Models for
+						Non-Degenerate Directed Hypergraphs</a>, <em>Data Mining and 
+						Knowledge Discovery</em>, to appear.</li>
 					<li> G. Preti, G. De Francisci Morales, and M. Riondato.
 						<a
 						href="papers/PretiEtAl-ImpossibilityResultButterflies-PRE.pdf">Impossibility
