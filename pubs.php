@@ -35,7 +35,7 @@
 					<li>M. Abuissa, M. Riondato, E. Upfal.  <a
 						href="papers/AbuissaEtAl-DiNgHy-DMKD.pdf"><span
 						style="font-variant:small-caps">DiNgHy</span>: Null Models for
-						Non-Degenerate Directed Hypergraphs</a>, <em>Data Mining and 
+						Non-Degenerate Directed Hypergraphs</a>, <em>Data Mining and
 						Knowledge Discovery</em>, to appear.</li>
 					<li> G. Preti, G. De Francisci Morales, and M. Riondato.
 						<a
@@ -142,7 +142,9 @@
 						style="font-variant:small-caps">HomeRun</span>: Performing
 						Curveball Trades quasi in Streaming for Fast Null Modeling of
 						Graphs, Hypergraphs, and Binary Matrices</a>, <em>WWW'26</em>,
-						2026.</li>
+						2026.(<a
+						href="https://www.youtube.com/watch?v=SubYABAE_AQ">video</a> from a
+						Brown CS Theory Seminar)</li>
 					<li>M. Abuissa, M. Riondato. <a
 						href="papers/AbuissaRiondato-VaLUH-KDD.pdf"><span
 						style="font-variant:small-caps">VaLUH</span>: Fast Algorithms for

@@ -63,7 +63,10 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						style="font-variant:small-caps">HomeRun</span></a>, Michelle's
 						undergraduate honors thesis on an almost-streaming approach to
 						Curveball trades, was accepted to the Graph Algorithms and Modeling
-						for the Web Track.</li>
+						for the Web Track. <a
+						href="https://www.youtube.com/watch?v=SubYABAE_AQ">I talked about
+						<span style="font-variant:small-caps">HomeRun</span> at Brown CS
+						Theory seminar<a/>.</li>
 						<li><strong>KDD'26:</strong> <a
 						href="papers/AbuissaRiondato-VaLUH-KDD.pdf"><span
 						style="font-variant:small-caps">VaLUH</span></a>, <a
