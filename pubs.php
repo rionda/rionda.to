@@ -36,7 +36,7 @@
 						href="papers/AbuissaEtAl-DiNgHy-DMKD.pdf"><span
 						style="font-variant:small-caps">DiNgHy</span>: Null Models for
 						Non-Degenerate Directed Hypergraphs</a>, <em>Data Mining and
-						Knowledge Discovery</em>, 40(50), 20206.</li>
+						Knowledge Discovery</em>, 40(50), 2026.</li>
 					<li> G. Preti, G. De Francisci Morales, and M. Riondato.
 						<a
 						href="papers/PretiEtAl-ImpossibilityResultButterflies-PRE.pdf">Impossibility
