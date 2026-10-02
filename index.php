@@ -51,6 +51,13 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 				<div id="news" style="clear:both;">
 					<h2>News</h2>
 					<ul>
+						<li><strong>ESAW'26:</strong> Presenting on words of estimative
+						probability at the <a href="https://www.esaw.org">2026 Eastern Snow
+						and Avalanche Workshop</a>. I'm beyond excited to give a talk that
+						merges my professional expertise and my love for winter recreation
+						in the backcountry. I'm even more excited of giving it to the Mount
+						Washington backcountry community that has been so welcoming to
+						me.</li>
 						<li><strong>DMKD:</strong> The journal version of <a
 						href="papers/AbuissaEtAl-DiNgHy-DMKD.pdf"><span
 						style="font-variant:small-caps">DiNgHy</span></a>, a set of null
