@@ -59,7 +59,7 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 					  backcountry. I'm even more excited of giving it to the Mount
 					  Washington backcountry community that has been so welcoming to
 						me. Here are the <a
-						href="https://docs.google.com/presentation/d/1Xm28oUWDendUloz25JSpuY0tH9xR8QMf6p6Q7T8BMVU/edit?usp=sharing">slides</a></li>
+						href="https://docs.google.com/presentation/d/1Xm28oUWDendUloz25JSpuY0tH9xR8QMf6p6Q7T8BMVU/edit?usp=sharing">slides</a>.</li>
 						<li><strong>DMKD:</strong> The journal version of <a
 						href="papers/AbuissaEtAl-DiNgHy-DMKD.pdf"><span
 						style="font-variant:small-caps">DiNgHy</span></a>, a set of null

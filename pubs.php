@@ -337,7 +337,7 @@
 				<ol id="otherpubs">
 					<li>M. Riondato <a
 						href="https://docs.google.com/presentation/d/1Xm28oUWDendUloz25JSpuY0tH9xR8QMf6p6Q7T8BMVU/edit?usp=sharing">What's
-						'possible'? Role and Meaning of Likelihood in Avalanche eorecast
+						'possible'? Role and Meaning of Likelihood in Avalanche Forecast
 						Bulletins</a>, 2026 Eastern Snow and Avalanche Workshop</li>
 					<li>M. Riondato, <a
 						href="https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/jails.html">Jails</a>,
