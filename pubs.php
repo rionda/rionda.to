@@ -333,11 +333,16 @@
 						University Department of Computer Science</em>, 2014</li>
 				</ol>
 
-				<h3 id="othesect">Other technical writings</h3>
+				<h3 id="othesect">Other technical writings or talks</h3>
 				<ol id="otherpubs">
+					<li>M. Riondato <a
+						href="https://docs.google.com/presentation/d/1Xm28oUWDendUloz25JSpuY0tH9xR8QMf6p6Q7T8BMVU/edit?usp=sharing">What's
+						'possible'? Role and Meaning of Likelihood in Avalanche eorecast
+						Bulletins</a>, 2026 Eastern Snow and Avalanche Workshop</li>
 					<li>M. Riondato, <a
 						href="https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/jails.html">Jails</a>,
-					in <a href="https://www.freebsd.org/handbook">FreeBSD Handbook</a>.</li>
+					in <a href="https://www.freebsd.org/handbook">FreeBSD Handbook</a>
+					(Section rewritten a few years after my contribution).</li>
 				</ol>
 		</div>
 
