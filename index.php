@@ -54,7 +54,8 @@ href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238693&HistoricalAwards=
 						<li><strong>KDD'27/28:</strong> I am serving as Research Track
 						Co-Chair for the Feb'27, Aug'27, and Feb'28 submission cycles. It's
 						going to be a wild ride, but I'm happy and honored to serve my
-						research community.</li>
+						research community. See you in San Jose for <a
+						href="https://kdd2027.kdd.org/">KDD'27</a>.</li>
 						<li><strong>ESAW'26:</strong> Presenting on likelihood and words of
 						estimative probability in avalanche forecasting at the <a
 					  href="https://www.esaw.org">2026 Eastern Snow and Avalanche
